@@ -1,0 +1,1276 @@
+Order_ID,Order_Date,Shipping_Date,Customer_Segment,Product_Category,Quantity,Sales_USD,Shipping_Cost_USD,Delivery_Time_Days,Estimated_Delivery_Days,Distance_KM,Warehouse_Code,Region,Shipping_Mode,Delivery_Status,Customer_Rating
+ORD-2024-2179,2024-03-12,2024-03-13,Corporate,Apparel,1,79.81,66.97,6.9,5,1275.4,WH-Central,South,Standard Delivery,Delivered,5.0
+ORD-2024-1342,2024-02-06,2024-02-10,Consumer,Electronics,4,1192.24,46.28,5.7,5,508.9,WH-East,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1649,2024-03-13,2024-03-17,Corporate,Apparel,4,310.56,81.15,2.4,2,269.9,WH-North,East,Express Air,Delivered,4.0
+ORD-2024-1772,2024-03-20,2024-03-24,Consumer,Healthcare Supplies,8,953.17,103.39,8.0,5,1685.5,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1803,2024-05-08,2024-05-10,Corporate,Healthcare Supplies,2,250.5,75.37,3.7,7,737.2,WH-Central,South,Ground Freight,Delivered,5.0
+ORD-2024-1358,2024-05-20,2024-05-22,Small Business,Electronics,1,265.85,94.28,4.3,7,1112.7,WH-Central,North,Ground Freight,Delivered,4.0
+ORD-2024-1044,2024-05-05,2024-05-09,Consumer,Apparel,3,237.87,100.87,2.9,2,4876.331236048535,WH-North,North,Express Air,Delayed,3.0
+ORD-2024-1231,2024-04-05,2024-04-06,Corporate,Electronics,8,1918.02,79.83,7.7,5,1193.7,WH-West,East,,Delivered,3.0
+ORD-2024-1618,2024-06-04,2024-06-08,Home Office,Electronics,2,510.06,233.0,4.6,2,1976.2,WH-North,North,Express Air,Delivered,3.0
+ORD-2024-1043,2024-01-17,2024-01-18,Small Business,Industrial Machinery,1,1432.57,72.94,3.4,2,227.6,WH-West,East,Express Air,Delivered,4.0
+ORD-2024-1588,2024-05-19,2024-05-20,Consumer,Healthcare Supplies,2,206.91,155.16,1.6,1,641.1,WH-South,East,Same-Day Courier,Delivered,5.0
+ORD-2024-1063,2024-01-08,2024-01-12,Consumer,Apparel,1,60.35,28.49,4.8,5,274.7,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-2015,2024-02-02,2024-02-04,Small Business,Industrial Machinery,1,1259.91,79.4,,7,915.3,WH-Central,Central,Ground Freight,Delivered,4.0
+ORD-2024-1270,2024-03-15,2024-03-17,Home Office,Electronics,4,996.02,67.53,6.7,5,4726.684302721794,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-2140,2024-04-08,2024-04-10,Home Office,Office Supplies,3,107.21,59.94,6.7,5,805.6,WH-South,North,Standard Delivery,Delivered,3.0
+ORD-2024-1076,2024-03-19,2024-03-23,Home Office,Electronics,2,514.51,115.54,4.0,2,607.5,WH-East,Central,Express Air,Delayed,2.0
+ORD-2024-1081,2024-04-19,2024-04-21,Corporate,Apparel,10,553.47,85.13,5.8,5,1188.5,WH-West,Central,Standard Delivery,Delayed,3.0
+ORD-2024-1643,2024-05-16,2024-05-17,Consumer,Electronics,3,702.82,71.12,7.0,5,1225.9,WH-North,East,Standard Delivery,Delayed,2.0
+ORD-2024-1670,2024-02-06,2024-02-09,Consumer,Industrial Machinery,1,1484.31,60.07,7.0,7,694.4,WH-North,West,Ground Freight,Delivered,5.0
+ORD-2024-1486,2024-06-20,2024-06-21,Consumer,Office Supplies,2,80.66,38.51,5.0,5,468.5,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1155,2024-06-03,2024-06-06,Consumer,Office Supplies,3,110.66,,5.7,5,1123.0,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1718,2024-02-29,2024-03-03,Consumer,Office Supplies,5,159.65,71.04,7.2,5,1293.7,WH-Central,West,Standard Delivery,Delivered,3.0
+ORD-2024-1867,2024-03-15,2024-03-16,Consumer,Industrial Machinery,50,73446.01,142.31,6.9,5,401.7,WH-Central,South,Standard Delivery,Delivered,
+ORD-2024-1771,2024-05-12,2024-05-13,Home Office,Industrial Machinery,10,10652.52,161.75,1.0,2,529.6,WH-East,North,Express Air,Delivered,3.0
+ORD-2024-2181,2024-03-08,2024-03-09,Consumer,Apparel,3,178.98,-8.0,5.7,5,600.6,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1781,2024-05-20,2024-05-24,Corporate,Industrial Machinery,2,2757.87,67.18,7.3,5,1334.0,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-2030,2024-03-15,2024-03-18,Consumer,Electronics,1,257.71,107.6,4.5,2,687.1,WH-North,South,Express Air,Delivered,3.0
+ORD-2024-1858,2024-03-30,2024-04-02,Corporate,Electronics,1,233.83,67.43,6.5,5,1189.5,WH-Central,West,Standard Delivery,Delivered,
+ORD-2024-1732,2024-01-08,2024-01-09,Corporate,Office Supplies,3,91.95,232.31,2.2,2,1609.9,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1294,2024-06-06,2024-06-08,Consumer,Healthcare Supplies,15,1607.89,86.14,7.3,7,443.7,WH-South,South,Ground Freight,Delivered,5.0
+ORD-2024-1221,2024-06-07,2024-06-08,Corporate,Apparel,1,67.05,33.05,5.7,5,448.4,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-2192,2024-03-21,2024-03-24,Consumer,Apparel,8,477.33,62.01,6.4,7,332.7,WH-West,West,Ground Freight,Delivered,5.0
+ORD-2024-1184,2024-03-07,2024-03-11,Consumer,Electronics,1,219.93,149.29,10.0,7,2008.3,WH-South,South,Ground Freight,Delivered,4.0
+ORD-2024-1101,2024-05-18,2024-05-21,Corporate,Industrial Machinery,5,5292.08,216.14,6.1,2,1627.5,WH-North,North,Express Air,Delayed,1.0
+ORD-2024-1275,2024-05-02,2024-05-04,Corporate,Electronics,2,561.23,42.11,5.0,5,504.7,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-1023,2024-01-06,2024-01-10,Consumer,Electronics,1,310.44,,2.7,2,759.5,WH-West,South,Express Air,Delivered,4.0
+ORD-2024-1485,2024-06-04,2024-06-07,Small Business,Apparel,1,60.6,155.03,1.9,1,729.7,WH-South,Central,Same-Day Courier,Delivered,4.0
+ORD-2024-1078,2024-01-17,2024-01-18,Consumer,Industrial Machinery,4,4978.31,81.94,6.0,5,1427.1,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-2043,2024-03-13,2024-03-14,Corporate,Office Supplies,1,40.33,33.45,5.6,5,447.9,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-2213,2024-06-20,2024-06-23,Home Office,Industrial Machinery,3,3688.49,43.71,6.2,5,563.3,WH-West,East,Standard Delivery,Delivered,5.0
+ORD-2024-1128,2024-05-14,2024-05-16,Consumer,Office Supplies,8,288.16,101.65,7.6,5,1485.4,WH-East,East,Standard Delivery,Delayed,2.0
+ORD-2024-1997,2024-06-06,2024-06-09,Consumer,Apparel,2,155.95,71.67,6.6,7,922.3,WH-North,Central,Ground Freight,Delivered,4.0
+ORD-2024-1621,2024-05-10,2024-05-11,Consumer,Electronics,2,593.44,215.13,3.4,1,1159.7,WH-South,North,Same-Day Courier,Delayed,1.0
+ORD-2024-1668,2024-05-08,2024-05-09,Consumer,Office Supplies,2,75.78,59.84,7.1,5,1040.6,WH-South,West,Standard Delivery,Delivered,3.0
+ORD-2024-1051,2024-03-27,2024-03-30,Home Office,Healthcare Supplies,10,992.89,148.74,10.5,7,1915.3,WH-Central,North,Ground Freight,Returned,1.0
+ORD-2024-1479,2024-04-24,2024-04-27,Corporate,Industrial Machinery,1,1452.42,49.98,6.1,5,754.4,WH-North,Central,Standard Delivery,Delayed,2.0
+ORD-2024-1963,2024-03-08,2024-03-10,Consumer,Healthcare Supplies,1,111.13,117.1,8.5,7,1436.1,WH-West,East,Ground Freight,Delivered,4.0
+ORD-2024-1582,2024-05-27,2024-05-30,Corporate,Industrial Machinery,8,9003.84,69.39,7.4,7,386.5,WH-South,North,Ground Freight,Delivered,4.0
+ORD-2024-1730,2024-06-12,2024-06-13,Consumer,Electronics,4,1046.05,49.23,6.4,7,239.4,WH-North,East,Ground Freight,Delivered,5.0
+ORD-2024-1265,2024-03-18,2024-03-20,Corporate,Electronics,5,1369.52,126.38,3.7,2,523.8,WH-South,Central,Express Air,Delivered,4.0
+ORD-2024-1239,2024-06-11,2024-06-13,Consumer,Office Supplies,2,83.36,28.76,5.5,5,203.0,WH-Central,North,Standard Delivery,Delivered,3.0
+ORD-2024-1346,2024-01-25,2024-01-26,Corporate,Electronics,2,431.63,80.24,6.6,5,1394.3,WH-North,West,Standard Delivery,Delivered,
+ORD-2024-1306,2024-06-08,2024-06-11,Corporate,Industrial Machinery,1,1451.15,27.88,6.1,5,,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-2043,2024-03-13,2024-03-14,Corporate,Office Supplies,1,40.33,33.45,5.6,5,447.9,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1363,2024-03-20,2024-03-22,Corporate,Office Supplies,4,124.59,218.57,4.7,2,1379.8,WH-North,East,Express Air,Delivered,4.0
+ORD-2024-2072,2024-04-22,2024-04-26,Consumer,Industrial Machinery,2,2822.41,,3.0,5,197.0,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-2006,2024-01-12,2024-01-15,Corporate,Office Supplies,1,37.79,84.77,1.0,2,482.2,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1208,2024-04-23,2024-04-25,Consumer,Electronics,1,255.16,75.38,6.4,7,882.2,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1425,2024-05-24,2024-05-27,Corporate,Office Supplies,5,204.06,131.51,3.0,2,702.4,WH-Central,Central,Express Air,Delivered,3.0
+ORD-2024-1843,2024-01-21,2024-01-24,Small Business,Office Supplies,2,64.72,32.39,4.1,5,347.3,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1976,2024-02-08,2024-02-10,Corporate,Office Supplies,4,153.9,65.14,7.7,5,1036.3,WH-Central,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1220,2024-03-30,2024-04-03,Corporate,Industrial Machinery,1,1187.52,77.49,7.9,5,1604.7,WH-Central,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1905,2024-05-11,2024-05-12,Home Office,Electronics,1,294.99,118.62,2.2,2,605.3,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-2235,2024-06-06,2024-06-09,Consumer,Healthcare Supplies,4,549.13,74.07,8.3,7,,WH-North,East,Ground Freight,Delivered,4.0
+ORD-2024-1839,2024-04-26,2024-04-27,Corporate,Office Supplies,2,80.45,108.41,3.8,2,545.0,WH-West,West,Express Air,Delayed,2.0
+ORD-2024-1032,2024-04-06,2024-04-07,Consumer,Industrial Machinery,5,5285.97,178.34,3.4,2,1113.7,WH-North,South,Express Air,Delayed,1.0
+ORD-2024-1240,2024-03-02,2024-03-06,Small Business,Electronics,4,1090.55,146.44,1.4,1,597.5,WH-North,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1243,2024-03-29,2024-04-02,Consumer,Electronics,4,920.07,276.14,2.3,1,1435.0,WH-North,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2041,2024-01-25,2024-01-26,Home Office,Electronics,2,559.68,49.74,5.2,5,642.6,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1759,2024-02-03,2024-02-06,Home Office,Office Supplies,1,40.86,48.68,4.5,5,681.8,WH-Central,Central,,Delivered,3.0
+ORD-2024-1940,2024-04-03,2024-04-05,Consumer,Electronics,3,893.7,34.93,5.7,5,305.7,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-1168,2024-03-25,2024-03-26,Consumer,Office Supplies,1,41.84,29.84,5.7,5,257.8,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1834,2024-04-23,2024-04-27,Corporate,Office Supplies,1,33.37,36.94,7.0,7,263.0,WH-West,Central,Ground Freight,Delivered,4.0
+ORD-2024-1198,2024-04-21,2024-04-24,Home Office,Healthcare Supplies,1,126.18,54.95,6.4,5,887.3,WH-North,West,Standard Delivery,Delayed,3.0
+ORD-2024-1367,2024-03-15,2024-03-16,Small Business,Industrial Machinery,15,17915.37,114.56,8.7,5,,WH-South,West,Standard Delivery,Delayed,1.0
+ORD-2024-2002,2024-02-12,2024-02-13,Home Office,Industrial Machinery,1,1038.71,76.99,7.9,7,789.5,WH-West,Central,Ground Freight,Delayed,2.0
+ORD-2024-2047,2024-05-12,2024-05-13,Consumer,Electronics,1,234.09,112.87,1.4,2,782.9,WH-West,East,Express Air,Delivered,5.0
+ORD-2024-1706,2024-05-29,2024-05-30,Consumer,Industrial Machinery,1,1309.75,,7.4,7,928.6,WH-West,Central,,Delivered,3.0
+ORD-2024-2210,2024-03-05,2024-03-09,Consumer,Healthcare Supplies,1,103.31,47.57,4.6,5,709.7,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1859,2024-04-20,2024-04-23,Consumer,Healthcare Supplies,2,215.63,142.88,1.3,2,833.2,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1707,2024-03-04,2024-03-08,Home Office,Office Supplies,3,126.86,121.02,9.4,5,2377.6,WH-North,West,Standard Delivery,Delayed,3.0
+ORD-2024-1374,2024-01-15,2024-01-16,Consumer,Electronics,2,490.94,31.2,6.4,5,250.7,WH-West,West,Standard Delivery,Delivered,
+ORD-2024-1561,2024-05-25,2024-05-26,Consumer,Apparel,1,75.07,92.99,1.0,1,374.4,WH-Central,North,Same-Day Courier,Delivered,4.0
+ORD-2024-1549,2024-03-03,2024-03-04,Home Office,Electronics,4,973.36,78.69,5.5,5,1334.3,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-1777,2024-04-16,2024-04-17,Corporate,Healthcare Supplies,1,127.09,70.78,5.2,5,1290.3,WH-Central,East,Standard Delivery,Delivered,
+ORD-2024-1058,2024-05-31,2024-06-01,Consumer,Office Supplies,1,36.9,139.7,3.3,2,1019.6,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-2240,2024-02-21,2024-02-25,Home Office,Electronics,3,923.41,137.94,2.6,1,404.3,WH-Central,Central,Same-Day Courier,Delivered,4.0
+ORD-2024-2135,2024-01-11,2024-01-15,Consumer,Industrial Machinery,3,4030.48,47.49,4.8,5,662.5,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-1679,2024-01-30,2024-02-01,Home Office,Electronics,1,222.61,96.57,5.9,5,1679.0,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1590,2024-05-27,2024-05-29,Consumer,Office Supplies,2,82.02,36.82,4.2,5,465.7,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1513,2024-05-04,2024-05-06,Home Office,Office Supplies,3,130.08,90.42,2.4,2,387.9,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1575,2024-05-12,2024-05-16,Small Business,Office Supplies,1,34.64,27.61,6.2,5,302.6,WH-Central,Central,Standard Delivery,Delayed,1.0
+ORD-2024-1049,2024-05-16,2024-05-17,Consumer,Apparel,4,296.07,248.99,,2,,WH-East,North,,Delivered,4.0
+ORD-2024-1328,2024-06-24,2024-06-27,Consumer,Industrial Machinery,3,3852.43,91.58,6.0,5,1604.7,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1962,2024-03-24,2024-03-26,Consumer,Electronics,2,529.02,56.93,6.8,5,1096.3,WH-South,East,Standard Delivery,Delayed,2.0
+ORD-2024-1192,2024-05-15,2024-05-18,Small Business,Industrial Machinery,3,3257.37,52.44,9.3,7,462.1,WH-North,North,Ground Freight,Delayed,1.0
+ORD-2024-1086,2024-04-22,2024-04-25,Corporate,Electronics,2,480.14,69.2,6.8,7,824.5,WH-Central,North,Ground Freight,Delivered,4.0
+ORD-2024-1554,2024-05-17,2024-05-20,Home Office,Office Supplies,5,169.79,161.8,11.6,7,2099.4,WH-West,West,Ground Freight,Delayed,1.0
+ORD-2024-1743,2024-05-06,2024-05-07,Corporate,Electronics,1,311.69,172.75,2.5,1,794.2,WH-West,West,,Delivered,4.0
+ORD-2024-2182,2024-05-21,2024-05-23,Corporate,Healthcare Supplies,1,114.8,51.88,4.5,5,864.9,WH-Central,West,Standard Delivery,Delivered,5.0
+ORD-2024-1841,2024-01-20,2024-01-21,Corporate,Healthcare Supplies,5,595.7,55.97,6.4,5,663.8,WH-North,East,Standard Delivery,Delayed,1.0
+ORD-2024-1813,2024-03-14,2024-03-16,Small Business,Office Supplies,4,149.82,74.75,6.3,5,1355.0,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1977,2024-02-27,2024-02-28,Consumer,Industrial Machinery,1,1339.83,58.9,7.1,5,1113.1,WH-West,East,Standard Delivery,Delivered,3.0
+ORD-2024-2234,2024-06-04,2024-06-07,Corporate,Office Supplies,1,38.9,44.17,8.6,5,534.4,WH-East,North,Standard Delivery,Delayed,1.0
+ORD-2024-2141,2024-04-25,2024-04-29,Consumer,Electronics,4,1106.45,55.2,6.7,5,723.1,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1422,2024-03-24,2024-03-25,Consumer,Apparel,3,176.7,469.23,5.8,1,2681.7,WH-South,West,Same-Day Courier,Delayed,2.0
+ORD-2024-1513,2024-05-04,2024-05-06,Home Office,Office Supplies,3,130.08,90.42,2.4,2,387.9,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1453,2024-04-29,2024-05-01,Small Business,Office Supplies,3,102.99,34.97,6.9,5,333.9,WH-Central,East,Standard Delivery,Delayed,3.0
+ORD-2024-1123,2024-06-07,2024-06-08,Consumer,Office Supplies,2,86.78,44.98,7.4,5,584.1,WH-West,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1935,2024-01-03,2024-01-04,Consumer,Healthcare Supplies,1,122.39,74.57,1.2,2,372.3,WH-South,South,Express Air,Delivered,5.0
+ORD-2024-1898,2024-04-05,2024-04-07,Consumer,Office Supplies,1,39.19,178.78,3.3,1,1110.8,WH-Central,North,Same-Day Courier,Delivered,5.0
+ORD-2024-2195,2024-04-25,2024-04-27,Home Office,Office Supplies,2,87.43,45.73,5.0,5,583.7,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-1705,2024-04-14,2024-04-17,Small Business,Healthcare Supplies,3,340.05,63.1,7.0,5,1202.1,WH-North,West,Standard Delivery,Delayed,3.0
+ORD-2024-1308,2024-01-11,2024-01-15,Home Office,Apparel,3,193.19,46.03,6.2,7,369.1,WH-Central,East,,Delivered,5.0
+ORD-2024-1196,2024-03-21,2024-03-25,Corporate,Industrial Machinery,3,3315.18,187.33,3.9,2,1309.2,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1333,2024-05-19,2024-05-23,Consumer,Office Supplies,2,65.44,42.47,7.0,5,662.9,WH-West,South,Standard Delivery,Delayed,1.0
+ORD-2024-1420,2024-03-17,2024-03-21,Home Office,Office Supplies,2,71.59,34.59,4.6,5,310.3,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-2035,2024-03-23,2024-03-24,Corporate,Electronics,1,284.27,68.45,6.9,5,1309.8,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1254,2024-05-27,2024-05-30,Consumer,Office Supplies,1,38.1,52.96,7.6,7,550.6,WH-North,Central,Ground Freight,Delayed,2.0
+ORD-2024-1523,2024-06-14,2024-06-16,Home Office,Healthcare Supplies,3,342.01,63.53,5.0,5,1014.7,WH-East,South,Standard Delivery,Delivered,
+ORD-2024-1910,2024-03-15,2024-03-17,Corporate,Industrial Machinery,2,2315.86,58.17,4.3,5,937.3,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-1605,2024-03-20,2024-03-24,Corporate,Electronics,5,1553.74,186.47,2.6,2,4265.104699441829,WH-East,South,Express Air,Delayed,2.0
+ORD-2024-1289,2024-06-10,2024-06-13,Corporate,Office Supplies,4,143.29,124.45,3.8,2,780.1,WH-East,Central,Express Air,Delivered,5.0
+ORD-2024-1296,2024-02-28,2024-03-01,Home Office,Apparel,1,76.2,33.7,4.2,5,422.0,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1987,2024-02-27,2024-02-29,Consumer,Electronics,1,243.58,116.01,1.3,1,470.0,WH-South,North,Same-Day Courier,Delivered,4.0
+ORD-2024-1741,2024-04-10,2024-04-13,Consumer,Electronics,1,280.34,211.85,5.2,2,1684.6,WH-West,South,Express Air,Returned,1.0
+ORD-2024-1712,2024-01-25,2024-01-27,Corporate,Apparel,2,124.08,70.73,8.1,5,1112.2,WH-Central,North,Standard Delivery,Returned,1.0
+ORD-2024-2223,2024-03-14,2024-03-17,Small Business,Apparel,3,208.79,58.04,3.5,5,762.6,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1029,2024-01-02,2024-01-04,Consumer,Office Supplies,1,33.09,49.08,5.8,5,647.3,WH-Central,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1634,2024-02-25,2024-02-26,Consumer,Electronics,2,454.89,59.06,6.0,5,1056.4,WH-Central,North,Standard Delivery,Delayed,1.0
+ORD-2024-1355,2024-03-13,2024-03-16,Corporate,Office Supplies,5,190.46,50.62,4.9,5,609.6,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1031,2024-04-10,2024-04-13,Consumer,Apparel,1,69.95,204.28,5.1,2,1524.8,WH-South,West,Express Air,Delayed,2.0
+ORD-2024-1806,2024-02-23,2024-02-27,Small Business,Office Supplies,1,32.28,71.32,5.8,5,1147.9,WH-East,South,Standard Delivery,Delayed,1.0
+ORD-2024-1672,2024-05-04,2024-05-08,Consumer,Industrial Machinery,3,3218.0,102.87,4.9,2,367.3,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-1851,2024-04-19,2024-04-20,Corporate,Office Supplies,-1,63.34,156.61,1.5,1,627.0,WH-West,South,Same-Day Courier,Delivered,3.0
+ORD-2024-1070,2024-02-23,2024-02-25,Home Office,Electronics,2,444.0,147.2,1.8,2,1021.7,WH-South,South,Express Air,Delivered,
+ORD-2024-2131,2024-01-25,2024-01-27,Corporate,Apparel,1,64.61,88.51,9.8,7,1242.4,WH-East,North,Ground Freight,Delivered,4.0
+ORD-2024-1478,2024-03-07,2024-03-09,Small Business,Apparel,8,551.68,86.2,6.9,7,811.0,WH-East,West,Ground Freight,Delivered,4.0
+ORD-2024-2088,2024-03-13,2024-03-14,Small Business,Electronics,2,517.83,146.96,,2,922.5,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1598,2024-02-05,2024-02-07,Consumer,Apparel,2,150.31,171.78,3.9,2,1417.2,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-1722,2024-03-10,2024-03-12,Consumer,Electronics,2,613.13,47.23,7.0,7,336.1,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1581,2024-05-09,2024-05-13,Small Business,Industrial Machinery,1,1429.49,36.23,5.7,5,412.6,WH-North,Central,Standard Delivery,Delayed,
+ORD-2024-1923,2024-06-10,2023-12-15,Home Office,Apparel,1,71.14,148.08,3.2,2,912.2,WH-North,North,Express Air,Delayed,3.0
+ORD-2024-1527,2024-02-08,2024-02-10,Consumer,Office Supplies,1,38.06,43.31,5.3,5,519.0,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-2146,2024-01-25,2024-01-29,Home Office,Electronics,5,1151.04,103.29,1.3,2,484.7,WH-North,East,Express Air,Delivered,5.0
+ORD-2024-1113,2024-04-13,2024-04-15,Home Office,Industrial Machinery,1,1426.85,125.61,1.8,2,949.2,WH-South,West,Express Air,Delivered,3.0
+ORD-2024-1998,2024-05-20,2024-05-21,Small Business,Industrial Machinery,1,1445.9,37.01,3.4,5,482.2,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1435,2024-03-26,2024-03-30,Corporate,Apparel,1,57.99,114.72,2.5,2,686.3,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-2239,2024-02-12,2024-02-16,Consumer,Office Supplies,1,30.68,123.74,8.6,7,1783.3,WH-West,East,Ground Freight,Delivered,3.0
+ORD-2024-1497,2024-04-16,2024-04-20,Consumer,Electronics,1,228.13,62.02,9.4,7,714.3,WH-North,South,Ground Freight,Delayed,1.0
+ORD-2024-1107,2024-01-11,2024-01-13,Home Office,Office Supplies,4,167.71,58.77,6.4,5,727.9,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1988,2024-05-21,2024-05-24,Consumer,Electronics,2,615.73,162.37,4.0,2,1137.2,WH-South,North,Express Air,Delivered,4.0
+ORD-2024-2018,2024-01-15,2024-01-18,Small Business,Electronics,8,1744.77,231.69,2.9,2,1518.8,WH-West,North,Express Air,Delivered,3.0
+ORD-2024-1667,2024-01-16,2024-01-19,Consumer,Industrial Machinery,2,2097.15,108.35,8.6,7,1471.5,WH-North,North,Ground Freight,Delivered,5.0
+ORD-2024-2174,2024-06-10,2024-06-14,Corporate,Electronics,3,922.67,82.1,2.1,2,334.7,WH-North,East,Express Air,Delivered,4.0
+ORD-2024-2148,2024-03-09,2024-03-12,Home Office,Industrial Machinery,2,2982.08,142.68,3.4,2,969.0,WH-North,East,Express Air,Delivered,5.0
+ORD-2024-1746,2024-04-15,2024-04-17,Consumer,Healthcare Supplies,1,100.79,74.37,2.7,2,383.2,WH-East,East,Express Air,Delayed,2.0
+ORD-2024-1451,2024-05-23,2024-05-26,Corporate,Office Supplies,3,125.16,43.11,4.9,5,596.8,WH-North,West,Standard Delivery,Delivered,5.0
+ORD-2024-1934,2024-05-15,2024-05-17,Consumer,Industrial Machinery,1,1164.28,50.26,4.4,5,679.4,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1429,2024-06-02,2024-06-03,Consumer,Industrial Machinery,3,3340.27,72.41,1.4,2,227.1,WH-South,South,Express Air,Delivered,5.0
+ORD-2024-1261,2024-01-08,2024-01-09,Small Business,Apparel,4,286.33,51.04,6.6,7,301.1,WH-South,North,Ground Freight,Delivered,4.0
+ORD-2024-1816,2024-03-10,2024-03-11,Corporate,Electronics,8,1757.85,39.44,4.4,5,235.6,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-1553,2024-04-01,2024-04-02,Corporate,Electronics,1,294.19,79.73,1.9,2,437.5,WH-East,South,Express Air,Delivered,4.0
+ORD-2024-2133,2024-05-28,2024-05-31,Consumer,Office Supplies,2,62.27,33.09,6.5,5,384.9,WH-North,South,Standard Delivery,Delayed,2.0
+ORD-2024-1174,2024-05-12,2024-05-15,Corporate,Healthcare Supplies,2,222.58,65.44,4.3,5,957.7,WH-Central,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1862,2024-05-24,2024-05-26,Corporate,Electronics,1,254.49,75.45,6.5,5,1257.2,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1519,2024-04-15,2024-04-18,Consumer,Office Supplies,5,174.42,113.15,1.0,2,425.5,WH-Central,West,Express Air,Delivered,5.0
+ORD-2024-1297,2024-05-17,2024-05-21,Consumer,Industrial Machinery,1,1097.58,89.86,1.0,2,447.6,WH-East,East,Express Air,Delivered,4.0
+ORD-2024-1377,2024-02-03,2024-02-04,Consumer,Office Supplies,1,38.17,25.81,4.4,5,224.6,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1739,2024-04-13,2024-04-16,Consumer,Apparel,4,298.63,36.12,5.8,5,357.8,WH-East,East,Standard Delivery,Delayed,3.0
+ORD-2024-1423,2024-02-21,2024-02-24,Corporate,Apparel,2,141.04,58.01,5.2,5,859.6,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1054,2024-03-24,2024-03-26,Corporate,Apparel,1,76.89,53.64,7.2,5,,WH-South,North,Standard Delivery,Delivered,3.0
+ORD-2024-1277,2024-06-20,2024-06-21,Corporate,Office Supplies,5,191.14,41.34,4.3,5,392.4,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1892,2024-01-31,2024-02-04,Home Office,Apparel,2,151.66,61.39,7.7,5,1110.0,WH-Central,Central,Standard Delivery,Delayed,1.0
+ORD-2024-1056,2024-03-07,2024-03-08,Consumer,Apparel,1,72.89,87.52,6.8,5,1618.7,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1578,2024-02-03,2024-02-04,Corporate,Apparel,2,124.65,108.95,1.4,1,445.8,WH-North,North,Same-Day Courier,Delivered,3.0
+ORD-2024-1109,2024-06-12,2024-06-16,Consumer,Industrial Machinery,2,2980.08,155.31,1.6,1,677.4,WH-West,North,Same-Day Courier,Delivered,3.0
+ORD-2024-1210,2024-01-16,2024-01-20,Corporate,Office Supplies,2,62.61,214.19,2.6,1,1009.9,WH-East,West,,Delivered,4.0
+ORD-2024-1904,2024-03-14,2024-03-16,Consumer,Electronics,1,294.21,48.81,5.4,5,791.6,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-1312,2024-06-23,2024-06-25,Consumer,Apparel,1,81.03,170.84,1.7,1,1012.9,WH-West,West,Same-Day Courier,Delivered,5.0
+ORD-2024-1209,2024-01-20,2024-01-24,Consumer,Industrial Machinery,8,8874.06,62.03,6.5,5,604.9,WH-North,South,Standard Delivery,Delivered,3.0
+ORD-2024-2080,2024-04-20,2024-04-23,Home Office,Electronics,1,230.87,53.04,6.9,5,878.8,WH-West,East,,Delivered,4.0
+ORD-2024-2202,2024-01-15,2024-01-18,Consumer,Industrial Machinery,10,11164.18,257.83,1.7,1,1222.9,WH-South,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1218,2024-04-14,2024-04-16,Corporate,Apparel,2,151.53,54.63,6.3,5,702.6,WH-East,West,Standard Delivery,Delayed,2.0
+ORD-2024-1942,2024-06-13,2024-06-16,Corporate,Industrial Machinery,1,1238.41,46.79,4.8,5,774.3,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1361,2024-06-15,2024-06-16,Corporate,Industrial Machinery,1,1217.3,55.12,-0.5,5,1097.6,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1762,2024-06-24,2024-06-26,Consumer,Healthcare Supplies,3,368.79,319.96,3.2,1,1919.6,WH-North,South,  same-day courier  ,Delayed,1.0
+ORD-2024-1493,2024-03-27,2024-03-28,Consumer,Electronics,3,898.88,33.25,6.8,5,337.5,WH-East,South,Standard Delivery,Delivered,3.0
+ORD-2024-1303,2024-03-02,2024-03-06,Corporate,Apparel,5,375.4,89.76,6.8,7,825.9,WH-East,Central,Ground Freight,Delivered,4.0
+ORD-2024-1494,2024-03-24,2024-03-25,Corporate,Office Supplies,1,41.33,68.99,6.6,5,1135.0,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1427,2024-04-02,2024-04-03,Home Office,Office Supplies,2,62.65,29.48,6.3,5,316.4,WH-West,Central,Standard Delivery,Delivered,3.0
+ORD-2024-2185,2024-04-02,2024-04-04,Small Business,Office Supplies,2,59.61,43.68,5.8,7,342.0,WH-South,East,Ground Freight,Delivered,5.0
+ORD-2024-1528,2024-05-18,2024-05-20,Consumer,Electronics,3,717.7,62.08,3.8,5,828.5,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1534,2024-05-25,2024-05-29,Home Office,Industrial Machinery,1,1141.01,92.06,7.4,5,1712.9,WH-East,South,Standard Delivery,Delivered,3.0
+ORD-2024-1886,2024-05-23,2024-05-24,Corporate,Electronics,1,216.13,76.44,1.0,2,259.5,WH-South,North,Express Air,Delivered,4.0
+ORD-2024-1754,2024-03-01,2024-03-02,Consumer,Electronics,1,241.57,130.24,2.1,1,502.2,WH-East,South,Same-Day Courier,Delivered,4.0
+ORD-2024-1889,2024-03-17,2024-03-18,Consumer,Apparel,1,64.59,67.93,6.7,5,1255.9,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1918,2024-06-17,2024-06-21,Home Office,Industrial Machinery,2,2449.89,54.67,4.3,5,811.6,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1968,2024-03-16,2024-03-18,Corporate,Apparel,2,140.92,220.27,2.0,1,1235.1,WH-South,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1828,2024-02-22,2024-02-26,Corporate,Healthcare Supplies,1,118.57,60.94,5.9,5,911.7,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-1170,2024-01-31,2024-02-02,Corporate,Office Supplies,1,36.24,31.18,6.2,5,259.6,WH-Central,East,Standard Delivery,Delayed,1.0
+ORD-2024-1298,2024-04-08,2024-04-11,Corporate,Electronics,4,967.13,95.13,6.1,5,1533.1,WH-Central,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2219,2024-04-13,2024-04-17,Consumer,Office Supplies,3,97.9,34.66,3.4,5,421.3,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-1394,2024-03-01,2024-03-03,Consumer,Electronics,1,238.14,172.22,5.2,2,1168.3,WH-Central,North,Express Air,Delayed,1.0
+ORD-2024-1651,2024-02-22,2024-02-25,Corporate,Electronics,3,677.84,167.12,3.8,2,1221.1,WH-East,North,Express Air,Delayed,1.0
+ORD-2024-1583,2024-03-01,2024-03-02,Consumer,Apparel,5,284.67,,1.0,2,819.3,WH-East,East,Express Air,Delivered,4.0
+ORD-2024-1382,2024-06-15,2024-06-18,Corporate,Industrial Machinery,10,11226.83,60.45,4.3,5,458.1,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1332,2024-04-22,2024-04-23,Consumer,Industrial Machinery,3,3220.29,64.79,5.6,5,1145.0,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1461,2024-03-06,2024-03-08,Corporate,Electronics,1,246.23,37.1,4.9,5,584.3,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1477,2024-05-31,2024-06-03,Corporate,Healthcare Supplies,1,124.95,76.35,1.1,2,249.8,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1522,2024-02-05,2024-02-09,Small Business,Apparel,2,118.32,97.04,2.0,2,491.5,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1233,2024-04-12,2024-04-14,Corporate,Electronics,4,895.42,51.12,5.4,5,,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1872,2024-05-07,2024-05-08,Corporate,Healthcare Supplies,1,101.36,105.09,2.2,2,604.5,WH-North,South,Express Air,Delivered,4.0
+ORD-2024-1199,2024-05-05,2024-05-08,Home Office,Industrial Machinery,2,2673.02,36.94,5.2,5,500.2,WH-North,West,  standard delivery  ,Delivered,3.0
+ORD-2024-2169,2024-05-31,2024-06-03,Consumer,Office Supplies,1,39.19,52.63,6.0,5,732.3,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-1247,2024-03-26,2024-03-30,Small Business,Office Supplies,-3,29.96,67.47,9.3,7,821.5,WH-South,North,Ground Freight,Delivered,5.0
+ORD-2024-2087,2024-05-10,2024-05-12,Consumer,Office Supplies,4,119.34,93.02,10.6,5,1475.8,WH-South,West,Standard Delivery,Returned,1.0
+ORD-2024-1594,2024-05-05,2024-05-06,Home Office,Healthcare Supplies,4,387.05,34.74,4.9,5,274.7,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1010,2024-01-28,2024-01-30,Consumer,Electronics,4,1220.62,50.74,5.3,5,807.6,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1147,2024-06-20,2024-06-24,Corporate,Electronics,5,1554.12,71.13,7.8,7,612.9,WH-West,East,Ground Freight,Delayed,3.0
+ORD-2024-1538,2024-05-07,2024-05-11,Corporate,Electronics,1,230.65,185.97,,2,1454.0,WH-South,North,Express Air,Delivered,5.0
+ORD-2024-2033,2024-03-28,2024-03-30,Consumer,Electronics,4,985.39,62.48,5.2,5,953.0,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1818,2024-04-03,2024-04-06,Consumer,Electronics,8,-99.9,261.32,3.3,1,1010.3,WH-North,West,  same-day courier  ,Delivered,5.0
+ORD-2024-1344,2024-01-24,2024-01-25,Consumer,Apparel,8,460.84,177.19,1.0,1,603.5,WH-South,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1506,2024-03-05,2024-03-07,Small Business,Healthcare Supplies,15,1431.25,250.38,3.4,2,1076.1,WH-Central,Central,Express Air,Delivered,3.0
+ORD-2024-1163,2024-04-21,2024-04-24,Corporate,Electronics,2,554.36,54.6,4.4,5,983.3,WH-Central,West,  standard delivery  ,Delivered,5.0
+ORD-2024-1780,2024-04-07,2024-04-11,Corporate,Electronics,1,285.38,123.99,2.4,2,669.4,WH-South,East,Express Air,Delivered,5.0
+ORD-2024-1533,2024-05-20,2024-05-22,Corporate,Industrial Machinery,2,2579.79,43.03,7.0,7,222.8,WH-North,North,Ground Freight,Delivered,
+ORD-2024-1680,2024-01-20,2024-01-21,Home Office,Industrial Machinery,1,1404.92,74.0,5.7,5,1333.9,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1731,2024-03-19,2024-03-21,Home Office,Apparel,1,56.0,43.67,5.3,5,580.2,WH-East,East,Standard Delivery,Delivered,3.0
+ORD-2024-2170,2024-04-20,2024-04-24,Corporate,Electronics,2,505.75,54.75,4.2,5,941.6,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1447,2024-02-25,2024-02-26,Home Office,Electronics,1,291.49,133.66,1.5,2,860.5,WH-South,East,Express Air,Delivered,5.0
+ORD-2024-1405,2024-03-10,2024-03-14,Home Office,Healthcare Supplies,2,211.11,88.6,7.2,7,1021.6,WH-North,North,Ground Freight,Delivered,5.0
+ORD-2024-1244,2024-04-05,2024-04-08,Consumer,Industrial Machinery,5,6237.08,192.59,4.1,2,1389.2,WH-East,East,Express Air,Delivered,4.0
+ORD-2024-1428,2024-06-12,2024-06-14,Consumer,Electronics,1,303.71,168.24,2.7,2,1380.2,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1814,2024-04-03,2024-04-07,Home Office,Electronics,5,1123.54,97.08,6.6,5,1709.2,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1135,2024-01-07,2024-01-08,Consumer,Office Supplies,1,37.36,75.31,6.7,5,1619.0,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1327,2024-06-28,2024-06-29,Corporate,Industrial Machinery,4,4238.12,50.13,6.3,5,660.5,WH-South,North,Standard Delivery,Delayed,2.0
+ORD-2024-1745,2024-01-10,2024-01-13,Home Office,Industrial Machinery,5,6086.5,157.58,3.9,2,1088.1,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1650,2024-03-24,2024-03-27,Consumer,Industrial Machinery,4,5013.94,184.61,1.4,2,1066.4,WH-North,East,Express Air,Delivered,5.0
+ORD-2024-2138,2024-02-19,2024-02-20,Corporate,Apparel,1,71.75,173.43,5.5,2,1477.2,WH-North,South,Express Air,Delayed,
+ORD-2024-1919,2024-01-29,2024-01-30,Consumer,Office Supplies,3,110.78,116.64,1.5,2,548.8,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-2214,2024-05-17,2024-05-20,Corporate,Industrial Machinery,5,6496.3,67.71,6.1,7,516.9,WH-East,Central,Ground Freight,Delivered,5.0
+ORD-2024-1398,2024-03-10,2024-03-14,Home Office,Apparel,2,115.47,46.81,5.8,5,602.5,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1331,2024-06-25,2024-06-26,Home Office,Office Supplies,3,130.29,34.25,5.1,5,381.0,WH-North,West,Standard Delivery,Delivered,5.0
+ORD-2024-1158,2024-01-20,2024-01-22,Consumer,Industrial Machinery,5,5397.31,60.99,4.5,5,931.1,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1140,2024-03-30,2024-04-02,Small Business,Electronics,5,1374.25,99.32,3.9,2,425.8,WH-West,South,Express Air,Delayed,3.0
+ORD-2024-1259,2024-02-15,2024-02-19,Consumer,Apparel,3,177.76,68.49,6.8,7,757.1,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1339,2024-02-18,2024-02-22,Consumer,Apparel,3,243.13,64.77,6.1,5,987.9,WH-North,South,Standard Delivery,Delayed,2.0
+ORD-2024-1994,2024-02-02,2024-02-03,Consumer,Apparel,3,195.0,49.81,3.4,5,634.6,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1701,2024-05-16,2024-05-17,Consumer,Electronics,3,780.27,66.82,4.7,5,1089.4,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-2105,2024-04-09,2024-04-13,Consumer,Electronics,8,2251.33,66.22,5.4,5,816.6,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1424,2024-01-31,2024-02-01,Consumer,Apparel,1,60.48,39.27,6.1,5,570.1,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1944,2024-01-20,2024-01-23,Consumer,Electronics,1,257.47,222.56,3.2,1,1132.1,WH-South,Central,Same-Day Courier,Delayed,2.0
+ORD-2024-1065,2024-06-11,2024-06-12,Corporate,Industrial Machinery,1,1237.45,32.24,5.2,5,383.5,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1413,2024-05-06,2024-05-07,Corporate,Office Supplies,2,68.29,47.23,5.5,5,771.4,WH-South,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1778,2024-05-24,2024-05-25,Corporate,Electronics,2,574.09,51.88,8.8,7,520.0,WH-East,South,,Delivered,4.0
+ORD-2024-2107,2024-02-20,2024-02-22,Home Office,Electronics,1,309.06,69.7,5.7,5,1272.2,WH-Central,South,Standard Delivery,Delayed,1.0
+ORD-2024-1096,2024-02-26,2024-03-01,Corporate,Office Supplies,2,-420.0,156.68,8.4,7,2183.6,WH-Central,South,Ground Freight,Delivered,4.0
+ORD-2024-1309,2024-04-11,2024-04-13,Consumer,Healthcare Supplies,5,518.67,49.6,5.2,7,294.4,WH-Central,West,Ground Freight,Delivered,5.0
+ORD-2024-2078,2024-04-02,2024-04-05,Consumer,Industrial Machinery,1,1100.84,206.3,4.4,2,1475.4,WH-South,West,  express air  ,Delivered,5.0
+ORD-2024-1626,2024-04-03,2024-04-06,Corporate,Industrial Machinery,2,2052.15,25.48,5.8,5,90.2,WH-South,West,,Delivered,4.0
+ORD-2024-1156,2024-05-22,2024-05-26,Corporate,Apparel,1,76.33,37.82,6.5,5,611.1,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1724,2024-01-31,2024-02-04,Corporate,Electronics,1,243.48,36.4,4.1,5,409.5,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1609,2024-06-27,2024-06-28,Corporate,Apparel,1,77.71,42.12,7.7,5,724.1,WH-North,East,Standard Delivery,Delivered,3.0
+ORD-2024-2132,2024-01-12,2024-01-15,Consumer,Healthcare Supplies,1,112.0,133.91,4.1,2,801.3,WH-West,East,Express Air,Delayed,1.0
+ORD-2024-1503,2024-06-03,2024-06-07,Home Office,Electronics,8,1915.04,63.0,4.5,5,577.8,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-2063,2024-04-14,2024-04-17,Consumer,Apparel,1,60.44,190.45,3.5,2,1350.0,WH-East,South,Express Air,Delivered,5.0
+ORD-2024-2050,2024-03-29,2024-04-02,Home Office,Apparel,2,133.61,196.23,2.8,2,1397.9,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1380,2024-01-29,2024-01-31,Consumer,Apparel,1,67.93,53.3,5.6,5,751.5,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1933,2024-01-19,2024-01-23,Corporate,Office Supplies,2,71.19,192.15,2.0,1,883.1,WH-South,South,Same-Day Courier,Delivered,
+ORD-2024-1535,2024-06-17,2024-06-20,Small Business,Apparel,1,80.08,59.95,4.2,5,905.0,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-1282,2024-01-23,2024-01-25,Consumer,Apparel,1,69.55,43.85,4.2,5,611.7,WH-North,Central,Standard Delivery,Delivered,5.0
+ORD-2024-2217,2024-02-07,2024-02-10,Corporate,Electronics,2,533.49,41.37,5.4,5,472.8,WH-West,North,Standard Delivery,Delivered,3.0
+ORD-2024-1409,2024-03-01,2024-03-04,Consumer,Office Supplies,4,159.3,134.75,4.0,2,710.3,WH-East,South,Express Air,Delivered,
+ORD-2024-2054,2024-04-25,2024-04-29,Small Business,Healthcare Supplies,2,224.03,50.0,7.8,7,469.6,WH-West,North,Ground Freight,Delivered,4.0
+ORD-2024-2068,2024-04-20,2024-04-23,Consumer,Office Supplies,1,38.49,35.37,6.2,5,534.2,WH-Central,West,Standard Delivery,Delivered,3.0
+ORD-2024-1584,2024-05-28,2024-06-01,Corporate,Apparel,2,148.92,37.81,4.0,5,555.8,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1573,2024-04-03,2024-04-06,Corporate,Apparel,5,319.19,111.03,1.5,2,419.3,WH-East,South,Express Air,Delivered,5.0
+ORD-2024-1925,2024-02-23,2024-02-24,Consumer,Apparel,10,603.38,204.23,2.2,2,1026.3,WH-Central,East,Express Air,Delivered,4.0
+ORD-2024-1178,2024-03-29,2024-03-31,Small Business,Industrial Machinery,1,1031.5,829.2530042513488,1.0,2,357.8,WH-West,North,Express Air,Delivered,
+ORD-2024-1993,2024-04-05,2024-04-09,Corporate,Healthcare Supplies,1,136.55,50.69,4.8,5,727.5,WH-Central,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1967,2024-01-04,2024-01-07,Consumer,Electronics,3,691.11,53.64,5.8,5,696.4,WH-Central,West,Standard Delivery,Delivered,5.0
+ORD-2024-1286,2024-04-27,2024-04-28,Corporate,Electronics,3,848.36,224.94,1.0,1,1033.0,WH-Central,Central,  same-day courier  ,Delivered,5.0
+ORD-2024-1390,2024-04-11,2024-04-12,Small Business,Office Supplies,1,35.73,56.02,7.8,5,869.4,WH-South,South,Standard Delivery,Delivered,
+ORD-2024-1864,2024-06-27,2024-07-01,Consumer,Industrial Machinery,5,6928.02,108.78,3.7,2,399.4,WH-North,Central,Express Air,Delayed,1.0
+ORD-2024-1088,2024-03-25,2024-03-26,Home Office,Electronics,5,1449.86,96.78,1.4,2,362.3,WH-Central,North,Express Air,Delivered,5.0
+ORD-2024-1807,2024-05-01,2024-05-03,Small Business,Office Supplies,3,122.73,198.93,1.5,1,839.1,WH-West,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2005,2024-05-04,2024-05-07,Corporate,Industrial Machinery,3,3918.57,95.71,1.0,1,233.5,WH-Central,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1899,2024-06-16,2024-06-18,Consumer,Apparel,2,133.12,84.53,,2,396.2,WH-North,East,Express Air,Delivered,5.0
+ORD-2024-1490,2024-06-25,2024-06-27,Corporate,Apparel,2,146.0,49.31,4.8,5,725.4,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-2042,2024-02-15,2024-02-19,Consumer,Electronics,4,857.34,47.43,6.6,5,667.5,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-2127,2024-05-25,2024-05-28,Consumer,Apparel,3,181.42,71.11,8.7,5,1320.0,WH-West,Central,Standard Delivery,Returned,1.0
+ORD-2024-1290,2024-04-22,2024-04-24,Consumer,Apparel,1,70.68,27.11,6.3,5,291.2,WH-Central,West,Standard Delivery,Delayed,2.0
+ORD-2024-1285,2024-05-14,2024-05-16,Consumer,Electronics,2,-310.0,177.71,4.5,2,1260.7,WH-Central,North,Express Air,Delivered,
+ORD-2024-2207,2024-02-21,2024-02-25,Consumer,Industrial Machinery,1,1456.34,40.94,6.3,5,688.7,WH-East,South,Standard Delivery,Delayed,2.0
+ORD-2024-2112,2024-04-18,2024-04-21,Consumer,Electronics,1,286.44,117.96,3.0,1,455.3,WH-North,South,,Delivered,4.0
+ORD-2024-1266,2024-02-08,2024-02-10,Corporate,Industrial Machinery,2,2866.42,54.58,5.7,5,954.1,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-1059,2024-02-15,2024-02-19,Consumer,Apparel,1,79.01,30.83,3.4,5,324.6,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-2203,2024-01-10,2024-01-11,Consumer,Office Supplies,1,40.59,173.89,3.1,2,1147.1,WH-West,West,Express Air,Delivered,3.0
+ORD-2024-1371,2024-01-31,2024-02-02,Consumer,Electronics,4,881.07,46.76,3.2,5,515.9,WH-East,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1787,2024-03-01,2024-03-03,Consumer,Electronics,3,689.38,88.15,10.7,7,960.4,WH-East,West,Ground Freight,Returned,1.0
+ORD-2024-1755,2024-05-27,2024-05-28,Home Office,Apparel,2,122.65,41.96,5.9,5,569.6,WH-South,North,Standard Delivery,Delayed,3.0
+ORD-2024-1365,2024-05-19,2024-05-20,Consumer,Industrial Machinery,2,2396.56,174.11,1.0,1,725.6,WH-South,East,  same-day courier  ,Delivered,
+ORD-2024-1714,2024-05-13,2024-05-15,Consumer,Industrial Machinery,1,1456.49,182.06,3.7,2,1188.9,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-2188,2024-05-07,2024-05-11,Consumer,Office Supplies,3,118.44,43.28,5.5,5,532.4,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1629,2024-06-18,2024-06-19,Consumer,Industrial Machinery,3,3332.18,57.23,5.4,5,919.2,WH-East,West,Standard Delivery,Delivered,5.0
+ORD-2024-2144,2024-01-14,2024-01-17,Consumer,Apparel,1,66.33,64.72,4.1,7,650.1,WH-South,West,Ground Freight,Delivered,4.0
+ORD-2024-1895,2024-02-28,2024-02-29,Consumer,Apparel,5,400.06,,4.7,5,649.4,WH-West,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1677,2024-06-09,2024-06-11,Consumer,Office Supplies,1,37.33,59.17,7.2,5,1092.9,WH-North,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1985,2024-01-10,2024-01-14,Corporate,Industrial Machinery,1,1060.3,35.97,,5,396.7,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1415,2024-01-06,2024-01-09,Consumer,Apparel,15,912.81,60.98,5.4,5,406.4,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1900,2024-05-01,2024-05-04,Consumer,Office Supplies,2,75.14,84.85,2.2,2,290.9,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1083,2024-04-27,2024-04-29,Consumer,Healthcare Supplies,3,294.64,58.99,4.4,5,922.0,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-1129,2024-01-22,2024-01-23,Corporate,Industrial Machinery,2,2336.9,66.39,7.3,7,762.8,WH-North,South,Ground Freight,Delivered,5.0
+ORD-2024-1752,2024-01-15,2024-01-18,Corporate,Healthcare Supplies,3,318.13,65.58,7.2,5,,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-2236,2024-02-06,2024-02-10,Home Office,Office Supplies,3,128.64,131.66,1.5,2,672.3,WH-West,West,Express Air,Delivered,5.0
+ORD-2024-2177,2024-03-14,2023-12-15,Consumer,Healthcare Supplies,3,366.77,65.92,6.7,5,1121.3,WH-North,South,Standard Delivery,Delayed,1.0
+ORD-2024-1628,2024-02-01,2024-02-05,Consumer,Electronics,4,1096.44,178.1,2.8,2,992.0,WH-North,Central,Express Air,Delivered,3.0
+ORD-2024-1260,2024-01-22,2024-01-23,Corporate,Apparel,2,130.09,90.31,5.2,5,1485.0,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1596,2024-01-24,2024-01-28,Corporate,Electronics,3,834.18,50.38,6.4,5,776.3,WH-West,Central,,Delivered,4.0
+ORD-2024-1610,2024-06-11,2024-06-15,Consumer,Apparel,1,63.61,37.27,5.3,5,567.4,WH-North,East,Standard Delivery,Delivered,3.0
+ORD-2024-1991,2024-03-24,2024-03-25,Corporate,Electronics,2,528.53,156.14,1.5,2,978.8,WH-North,East,Express Air,Delivered,4.0
+ORD-2024-1622,2024-05-17,2024-05-20,Consumer,Office Supplies,4,155.3,63.02,7.3,7,641.4,WH-North,North,Ground Freight,Delivered,5.0
+ORD-2024-1138,2024-04-15,2024-04-17,Consumer,Healthcare Supplies,8,944.14,189.91,4.2,2,958.0,WH-East,Central,Express Air,Delivered,5.0
+ORD-2024-1292,2024-05-07,2024-05-10,Home Office,Industrial Machinery,5,7359.02,44.37,4.6,5,377.9,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-2037,2024-05-29,2024-06-01,Corporate,Office Supplies,1,30.54,71.38,7.7,7,688.2,WH-Central,South,Ground Freight,Delivered,3.0
+ORD-2024-1439,2024-01-06,2024-01-09,Consumer,Apparel,1,59.15,91.68,8.6,7,1352.6,WH-West,North,Ground Freight,Delivered,3.0
+ORD-2024-1141,2024-04-07,2024-04-10,Consumer,Electronics,1,248.27,83.53,4.8,5,1472.5,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1802,2024-02-06,2024-02-07,Corporate,Electronics,2,575.9,68.66,6.6,5,1253.7,WH-North,East,Standard Delivery,Delayed,1.0
+ORD-2024-1482,2024-04-03,2024-04-04,Corporate,Office Supplies,1,36.76,,4.8,5,551.4,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-1467,2024-04-22,2024-04-23,Home Office,Industrial Machinery,1,1190.62,52.77,7.0,7,510.8,WH-East,East,Ground Freight,Delivered,
+ORD-2024-1139,2024-03-02,2024-03-06,Small Business,Office Supplies,1,32.65,237.5,1.4,1,1394.5,WH-South,West,Same-Day Courier,Delivered,5.0
+ORD-2024-1844,2024-03-22,2024-03-24,Consumer,Electronics,3,905.91,53.84,7.1,7,491.1,WH-South,East,Ground Freight,Delivered,3.0
+ORD-2024-1945,2024-02-04,2024-02-08,Consumer,Office Supplies,2,67.3,36.3,5.4,5,357.8,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-1224,2024-05-24,2024-05-28,Consumer,Office Supplies,8,274.69,48.7,4.5,5,360.0,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1617,2024-02-11,2024-02-13,Consumer,Electronics,1,311.14,36.08,3.8,5,471.7,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1274,2024-01-31,2024-02-03,Corporate,Office Supplies,8,312.41,44.84,5.5,5,333.4,WH-West,East,Standard Delivery,Delivered,5.0
+ORD-2024-1323,2024-02-16,2024-02-17,Consumer,Apparel,2,135.73,131.88,1.0,1,514.6,WH-East,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1350,2024-04-03,2024-04-05,Corporate,Electronics,8,2234.29,105.8,1.0,2,302.7,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1721,2024-02-20,2024-02-24,Consumer,Apparel,2,155.2,88.96,7.9,5,1939.3,WH-Central,North,Standard Delivery,Delayed,2.0
+ORD-2024-1481,2024-04-22,2024-04-26,Corporate,Industrial Machinery,2,2591.2,38.2,6.6,5,455.0,WH-East,North,Standard Delivery,Delivered,
+ORD-2024-1411,2024-01-30,2024-02-01,Small Business,Office Supplies,4,157.06,38.67,3.1,5,349.8,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-2114,2024-02-13,2024-02-14,Corporate,Industrial Machinery,3,4440.97,63.81,6.2,5,910.3,WH-South,South,Standard Delivery,Delivered,
+ORD-2024-1566,2024-01-02,2024-01-04,Consumer,Electronics,1,234.27,118.78,2.2,2,660.4,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-2092,2024-06-02,2024-06-06,Corporate,Electronics,3,659.98,49.49,6.0,5,817.5,WH-South,East,Standard Delivery,Delayed,
+ORD-2024-1352,2024-05-01,2024-05-02,Corporate,Electronics,1,290.11,52.32,4.4,5,741.5,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-2166,2024-06-23,2024-06-25,Home Office,Office Supplies,4,153.16,,6.8,5,684.2,WH-South,West,Standard Delivery,Delayed,2.0
+ORD-2024-1680,2024-01-20,2024-01-21,Home Office,Industrial Machinery,1,1404.92,74.0,5.7,5,1333.9,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1846,2024-06-26,2024-06-28,Consumer,Industrial Machinery,1,1063.83,46.15,3.6,5,631.7,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1552,2024-04-25,2024-04-28,Corporate,Office Supplies,3,89.9,98.84,1.0,1,186.1,WH-West,South,Same-Day Courier,Delivered,3.0
+ORD-2024-1644,2024-01-22,2024-01-24,Consumer,Industrial Machinery,1,1143.24,148.94,-1.5,2,1072.5,WH-Central,South,Express Air,Delivered,4.0
+ORD-2024-1529,2024-02-05,2024-02-07,Home Office,Apparel,2,144.09,55.42,4.7,5,760.9,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-1579,2024-04-29,2024-05-02,Consumer,Electronics,1,221.33,62.92,3.4,5,4709.6224600644455,WH-West,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1542,2024-05-09,2024-05-10,Consumer,Office Supplies,1,42.54,61.45,7.3,7,688.1,WH-East,North,Ground Freight,Delivered,5.0
+ORD-2024-1660,2024-04-15,2024-04-16,Consumer,Office Supplies,1,40.65,97.13,7.5,5,1736.6,WH-North,South,Standard Delivery,Delayed,2.0
+ORD-2024-1321,2024-03-04,2024-03-05,Corporate,Electronics,2,439.67,60.13,6.9,5,1172.4,WH-West,North,Standard Delivery,Delayed,1.0
+ORD-2024-1820,2024-04-15,2024-04-18,Home Office,Apparel,2,139.63,171.46,11.7,7,2249.7,WH-East,East,Ground Freight,Delayed,3.0
+ORD-2024-1710,2024-02-25,2024-02-26,Home Office,Electronics,1,239.5,,5.2,5,325.9,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1947,2024-06-23,2024-06-24,Small Business,Apparel,1,78.24,41.82,6.1,5,591.0,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1381,2024-01-16,2024-01-18,Corporate,Office Supplies,1,43.61,88.28,3.0,2,543.0,WH-North,Central,Express Air,Delivered,4.0
+ORD-2024-1039,2024-01-01,2024-01-03,Consumer,Electronics,10,2609.34,,4.8,1,1841.4,WH-Central,West,Same-Day Courier,Returned,2.0
+ORD-2024-1030,2024-04-02,2024-04-04,Corporate,Industrial Machinery,1,1351.12,44.73,4.6,5,568.6,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1242,2024-05-15,2024-05-19,Small Business,Electronics,2,559.04,113.11,1.0,2,553.1,WH-West,North,Express Air,Delivered,4.0
+ORD-2024-1857,2024-03-18,2024-03-22,Corporate,Healthcare Supplies,5,659.91,,6.7,5,1626.6,WH-North,South,Standard Delivery,Delivered,3.0
+ORD-2024-1136,2024-05-07,2024-05-08,Corporate,Apparel,2,122.89,,1.0,2,750.4,WH-Central,Central,Express Air,Delivered,5.0
+ORD-2024-1310,2024-03-10,2024-03-12,Consumer,Office Supplies,2,76.77,49.6,5.6,5,858.4,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-2062,2024-02-05,2024-02-06,Home Office,Office Supplies,4,165.14,61.66,6.0,5,957.1,WH-North,North,Standard Delivery,Delayed,3.0
+ORD-2024-2227,2024-01-31,2024-02-02,Consumer,Apparel,1,69.94,,1.8,1,1167.3,WH-North,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2172,2024-03-23,2024-03-26,Corporate,Apparel,5,299.79,68.27,5.2,5,1238.6,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-2124,2024-04-18,2024-04-21,Corporate,Industrial Machinery,2,2566.98,58.18,8.1,7,618.0,WH-South,North,Ground Freight,Delivered,5.0
+ORD-2024-2050,2024-03-29,2024-04-02,Home Office,Apparel,2,133.61,196.23,2.8,2,1397.9,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1462,2024-03-19,2024-03-20,Corporate,Apparel,1,71.71,48.52,5.0,5,745.9,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1003,2024-03-19,2024-03-23,Corporate,Electronics,1,254.25,54.55,8.6,5,817.7,WH-West,Central,Standard Delivery,Delayed,2.0
+ORD-2024-1111,2024-02-22,2024-02-23,Consumer,Electronics,2,490.83,102.52,7.1,7,1221.9,WH-East,North,Ground Freight,Delivered,3.0
+ORD-2024-1673,2024-03-21,2024-03-24,Corporate,Office Supplies,4,125.82,87.94,8.4,5,1516.2,WH-West,North,Standard Delivery,Delayed,2.0
+ORD-2024-2099,2024-06-04,2024-06-05,Consumer,Electronics,1,216.82,64.52,9.0,7,651.3,WH-North,West,Ground Freight,Delayed,3.0
+ORD-2024-1700,2024-03-25,2024-03-26,Corporate,Electronics,3,720.71,66.58,4.7,5,910.9,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-1924,2024-06-25,2024-06-26,Consumer,Electronics,5,1529.13,63.07,6.0,5,965.0,WH-South,West,Standard Delivery,Delivered,3.0
+ORD-2024-1836,2024-06-14,2024-06-16,Small Business,Electronics,4,943.22,,8.7,7,973.1,WH-South,Central,Ground Freight,Delivered,4.0
+ORD-2024-1376,2024-03-15,2024-03-19,Home Office,Electronics,3,859.74,152.22,1.5,2,825.8,WH-West,East,Express Air,Delivered,5.0
+ORD-2024-1543,2024-01-15,2024-01-19,Corporate,Industrial Machinery,1,1131.34,44.95,9.1,7,302.1,WH-Central,South,Ground Freight,Delivered,3.0
+ORD-2024-1438,2024-06-12,2024-06-15,Corporate,Industrial Machinery,80,112060.02,244.0,5.1,5,553.6,WH-West,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1314,2024-04-10,2024-04-14,Home Office,Apparel,3,215.28,164.38,4.4,2,1271.8,WH-Central,East,Express Air,Delivered,4.0
+ORD-2024-2032,2024-02-21,2024-02-23,Consumer,Office Supplies,1,37.22,107.32,10.4,7,1375.5,WH-East,South,Ground Freight,Delayed,3.0
+ORD-2024-1319,2024-03-07,2024-03-08,Consumer,Office Supplies,15,515.2,143.36,3.8,2,299.0,WH-West,South,Express Air,Delayed,3.0
+ORD-2024-2039,2024-02-02,2024-02-04,Consumer,Electronics,3,723.09,81.46,7.9,7,893.7,WH-South,North,Ground Freight,Delivered,4.0
+ORD-2024-1966,2024-03-13,2024-03-14,Corporate,Apparel,1,64.09,173.47,2.2,1,938.3,WH-East,East,Same-Day Courier,Delayed,1.0
+ORD-2024-1005,2024-01-27,2024-01-29,Consumer,Office Supplies,1,40.34,35.24,4.2,5,407.0,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1100,2024-04-22,2024-04-23,Consumer,Apparel,3,216.79,,8.2,5,1646.3,WH-South,East,Standard Delivery,Delayed,2.0
+ORD-2024-1713,2024-04-14,2024-04-18,Consumer,Office Supplies,10,336.52,222.18,2.5,1,713.1,WH-North,West,Same-Day Courier,Delayed,2.0
+ORD-2024-1570,2024-06-02,2024-06-06,Corporate,Electronics,1,283.05,140.97,2.9,1,776.7,WH-East,West,Same-Day Courier,Delayed,2.0
+ORD-2024-1548,2024-02-25,2024-02-29,Corporate,Electronics,1,282.0,78.96,5.1,5,1290.5,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-1946,2024-02-22,2024-02-24,Consumer,Office Supplies,3,128.86,72.54,8.2,5,1178.1,WH-East,West,Standard Delivery,Delayed,2.0
+ORD-2024-1912,2024-02-07,2024-02-10,Corporate,Office Supplies,1,33.92,116.2,5.0,2,652.2,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-1711,2024-05-30,2024-06-03,Corporate,Office Supplies,3,-150.0,204.97,1.0,1,1105.0,WH-East,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1497,2024-04-16,2024-04-20,Consumer,Electronics,1,228.13,62.02,9.4,7,714.3,WH-North,South,Ground Freight,Delayed,1.0
+ORD-2024-2170,2024-04-20,2024-04-24,Corporate,Electronics,2,505.75,54.75,4.2,5,941.6,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1227,2024-06-15,2024-06-18,Consumer,Apparel,1,80.97,76.84,8.1,7,834.3,WH-East,North,Ground Freight,Delayed,1.0
+ORD-2024-1430,2024-02-22,2024-02-24,Consumer,Office Supplies,1,38.33,157.86,3.1,2,1013.4,WH-South,East,,Delayed,2.0
+ORD-2024-1589,2024-01-22,2024-01-26,Consumer,Electronics,4,1167.16,195.66,4.3,2,1364.7,WH-North,South,Express Air,Delayed,1.0
+ORD-2024-1715,2024-04-28,2024-04-29,Small Business,Industrial Machinery,15,19974.55,89.89,5.9,5,925.0,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1666,2024-01-07,2024-01-11,Consumer,Apparel,25,1852.36,224.79,3.7,2,452.3,WH-South,Central,Express Air,Delayed,1.0
+ORD-2024-1066,2024-02-18,2024-02-20,Consumer,Office Supplies,1,42.04,42.08,5.0,5,733.3,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-2103,2024-02-21,2024-02-24,Small Business,Apparel,2,129.67,184.68,2.3,1,998.1,WH-South,South,Same-Day Courier,Delayed,2.0
+ORD-2024-1067,2024-02-15,2024-02-17,Home Office,Apparel,1,57.85,83.5,7.4,5,1595.7,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1471,2024-05-12,2024-05-15,Small Business,Electronics,3,756.48,58.15,5.4,5,735.4,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1211,2024-05-24,2024-05-25,Corporate,Industrial Machinery,3,4100.78,61.23,6.7,5,1113.1,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1012,2024-06-09,2024-06-13,Home Office,Office Supplies,8,260.75,118.37,2.8,2,231.1,WH-East,South,Express Air,Delivered,5.0
+ORD-2024-1922,2024-01-14,2024-01-15,Home Office,Electronics,1,226.97,62.62,5.5,5,958.1,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1723,2024-02-06,2024-02-07,Corporate,Office Supplies,1,32.57,56.64,6.6,5,1108.0,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-1299,2024-03-24,2024-03-26,Consumer,Industrial Machinery,2,2692.33,65.01,7.4,5,1000.7,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1808,2024-01-25,2024-01-27,Corporate,Industrial Machinery,2,2478.7,114.93,1.3,2,628.9,WH-Central,South,Express Air,Delivered,4.0
+ORD-2024-1852,2024-04-24,2024-04-28,Consumer,Electronics,1,229.82,117.07,9.0,7,1733.8,WH-Central,Central,Ground Freight,Delayed,1.0
+ORD-2024-2143,2024-06-25,2024-06-28,Corporate,Electronics,1,296.46,89.31,9.8,7,1165.8,WH-North,East,Ground Freight,Delivered,4.0
+ORD-2024-2142,2024-04-05,2024-04-06,Corporate,Office Supplies,3,129.3,37.6,5.0,5,429.9,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1665,2024-05-05,2024-05-07,Consumer,Apparel,2,151.01,71.37,7.5,7,789.2,WH-East,East,Ground Freight,Delivered,5.0
+ORD-2024-2209,2024-01-28,2024-01-30,Small Business,Office Supplies,1,32.18,35.9,4.6,5,387.6,WH-West,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1442,2024-03-29,2024-04-02,Consumer,Office Supplies,10,345.27,66.49,7.8,5,802.6,WH-East,South,Standard Delivery,Delivered,3.0
+ORD-2024-2183,2024-04-26,2024-04-29,Small Business,Electronics,1,282.69,111.84,1.9,1,532.4,WH-South,North,Same-Day Courier,Delivered,3.0
+ORD-2024-1764,2024-04-07,2024-04-08,Consumer,Office Supplies,1,35.99,70.76,9.8,7,952.1,WH-East,West,Ground Freight,Delivered,4.0
+ORD-2024-2190,2024-04-22,2024-04-23,Consumer,Industrial Machinery,3,3337.31,,2.0,2,411.9,WH-South,West,Express Air,Delivered,3.0
+ORD-2024-1812,2024-02-12,2024-02-13,Consumer,Apparel,3,217.38,115.45,6.7,7,1592.4,WH-Central,West,Ground Freight,Delivered,
+ORD-2024-1894,2024-06-08,2024-06-12,Corporate,Office Supplies,3,106.62,32.43,4.4,5,195.6,WH-West,Central,Standard Delivery,Delivered,5.0
+ORD-2024-2102,2024-03-04,2024-03-05,Home Office,Industrial Machinery,3,4424.62,63.45,4.7,5,1116.5,WH-West,North,Standard Delivery,Delivered,
+ORD-2024-1273,2024-06-09,2024-06-13,Small Business,Electronics,2,622.6,70.79,7.3,7,643.4,WH-West,East,Ground Freight,Delivered,4.0
+ORD-2024-1464,2024-05-03,2024-05-07,Small Business,Electronics,1,273.37,61.81,4.6,5,955.6,WH-East,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1362,2024-03-28,2024-04-01,Corporate,Office Supplies,2,80.87,198.14,2.0,2,1591.6,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1237,2024-06-19,2024-06-20,Consumer,Industrial Machinery,3,3935.48,99.44,2.5,2,352.9,WH-East,East,Express Air,Delivered,5.0
+ORD-2024-2167,2024-06-20,2024-06-24,Corporate,Electronics,5,1342.74,208.44,2.3,1,837.6,WH-South,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1514,2024-03-19,2024-03-23,Consumer,Electronics,4,907.11,28.69,5.6,5,163.6,WH-East,East,Standard Delivery,Delivered,3.0
+ORD-2024-1002,2024-04-28,2024-04-29,Corporate,Electronics,4,1122.47,128.91,8.7,7,1684.3,WH-South,East,Ground Freight,Delayed,2.0
+ORD-2024-1006,2024-04-13,2024-04-17,Consumer,Electronics,3,871.49,48.88,7.3,7,267.5,WH-North,Central,Ground Freight,Delivered,5.0
+ORD-2024-1370,2024-05-20,2024-05-24,Consumer,Office Supplies,1,42.69,35.68,4.2,5,437.3,WH-South,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1311,2024-05-02,2024-05-03,Consumer,Electronics,1,263.4,135.83,4.5,2,985.0,WH-North,East,Express Air,Delivered,3.0
+ORD-2024-2094,2024-01-23,2024-01-25,Consumer,Healthcare Supplies,1,110.37,45.99,,5,634.1,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1914,2024-02-14,2024-02-15,Corporate,Office Supplies,8,238.28,232.21,4.7,2,1426.3,WH-West,West,Express Air,Delivered,5.0
+ORD-2024-2160,2024-01-14,2024-01-15,Home Office,Industrial Machinery,3,4207.03,47.45,5.7,5,540.9,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-1682,2024-04-16,2024-04-18,Consumer,Industrial Machinery,25,34579.13,309.36,2.8,1,639.8,WH-East,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1969,2024-03-13,2024-03-14,Corporate,Electronics,8,2232.16,78.21,7.4,7,706.9,WH-Central,North,Ground Freight,Delivered,4.0
+ORD-2024-1215,2024-06-14,2024-06-15,Consumer,Electronics,5,1100.81,157.04,2.9,2,947.5,WH-West,South,Express Air,Delayed,1.0
+ORD-2024-1964,2024-05-18,2024-05-19,Consumer,Apparel,4,275.23,44.42,5.0,5,632.2,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1027,2024-01-02,2024-01-05,Corporate,Healthcare Supplies,1,94.43,62.17,5.5,5,964.2,WH-East,Central,Standard Delivery,Delivered,3.0
+ORD-2024-2229,2024-02-27,2024-03-01,Consumer,Apparel,2,121.03,45.64,,5,536.0,WH-North,East,Standard Delivery,Delivered,3.0
+ORD-2024-1970,2024-03-17,2024-03-18,Corporate,Apparel,5,368.9,86.92,9.4,7,771.6,WH-South,North,Ground Freight,Delivered,5.0
+ORD-2024-2093,2024-05-09,2024-05-10,Corporate,Office Supplies,8,250.35,-18.5,5.0,2,1327.2,WH-North,East,Express Air,Delayed,3.0
+ORD-2024-2029,2024-06-20,2024-06-23,Home Office,Electronics,10,2925.69,90.62,5.4,5,1191.1,WH-North,South,Standard Delivery,Delivered,3.0
+ORD-2024-1545,2024-02-12,2024-02-14,Consumer,Electronics,15,3196.63,71.81,7.7,5,680.6,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1128,2024-05-14,2024-05-16,Consumer,Office Supplies,8,288.16,101.65,7.6,5,1485.4,WH-East,East,Standard Delivery,Delayed,2.0
+ORD-2024-1826,2024-05-20,2024-05-23,Consumer,Electronics,2,587.29,,2.4,2,621.8,WH-South,West,Express Air,Delivered,3.0
+ORD-2024-1916,2024-06-11,2024-06-15,Consumer,Industrial Machinery,2,2800.56,98.88,3.5,1,247.4,WH-North,South,Same-Day Courier,Delayed,1.0
+ORD-2024-1354,2024-01-11,2024-01-15,Consumer,Electronics,3,876.75,121.9,3.2,2,788.6,WH-South,North,Express Air,Delivered,3.0
+ORD-2024-2116,2024-06-09,2024-06-10,Consumer,Electronics,5,1486.02,153.28,4.3,2,720.3,WH-South,East,Express Air,Delivered,4.0
+ORD-2024-2222,2024-04-28,2024-05-02,Consumer,Healthcare Supplies,4,385.69,48.62,5.3,5,535.4,WH-East,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1256,2024-01-23,2024-01-25,Small Business,Industrial Machinery,3,3079.67,40.28,3.5,5,441.6,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-1291,2024-02-13,2024-02-14,Consumer,Electronics,1,235.84,59.24,6.1,5,966.6,WH-South,Central,Standard Delivery,Delayed,3.0
+ORD-2024-1025,2024-06-16,2024-06-18,Home Office,Electronics,2,599.18,,3.9,2,498.7,WH-Central,South,Express Air,Delayed,2.0
+ORD-2024-1336,2024-04-19,2024-04-22,Home Office,Industrial Machinery,1,1390.47,62.1,3.8,5,1050.1,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2167,2024-06-20,2024-06-24,Corporate,Electronics,5,1342.74,208.44,2.3,1,837.6,WH-South,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1047,2024-02-11,2024-02-13,Corporate,Electronics,2,479.49,162.59,1.9,2,1016.8,WH-North,South,Express Air,Delivered,5.0
+ORD-2024-1318,2024-01-19,2024-01-22,Consumer,Industrial Machinery,1,1068.76,65.35,4.8,5,1011.6,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1106,2024-06-25,2024-06-28,Consumer,Healthcare Supplies,3,337.1,74.82,7.1,5,1246.6,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1949,2024-06-28,2024-06-29,Corporate,Office Supplies,2,73.97,80.7,8.3,7,1064.8,WH-Central,North,Ground Freight,Delivered,4.0
+ORD-2024-1055,2024-01-25,2024-01-27,Small Business,Apparel,1,77.26,135.45,3.2,2,793.6,WH-Central,Central,Express Air,Delayed,2.0
+ORD-2024-1861,2024-04-12,2024-04-14,Corporate,Electronics,3,823.67,188.12,3.7,2,1363.7,WH-North,South,,Delivered,4.0
+ORD-2024-1213,2024-04-29,2024-05-01,Consumer,Industrial Machinery,1,1413.63,72.02,7.4,7,745.5,WH-East,South,Ground Freight,Delivered,4.0
+ORD-2024-1120,2024-02-04,2024-02-05,Home Office,Healthcare Supplies,15,1666.64,63.13,5.4,5,384.5,WH-South,West,Standard Delivery,Delivered,3.0
+ORD-2024-1631,2024-01-26,2024-01-29,Home Office,Apparel,1,72.24,217.5,3.6,2,1528.0,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-1532,2024-02-02,2024-02-03,Small Business,Office Supplies,2,84.32,145.42,2.1,2,921.2,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1585,2024-03-28,2024-03-29,Consumer,Industrial Machinery,4,4486.13,27.48,4.0,5,115.3,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1072,2024-04-01,2024-04-04,Consumer,Apparel,10,653.16,71.11,5.6,5,855.7,WH-West,South,Standard Delivery,Delayed,2.0
+ORD-2024-1410,2024-04-01,2024-04-04,Consumer,Industrial Machinery,1,1314.95,85.9,2.2,2,418.5,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1767,2024-03-24,2024-03-26,Home Office,Apparel,4,299.88,68.84,7.5,5,1040.6,WH-Central,East,Standard Delivery,Delivered,3.0
+ORD-2024-1842,2024-05-27,2024-05-29,Consumer,Electronics,4,1045.18,36.2,4.8,5,379.7,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1567,2024-04-13,2024-04-15,Consumer,Apparel,1,58.8,129.49,3.9,2,807.3,WH-North,Central,Express Air,Delivered,3.0
+ORD-2024-1432,2024-03-26,2024-03-29,Corporate,Industrial Machinery,4,5774.2,179.4,4.2,2,1392.5,WH-West,North,Express Air,Delivered,4.0
+ORD-2024-1560,2024-05-22,2024-05-24,Corporate,Industrial Machinery,1,1102.66,44.98,5.3,5,765.5,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-2013,2024-02-18,2024-02-19,Consumer,Office Supplies,1,31.38,99.77,1.0,2,625.5,WH-North,West,,Delivered,5.0
+ORD-2024-1884,2024-01-13,2024-01-17,Home Office,Apparel,3,208.08,56.88,5.1,5,825.5,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1620,2024-06-19,2024-06-21,Consumer,Apparel,4,226.67,49.73,43.367361371815264,5,567.1,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-1630,2024-06-08,2024-06-11,Corporate,Industrial Machinery,2,2224.21,48.91,6.5,7,481.8,WH-North,West,Ground Freight,Delivered,4.0
+ORD-2024-1526,2024-06-18,2024-06-21,Consumer,Industrial Machinery,1,1240.21,141.98,3.7,2,1005.5,WH-South,Central,Express Air,Delivered,4.0
+ORD-2024-2075,2024-03-23,2024-03-26,Consumer,Healthcare Supplies,1,124.68,61.72,,5,1053.4,WH-North,South,Standard Delivery,Delivered,
+ORD-2024-1325,2024-01-16,2024-01-20,Corporate,Electronics,2,522.1,100.97,2.0,2,539.4,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-2137,2024-05-05,2024-05-09,Corporate,Industrial Machinery,1,1233.19,199.36,2.1,1,944.1,WH-West,North,Same-Day Courier,Delayed,2.0
+ORD-2024-1394,2024-03-01,2024-03-03,Consumer,Electronics,1,238.14,172.22,5.2,2,1168.3,WH-Central,North,Express Air,Delayed,1.0
+ORD-2024-1316,2024-04-13,2024-04-14,Consumer,Industrial Machinery,1,1255.75,34.87,5.3,5,502.2,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1693,2024-02-27,2024-03-02,Consumer,Apparel,3,198.96,84.91,1.4,2,321.9,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1936,2024-03-26,2024-03-29,Consumer,Apparel,5,395.7,168.11,1.6,2,1104.8,WH-North,North,,Delivered,4.0
+ORD-2024-1465,2024-05-29,2024-06-02,Consumer,Healthcare Supplies,1,100.22,159.28,2.4,2,1293.1,WH-West,West,Express Air,Delivered,4.0
+ORD-2024-1599,2024-01-24,2024-01-28,Consumer,Industrial Machinery,15,21348.56,200.25,3.7,2,759.1,WH-East,South,Express Air,Delayed,3.0
+ORD-2024-1743,2024-05-06,2024-05-07,Corporate,Electronics,1,311.69,172.75,2.5,1,794.2,WH-West,West,,Delivered,4.0
+ORD-2024-2089,2024-05-01,2024-05-03,Consumer,Office Supplies,10,300.95,92.6,5.8,5,1117.5,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1572,2024-06-14,2024-06-18,Consumer,Industrial Machinery,4,4641.28,88.8,10.8,7,1062.4,WH-West,South,,Delayed,1.0
+ORD-2024-1614,2024-03-21,2024-03-24,Home Office,Healthcare Supplies,1,128.39,57.6,6.8,5,860.9,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1060,2024-01-22,2024-01-26,Consumer,Electronics,1,309.28,271.23,,1,1636.7,WH-West,West,Same-Day Courier,Delivered,5.0
+ORD-2024-1433,2024-06-01,2024-06-05,Consumer,Apparel,1,80.12,46.82,4.8,5,,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1811,2024-02-03,2024-02-05,Home Office,Office Supplies,1,32.1,150.35,3.0,1,802.0,WH-South,West,Same-Day Courier,Delivered,5.0
+ORD-2024-1092,2024-04-30,2024-05-04,Home Office,Apparel,3,240.63,82.82,8.9,7,805.0,WH-East,East,Ground Freight,Delayed,1.0
+ORD-2024-1971,2024-02-17,2024-02-20,Small Business,Office Supplies,2,84.2,42.83,7.3,5,681.6,WH-North,West,Standard Delivery,Delayed,3.0
+ORD-2024-2158,2024-02-02,2024-02-06,Home Office,Healthcare Supplies,0,518.47,49.48,7.1,5,496.6,WH-West,East,Standard Delivery,Delivered,4.0
+ORD-2024-1351,2024-03-11,2024-03-14,Home Office,Office Supplies,1,40.65,138.5,1.0,1,610.3,WH-South,North,Same-Day Courier,Delivered,
+ORD-2024-1194,2024-03-31,2024-04-01,Consumer,Apparel,2,142.56,38.48,4.9,5,569.5,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1280,2024-04-22,2024-04-25,Home Office,Office Supplies,2,67.28,194.39,1.4,1,1183.3,WH-West,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2097,2024-01-09,2024-01-10,Consumer,Office Supplies,1,41.9,70.05,7.3,7,807.2,WH-North,East,Ground Freight,Delivered,3.0
+ORD-2024-1888,2024-06-04,2024-06-07,Consumer,Electronics,2,515.98,52.9,,7,445.6,WH-West,North,Ground Freight,Delivered,4.0
+ORD-2024-1359,2024-01-23,2024-01-24,Corporate,Office Supplies,5,206.39,46.2,7.1,5,413.5,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-2232,2024-01-10,2024-01-11,Consumer,Healthcare Supplies,4,481.97,219.57,46.625904547689686,2,1533.9,WH-East,South,Express Air,Delayed,2.0
+ORD-2024-1615,2024-02-23,2024-02-25,Small Business,Healthcare Supplies,5,562.68,75.52,6.9,7,681.5,WH-East,Central,Ground Freight,Delivered,4.0
+ORD-2024-1941,2024-05-28,2024-05-29,Corporate,Healthcare Supplies,1,118.65,45.84,5.7,5,814.6,WH-South,East,  standard delivery  ,Delivered,3.0
+ORD-2024-1591,2024-03-22,2024-03-25,Corporate,Office Supplies,10,326.49,141.32,3.3,2,643.7,WH-North,Central,Express Air,Delivered,4.0
+ORD-2024-1458,2024-05-10,2024-05-13,Consumer,Industrial Machinery,2,2179.48,125.1,1.2,1,382.2,WH-North,South,Same-Day Courier,Delivered,
+ORD-2024-1558,2024-02-19,2024-02-20,Home Office,Electronics,1,254.99,50.59,4.4,5,671.3,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1182,2024-03-11,2024-03-12,Small Business,Office Supplies,5,152.37,53.91,7.5,5,818.4,WH-East,North,Standard Delivery,Delivered,3.0
+ORD-2024-1110,2024-02-08,2024-02-10,Consumer,Healthcare Supplies,2,271.47,142.53,3.0,1,711.3,WH-West,West,Same-Day Courier,Delivered,5.0
+ORD-2024-2031,2024-06-05,2024-06-08,Corporate,Office Supplies,15,617.92,76.93,5.3,5,727.0,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-2171,2024-05-22,2024-05-25,Small Business,Electronics,2,597.48,128.76,4.5,2,795.0,WH-West,North,Express Air,Delivered,4.0
+ORD-2024-1204,2024-05-04,2024-05-07,Corporate,Electronics,1,242.68,164.44,5.3,1,714.7,WH-North,West,Same-Day Courier,Returned,2.0
+ORD-2024-1597,2024-01-14,2024-01-18,Consumer,Electronics,1,266.71,122.86,1.6,2,733.9,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1911,2024-01-14,2024-01-18,Consumer,Industrial Machinery,2,2608.79,164.0,1.1,1,,WH-East,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1887,2024-03-13,2024-03-16,Consumer,Apparel,1,80.83,184.18,2.5,1,892.4,WH-East,East,Same-Day Courier,Delivered,
+ORD-2024-2125,2024-04-17,2024-04-20,Corporate,Electronics,8,1702.81,70.78,8.2,7,585.7,WH-East,South,Ground Freight,Delivered,4.0
+ORD-2024-1909,2024-06-23,2024-06-27,Consumer,Apparel,2,141.53,50.48,5.3,5,875.8,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1602,2024-01-24,2024-01-25,Consumer,Apparel,1,60.11,41.84,6.0,5,620.9,WH-South,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1183,2024-06-14,2024-06-17,Home Office,Industrial Machinery,4,4485.19,123.99,1.0,1,257.8,WH-North,South,Same-Day Courier,Delivered,4.0
+ORD-2024-1137,2024-02-24,2024-02-26,Corporate,Electronics,2,595.22,43.81,5.6,5,484.2,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1708,2024-02-10,2024-02-12,Consumer,Industrial Machinery,2,2871.58,169.52,3.4,2,1313.8,WH-South,South,Express Air,Delayed,1.0
+ORD-2024-1080,2024-06-23,2024-06-25,Home Office,Industrial Machinery,5,5440.39,57.46,8.8,5,,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-1893,2024-03-25,2024-03-29,Consumer,Office Supplies,3,129.38,60.09,8.0,5,783.9,WH-North,South,Standard Delivery,Delivered,4.0
+ORD-2024-1536,2024-02-27,2024-02-28,Home Office,Industrial Machinery,15,18780.15,85.15,6.4,5,772.8,WH-Central,South,Standard Delivery,Delivered,3.0
+ORD-2024-1480,2024-03-03,2024-03-07,Corporate,Office Supplies,3,102.39,65.05,5.8,7,488.5,WH-West,South,Ground Freight,Delivered,
+ORD-2024-1165,2024-03-31,2024-04-02,Home Office,Healthcare Supplies,8,898.78,243.86,2.5,1,1107.6,WH-South,South,Same-Day Courier,Delayed,
+ORD-2024-1248,2024-06-07,2024-06-10,Small Business,Office Supplies,1,31.56,,5.2,5,569.2,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1307,2024-05-17,2024-05-19,Consumer,Office Supplies,15,568.33,56.63,3.2,5,202.4,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1778,2024-05-24,2024-05-25,Corporate,Electronics,2,574.09,51.88,8.8,7,520.0,WH-East,South,,Delivered,4.0
+ORD-2024-1541,2024-01-10,2024-01-13,Corporate,Apparel,2,142.45,112.25,1.3,2,561.3,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1334,2024-05-17,2024-05-21,Consumer,Healthcare Supplies,2,228.63,205.66,4.8,1,973.2,WH-North,South,Same-Day Courier,Delayed,2.0
+ORD-2024-1097,2024-02-15,2024-02-17,Consumer,Office Supplies,1,34.05,44.21,6.1,5,675.4,WH-East,East,Standard Delivery,Delayed,1.0
+ORD-2024-1551,2024-04-18,2024-04-22,Home Office,Apparel,3,226.72,42.69,4.2,5,532.0,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-2241,2024-04-10,2024-04-14,Home Office,Electronics,2,481.37,42.67,5.7,5,537.8,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1907,2024-05-05,2024-05-09,Consumer,Office Supplies,1,34.28,78.12,7.2,7,973.3,WH-East,Central,Ground Freight,Delivered,5.0
+ORD-2024-1931,2024-06-06,2024-06-07,Home Office,Electronics,1,229.85,30.98,,5,280.7,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1774,2024-01-28,2024-01-30,Home Office,Office Supplies,5,172.33,73.79,5.6,5,1028.0,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1636,2024-04-15,2024-04-16,Corporate,Electronics,1,278.68,66.88,1.2,2,227.8,WH-Central,West,Express Air,Delivered,5.0
+ORD-2024-2187,2024-03-08,2024-03-10,Consumer,Office Supplies,1,43.31,71.05,7.5,5,1156.7,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-1302,2024-04-17,2024-04-21,Corporate,Apparel,1,58.64,35.92,-2.0,7,200.2,WH-West,Central,Ground Freight,Delivered,5.0
+ORD-2024-1209,2024-01-20,2024-01-24,Consumer,Industrial Machinery,8,8874.06,62.03,6.5,5,604.9,WH-North,South,Standard Delivery,Delivered,3.0
+ORD-2024-1388,2024-05-03,2024-05-05,Home Office,Healthcare Supplies,2,194.16,180.12,4.4,2,1186.4,WH-East,West,Express Air,Delivered,3.0
+ORD-2024-1235,2024-01-06,2024-01-08,Corporate,Office Supplies,1,34.62,100.47,8.8,5,1869.5,WH-Central,West,Standard Delivery,Returned,1.0
+ORD-2024-1915,2024-05-24,2024-05-27,Consumer,Healthcare Supplies,2,195.9,81.04,8.4,5,1746.2,WH-West,East,Standard Delivery,Delayed,2.0
+ORD-2024-2119,2024-05-07,2024-05-11,Consumer,Apparel,1,80.66,168.4,,2,1423.1,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-1305,2024-06-25,2024-06-29,Small Business,Electronics,1,213.76,93.67,2.1,2,447.3,WH-North,Central,Express Air,Delivered,3.0
+ORD-2024-1868,2024-06-06,2024-06-09,Home Office,Electronics,1,242.41,1397.054773179983,7.7,7,796.4,WH-South,North,Ground Freight,Delivered,
+ORD-2024-2034,2024-02-26,2024-02-27,Consumer,Electronics,1,278.3,78.45,1.0,2,385.0,WH-South,North,Express Air,Delivered,
+ORD-2024-1249,2024-05-17,2024-05-18,Home Office,Apparel,1,61.79,74.9,8.0,5,1293.2,WH-North,East,Standard Delivery,Delivered,3.0
+ORD-2024-1855,2024-03-08,2024-03-12,Consumer,Office Supplies,2,82.94,96.26,8.4,7,1119.2,WH-Central,North,Ground Freight,Delivered,
+ORD-2024-1838,2024-05-18,2024-05-19,Corporate,Apparel,1,79.25,83.81,3.6,2,357.5,WH-West,East,Express Air,Delayed,
+ORD-2024-1071,2024-06-13,2024-06-16,Consumer,Electronics,1,244.58,125.95,2.5,2,868.9,WH-South,Central,Express Air,Delivered,3.0
+ORD-2024-1094,2024-03-05,2024-03-07,Home Office,Apparel,5,403.34,53.95,5.8,5,710.9,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1613,2024-06-13,2023-12-15,Consumer,Office Supplies,1,36.98,36.0,5.4,5,567.0,WH-East,North,Standard Delivery,Delivered,3.0
+ORD-2024-1033,2024-04-20,2024-04-21,Small Business,Electronics,8,1830.1,203.87,3.1,2,1049.0,WH-West,North,  express air  ,Delivered,4.0
+ORD-2024-1865,2024-03-10,2024-03-14,Corporate,Electronics,2,534.14,69.61,5.8,5,1132.9,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-1448,2024-03-21,2024-03-22,Consumer,Healthcare Supplies,1,96.33,158.84,2.8,2,1069.6,WH-South,South,Express Air,Delayed,
+ORD-2024-1445,2024-06-09,2024-06-12,Small Business,Electronics,5,1468.52,68.2,4.0,5,861.2,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1930,2024-05-07,2024-05-08,Consumer,Office Supplies,1,34.68,,5.8,5,1868.2,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1654,2024-06-16,2024-06-19,Consumer,Apparel,10,711.91,73.94,6.5,5,781.2,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1765,2024-03-01,2024-03-02,Corporate,Office Supplies,1,34.6,112.1,1.1,2,698.2,WH-South,North,Express Air,Delivered,5.0
+ORD-2024-1077,2024-05-06,2024-05-07,Consumer,Apparel,2,158.19,59.11,4.7,5,857.3,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1084,2024-01-09,2024-01-13,Consumer,Healthcare Supplies,1,110.74,53.67,4.7,5,905.8,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1986,2024-05-05,2024-05-07,Corporate,Apparel,4,256.31,99.94,2.4,2,419.7,WH-East,South,Express Air,Delivered,3.0
+ORD-2024-1082,2024-02-21,2024-02-23,Consumer,Electronics,1,265.72,96.42,10.3,7,1171.0,WH-West,East,Ground Freight,Returned,1.0
+ORD-2024-1457,2024-03-28,2024-04-01,Corporate,Electronics,10,2898.64,47.75,7.2,5,369.6,WH-East,Central,Standard Delivery,Delivered,
+ORD-2024-1720,2024-02-18,2024-02-20,Small Business,Electronics,1,286.04,85.97,7.0,5,1610.2,WH-Central,East,Standard Delivery,Delivered,3.0
+ORD-2024-1832,2024-02-15,2024-02-18,Consumer,Office Supplies,1,38.55,137.39,11.6,7,2214.7,WH-West,North,Ground Freight,Delayed,2.0
+ORD-2024-1436,2024-05-12,2024-05-15,Consumer,Healthcare Supplies,1,101.79,54.04,6.3,5,986.9,WH-North,West,Standard Delivery,Delivered,5.0
+ORD-2024-1704,2024-03-09,2024-03-13,Consumer,Healthcare Supplies,4,518.44,141.82,3.6,1,397.3,WH-Central,West,Same-Day Courier,Delayed,1.0
+ORD-2024-2011,2024-06-25,2024-06-29,Small Business,Industrial Machinery,1,1484.47,41.68,8.0,7,382.5,WH-Central,North,Ground Freight,Delivered,5.0
+ORD-2024-1404,2024-03-08,2024-03-09,Consumer,Electronics,1,303.54,38.04,3.5,5,558.7,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-2111,2024-02-24,2024-02-26,Consumer,Office Supplies,1,38.67,44.83,5.0,5,732.5,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1678,2024-03-06,2024-03-09,Small Business,Industrial Machinery,1,1206.17,143.66,2.1,2,933.3,WH-North,West,Express Air,Delivered,5.0
+ORD-2024-2163,2024-03-29,2024-03-31,Corporate,Electronics,3,929.68,50.29,4.9,5,714.6,WH-North,North,Standard Delivery,Delivered,
+ORD-2024-1104,2024-06-01,2024-06-04,Small Business,Office Supplies,1,37.15,35.2,5.0,5,427.7,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1783,2024-05-18,2024-05-19,Consumer,Healthcare Supplies,3,308.28,53.17,,5,640.9,WH-South,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1676,2024-05-04,2024-05-05,Consumer,Industrial Machinery,1,1036.75,893.6780398416591,3.2,2,1103.1,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-1062,2024-06-24,2024-06-25,Home Office,Office Supplies,5,170.43,148.81,2.0,2,770.6,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1281,2024-03-02,2024-03-05,Consumer,Industrial Machinery,5,7236.75,61.89,6.5,5,719.6,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-1903,2024-04-14,2024-04-18,Corporate,Apparel,4,226.49,58.18,8.5,5,915.4,WH-West,South,Standard Delivery,Returned,1.0
+ORD-2024-1238,2024-04-25,2024-04-28,Corporate,Office Supplies,1,31.19,60.04,6.3,5,892.6,WH-South,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1223,2024-03-16,2024-03-19,Consumer,Office Supplies,2,86.77,53.49,,5,801.1,WH-West,East,Standard Delivery,Delayed,1.0
+ORD-2024-1145,2024-03-29,2024-03-30,Consumer,Apparel,1,57.73,50.11,5.2,7,521.9,WH-West,South,Ground Freight,Delivered,5.0
+ORD-2024-2189,2024-03-03,2024-03-06,Corporate,Electronics,3,757.9,50.8,6.0,5,771.3,WH-West,North,Standard Delivery,Delayed,1.0
+ORD-2024-1373,2024-04-12,2024-04-15,Corporate,Healthcare Supplies,1,124.61,95.16,8.8,7,1324.8,WH-Central,South,Ground Freight,Delivered,4.0
+ORD-2024-1118,2024-01-30,2024-02-01,Home Office,Electronics,3,689.86,65.9,7.4,7,700.6,WH-East,West,Ground Freight,Delivered,3.0
+ORD-2024-1908,2024-05-17,2024-05-21,Consumer,Office Supplies,3,109.47,63.36,5.3,5,1084.1,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1250,2024-04-30,2024-05-02,Consumer,Office Supplies,1,35.76,30.13,4.3,5,293.8,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-2228,2024-05-14,2024-05-18,Small Business,Electronics,1,282.83,75.01,6.5,7,828.5,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1009,2024-05-26,2024-05-28,Corporate,Industrial Machinery,1,1025.29,70.43,4.8,5,1140.6,WH-West,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1449,2024-05-28,2024-05-31,Consumer,Office Supplies,2,64.93,59.69,5.6,5,963.2,WH-East,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1990,2024-04-21,2024-04-25,Home Office,Apparel,25,1810.2,88.91,7.1,5,218.1,WH-West,North,Standard Delivery,Delivered,3.0
+ORD-2024-1593,2024-01-30,2024-02-02,Consumer,Industrial Machinery,2,2168.87,151.0,2.2,1,579.3,WH-West,West,Same-Day Courier,Delivered,3.0
+ORD-2024-1389,2024-01-19,2024-01-23,Home Office,Healthcare Supplies,3,282.01,,4.5,7,1058.8,WH-East,West,,Delivered,4.0
+ORD-2024-1999,2024-02-16,2024-02-17,Consumer,Electronics,2,427.19,69.97,6.2,5,1095.9,WH-West,West,Standard Delivery,Delivered,
+ORD-2024-2022,2024-04-03,2024-04-04,Small Business,Office Supplies,1,35.72,95.96,7.9,7,1066.6,WH-North,South,Ground Freight,Delayed,2.0
+ORD-2024-1557,2024-02-26,2024-02-29,Consumer,Electronics,4,1037.43,82.31,2.5,2,302.7,WH-East,North,Express Air,Delivered,3.0
+ORD-2024-1460,2024-04-06,2024-04-07,Consumer,Electronics,1,289.98,60.72,6.7,7,543.0,WH-North,North,Ground Freight,Delivered,5.0
+ORD-2024-2173,2024-03-12,2024-03-14,Consumer,Office Supplies,2,74.74,84.24,9.4,7,858.3,WH-Central,North,Ground Freight,Delayed,1.0
+ORD-2024-1144,2024-02-05,2024-02-07,Consumer,Office Supplies,2,79.84,67.61,6.4,5,1149.1,WH-West,North,Standard Delivery,Delayed,1.0
+ORD-2024-1501,2024-04-28,2024-04-30,Corporate,Electronics,1,265.31,46.79,4.0,5,643.6,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-2176,2024-01-27,2024-01-30,Home Office,Electronics,1,294.2,81.25,3.7,2,397.1,WH-East,North,Express Air,Delayed,1.0
+ORD-2024-1539,2024-01-31,2024-02-03,Consumer,Office Supplies,3,99.52,54.49,5.6,5,689.1,WH-West,East,,Delivered,4.0
+ORD-2024-1177,2024-02-12,2024-02-16,Consumer,Healthcare Supplies,1,117.61,39.95,6.7,5,560.7,WH-East,North,Standard Delivery,Delivered,3.0
+ORD-2024-2230,2024-04-14,2024-04-16,Home Office,Electronics,3,837.98,194.02,3.6,2,1187.5,WH-Central,North,Express Air,Delayed,3.0
+ORD-2024-1785,2024-02-11,2024-02-15,Small Business,Office Supplies,8,341.2,335.09,1.0,1,1646.6,WH-East,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1661,2024-02-12,2024-02-14,Small Business,Apparel,1,61.72,25.38,5.3,5,219.5,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-2139,2024-03-29,2024-03-30,Corporate,Industrial Machinery,5,7086.43,54.2,6.8,7,294.2,WH-West,North,Ground Freight,Delivered,3.0
+ORD-2024-1007,2024-03-14,2024-03-17,Home Office,Office Supplies,1,36.44,73.0,7.7,7,1008.5,WH-South,South,Ground Freight,Delivered,5.0
+ORD-2024-1624,2024-06-23,2024-06-24,Corporate,Apparel,1,55.67,70.14,6.8,5,1149.1,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1953,2024-06-20,2024-06-24,Small Business,Electronics,2,530.5,124.99,3.2,2,754.8,WH-East,South,Express Air,Delivered,4.0
+ORD-2024-1357,2024-02-04,2024-02-06,Corporate,Apparel,2,139.68,182.7,1.1,1,1038.7,WH-North,North,Same-Day Courier,Delivered,4.0
+ORD-2024-1329,2024-06-19,2024-06-20,Consumer,Office Supplies,5,167.74,226.36,,2,1574.7,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1793,2024-01-08,2024-01-10,Corporate,Electronics,2,587.8,105.68,2.4,1,288.3,WH-South,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1938,2024-05-21,2024-05-22,Consumer,Apparel,3,180.75,69.1,5.4,5,1289.4,WH-East,Central,  standard delivery  ,Delivered,4.0
+ORD-2024-1258,2024-02-27,2024-03-02,Corporate,Industrial Machinery,8,9664.11,64.59,4.6,5,946.0,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1984,2024-03-06,2024-03-07,Corporate,Industrial Machinery,1,1074.69,38.64,4.8,5,571.7,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-2134,2024-01-25,2024-01-26,Corporate,Office Supplies,1,30.34,26.58,5.2,5,190.0,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1873,2024-06-02,2024-06-05,Consumer,Office Supplies,1,35.02,60.75,9.2,7,675.9,WH-West,West,Ground Freight,Delivered,3.0
+ORD-2024-1671,2024-06-13,2024-06-16,Home Office,Electronics,4,1174.56,53.74,5.4,5,652.1,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1937,2024-05-24,2024-05-25,Small Business,Apparel,1,65.67,41.1,5.2,5,482.6,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1525,2024-01-12,2024-01-13,Corporate,Office Supplies,1,41.4,37.05,,5,441.6,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-2040,2024-03-12,2024-03-13,Corporate,Industrial Machinery,2,2311.32,86.76,1.7,2,428.3,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1736,2024-03-25,2024-03-28,Consumer,Apparel,1,74.02,108.59,2.2,2,671.5,WH-North,North,Express Air,Delivered,5.0
+ORD-2024-1847,2024-03-14,2024-03-15,Small Business,Industrial Machinery,2,2760.01,1018.2072091846492,4.4,2,1235.4,WH-North,North,Express Air,Delivered,
+ORD-2024-2212,2024-04-04,2024-04-08,Consumer,Industrial Machinery,5,5319.0,50.51,4.3,5,533.5,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1440,2024-05-28,2024-06-01,Consumer,Electronics,1,278.47,57.16,6.3,5,1041.6,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-1531,2024-01-31,2024-02-03,Small Business,Healthcare Supplies,2,191.32,51.91,5.1,5,797.0,WH-West,South,Standard Delivery,Delivered,3.0
+ORD-2024-1226,2024-03-13,2024-03-14,Small Business,Apparel,3,186.76,218.12,2.2,2,1491.2,WH-South,North,Express Air,Delivered,4.0
+ORD-2024-1228,2024-06-18,2024-06-21,Home Office,Apparel,8,581.41,96.87,4.7,5,1695.1,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-2106,2024-05-25,2024-05-28,Consumer,Healthcare Supplies,2,273.29,40.56,5.0,5,634.3,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1212,2024-01-19,2024-01-20,Corporate,Electronics,5,1196.26,37.72,4.7,5,296.6,WH-North,South,Standard Delivery,Delivered,4.0
+ORD-2024-1079,2024-06-09,2024-06-13,Consumer,Office Supplies,2,67.2,37.73,4.7,5,431.0,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1148,2024-05-24,2024-05-27,Consumer,Industrial Machinery,2,2816.12,187.23,3.6,2,1519.0,WH-East,South,Express Air,Delayed,2.0
+ORD-2024-2073,2024-05-12,2024-05-13,Consumer,Office Supplies,3,102.82,31.03,4.4,5,261.1,WH-South,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1796,2024-06-26,2024-06-28,Small Business,Electronics,3,682.74,29.07,4.7,5,262.4,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1823,2024-03-12,2024-03-13,Consumer,Apparel,2,157.67,192.93,4.6,2,1363.2,WH-West,East,Express Air,Delivered,5.0
+ORD-2024-1133,2024-04-12,2024-04-14,Consumer,Electronics,3,800.67,52.79,4.4,5,635.7,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1881,2024-06-17,2024-06-19,Corporate,Electronics,1,302.23,135.56,2.3,2,837.5,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1408,2024-06-13,2024-06-15,Small Business,Office Supplies,10,321.64,62.39,6.7,5,618.8,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1788,2024-05-02,2024-05-05,Corporate,Electronics,4,1123.1,220.49,2.6,1,1120.8,WH-North,Central,Same-Day Courier,Delivered,4.0
+ORD-2024-1507,2024-05-13,2024-05-14,Home Office,Office Supplies,1,32.79,46.34,6.7,5,662.4,WH-East,North,Standard Delivery,Delivered,3.0
+ORD-2024-1996,2024-05-31,2024-06-04,Small Business,Electronics,2,523.76,73.96,1.9,2,315.5,WH-North,Central,Express Air,Delivered,4.0
+ORD-2024-1504,2024-02-06,2024-02-09,Corporate,Healthcare Supplies,4,549.77,61.89,4.9,5,817.1,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1756,2024-05-17,2024-05-21,Corporate,Office Supplies,1,40.05,103.31,3.9,2,583.2,WH-West,West,Express Air,Delivered,4.0
+ORD-2024-1347,2024-05-14,2024-05-15,Consumer,Electronics,3,668.85,47.29,6.5,5,764.0,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-1386,2024-05-28,2024-05-31,Consumer,Office Supplies,3,121.34,38.76,7.3,5,461.8,WH-West,East,,Delivered,4.0
+ORD-2024-1000,2024-05-26,2024-05-29,Consumer,Apparel,3,170.82,36.71,6.0,5,349.6,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1360,2024-03-23,2024-03-27,Consumer,Apparel,3,242.32,147.63,1.6,2,771.3,WH-East,Central,Express Air,Delivered,5.0
+ORD-2024-2205,2024-06-03,2024-06-07,Home Office,Electronics,1,276.0,91.31,1.0,1,268.6,WH-West,Central,Same-Day Courier,Delivered,5.0
+ORD-2024-1475,2024-05-07,2024-05-09,Small Business,Electronics,5,1437.96,41.38,5.1,5,397.8,WH-West,North,Standard Delivery,Delivered,3.0
+ORD-2024-1875,2024-01-22,2024-01-26,Consumer,Industrial Machinery,80,97704.57,218.42,3.9,5,104.6,WH-West,West,  standard delivery  ,Delivered,3.0
+ORD-2024-1869,2024-06-01,2024-06-02,Small Business,Apparel,1,64.59,151.9,3.2,2,937.7,WH-Central,West,Express Air,Delayed,3.0
+ORD-2024-1849,2024-06-02,2024-06-03,Corporate,Office Supplies,4,139.83,196.03,6.5,2,1122.1,WH-South,North,Express Air,Delayed,2.0
+ORD-2024-1695,2024-02-04,2024-02-07,Corporate,Office Supplies,1,30.19,42.87,4.3,5,665.9,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-1172,2024-04-16,2024-04-19,Corporate,Electronics,1,227.41,77.81,7.5,5,1462.6,WH-West,West,Standard Delivery,Delayed,
+ORD-2024-1450,2024-02-15,2024-02-17,Home Office,Healthcare Supplies,1,122.37,27.52,5.5,5,252.2,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1125,2024-03-27,2024-03-30,Consumer,Apparel,5,284.11,161.03,3.7,2,771.6,WH-South,Central,Express Air,Delivered,4.0
+ORD-2024-1716,2024-06-10,2024-06-13,Home Office,Electronics,8,1765.36,70.56,6.0,5,810.4,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1530,2024-02-21,2024-02-24,Home Office,Electronics,4,1244.39,,3.6,2,1133.1,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1090,2024-01-06,2024-01-09,Consumer,Electronics,2,445.09,36.37,6.8,5,464.5,WH-East,West,Standard Delivery,Delivered,5.0
+ORD-2024-2233,2024-02-08,2024-02-10,Consumer,Electronics,3,761.09,72.59,7.2,5,1306.5,WH-West,East,Standard Delivery,Delivered,4.0
+ORD-2024-1181,2024-02-16,2024-02-18,Consumer,Office Supplies,5,192.54,58.81,7.2,7,416.8,WH-North,West,Ground Freight,Delivered,3.0
+ORD-2024-1737,2024-01-28,2024-01-29,Home Office,Office Supplies,8,328.79,106.92,6.8,5,1679.0,WH-South,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1414,2024-04-24,2024-04-26,Corporate,Healthcare Supplies,4,494.42,30.83,4.5,5,250.2,WH-East,North,Standard Delivery,Delivered,
+ORD-2024-1251,2024-03-16,2024-03-18,Consumer,Office Supplies,0,36.57,122.01,2.9,1,605.2,WH-West,West,Same-Day Courier,Delivered,3.0
+ORD-2024-1069,2024-05-15,2024-05-18,Small Business,Electronics,1,287.68,64.34,7.4,5,1356.7,WH-East,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1131,2024-02-27,2024-03-01,Consumer,Office Supplies,3,103.47,157.4,3.7,2,1008.2,WH-West,West,Express Air,Delivered,4.0
+ORD-2024-1300,2024-05-25,2024-05-26,Consumer,Healthcare Supplies,1,107.38,62.39,8.0,7,779.7,WH-Central,West,Ground Freight,Delivered,4.0
+ORD-2024-1845,2024-02-26,2024-03-01,Consumer,Apparel,5,308.56,75.61,6.0,5,1051.7,WH-East,West,Standard Delivery,Delivered,5.0
+ORD-2024-1326,2024-05-25,2024-05-26,Corporate,Electronics,2,492.1,38.04,7.0,5,549.7,WH-South,West,Standard Delivery,Delayed,1.0
+ORD-2024-2246,2024-04-15,2024-04-19,Consumer,Industrial Machinery,1,1473.28,37.13,4.2,5,424.5,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1890,2024-06-11,2024-06-15,Corporate,Apparel,5,314.3,102.71,3.1,2,263.5,WH-Central,South,Express Air,Delivered,5.0
+ORD-2024-1499,2024-04-09,2024-04-12,Small Business,Electronics,1,235.54,150.52,3.9,2,1032.4,WH-Central,Central,Express Air,Delayed,1.0
+ORD-2024-2008,2024-01-16,2024-01-17,Consumer,Office Supplies,1,40.76,118.96,2.7,2,853.6,WH-East,West,Express Air,Delayed,1.0
+ORD-2024-1364,2024-04-06,2024-04-10,Small Business,Office Supplies,4,162.5,97.63,2.4,2,319.4,WH-East,South,Express Air,Delivered,4.0
+ORD-2024-1495,2024-04-30,2024-05-03,Consumer,Office Supplies,4,139.17,92.34,7.9,5,1796.7,WH-Central,Central,Standard Delivery,Delivered,3.0
+ORD-2024-2186,2024-03-05,2024-03-07,Corporate,Office Supplies,1,34.55,99.17,10.5,7,1408.8,WH-Central,Central,Ground Freight,Delayed,2.0
+ORD-2024-1338,2024-05-08,2024-05-09,Corporate,Office Supplies,1,34.42,149.42,1.0,1,790.4,WH-West,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1421,2024-04-10,2024-04-14,Home Office,Apparel,1,80.45,38.73,5.6,5,561.7,WH-Central,West,Standard Delivery,Delayed,1.0
+ORD-2024-1164,2024-01-14,2024-01-16,Consumer,Office Supplies,2,85.56,64.91,6.3,5,996.6,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-1028,2024-04-20,2024-04-24,Corporate,Electronics,1,259.09,78.61,3.4,2,269.4,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-1516,2024-02-20,2024-02-23,Consumer,Apparel,1,58.17,93.88,9.1,7,1319.0,WH-East,West,Ground Freight,Delayed,1.0
+ORD-2024-1193,2024-02-21,2024-02-22,Corporate,Office Supplies,2,83.27,213.95,1.0,1,969.0,WH-South,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1270,2024-03-15,2024-03-17,Home Office,Electronics,4,996.02,67.53,6.7,5,4726.684302721794,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-2052,2024-01-16,2024-01-19,Small Business,Office Supplies,2,76.74,99.34,3.1,2,499.8,WH-Central,East,Express Air,Delivered,
+ORD-2024-1169,2024-04-18,2024-04-21,Corporate,Healthcare Supplies,1,107.71,67.15,8.0,7,634.1,WH-West,South,Ground Freight,Delivered,3.0
+ORD-2024-1798,2024-05-24,2024-05-27,Corporate,Office Supplies,3,128.56,213.84,3.0,1,1093.4,WH-East,South,Same-Day Courier,Delivered,3.0
+ORD-2024-1652,2024-04-09,2024-04-10,Corporate,Apparel,2,125.55,45.45,5.7,5,517.7,WH-North,West,Standard Delivery,Delayed,2.0
+ORD-2024-1173,2024-02-23,2024-02-26,Consumer,Electronics,1,308.28,33.68,4.5,5,441.3,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1518,2024-04-11,2024-04-12,Small Business,Office Supplies,1,40.68,47.15,6.2,5,879.6,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-2036,2024-03-06,2024-03-09,Consumer,Healthcare Supplies,5,590.27,183.93,3.6,2,1216.6,WH-Central,South,Express Air,Delayed,2.0
+ORD-2024-1879,2024-01-26,2024-01-30,Consumer,Office Supplies,1,36.49,63.18,2.9,5,1124.3,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1491,2024-03-25,2024-03-26,Corporate,Apparel,4,318.83,127.08,7.7,7,1397.9,WH-South,West,Ground Freight,Delivered,5.0
+ORD-2024-1073,2024-02-09,2024-02-11,Home Office,Electronics,8,2198.08,45.89,5.9,5,414.7,WH-South,East,Standard Delivery,Delivered,5.0
+ORD-2024-2066,2024-01-10,2024-01-11,Consumer,Electronics,2,510.22,55.61,,5,1032.4,WH-Central,East,Standard Delivery,Delayed,2.0
+ORD-2024-1587,2024-05-06,2024-05-09,Consumer,Office Supplies,5,153.24,45.35,5.9,5,583.4,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1657,2024-04-14,2024-04-15,Consumer,Office Supplies,3,116.02,147.16,8.4,7,2148.4,WH-North,North,Ground Freight,Delivered,
+ORD-2024-1234,2024-05-25,2024-05-28,Consumer,Office Supplies,4,125.39,174.48,4.4,2,993.6,WH-West,Central,Express Air,Delivered,4.0
+ORD-2024-1214,2024-05-15,2024-05-19,Corporate,Healthcare Supplies,1,137.31,24.24,4.6,5,171.3,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1162,2024-01-23,2024-01-25,Corporate,Electronics,4,1081.48,41.54,7.6,5,445.5,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1132,2024-04-02,2024-04-05,Consumer,Healthcare Supplies,2,253.62,50.55,4.4,5,772.4,WH-Central,North,Standard Delivery,Delivered,
+ORD-2024-1874,2024-02-25,2024-02-26,Consumer,Healthcare Supplies,1,114.08,61.71,6.0,5,1036.2,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1825,2024-02-19,2024-02-21,Small Business,Apparel,2,158.66,45.75,4.7,5,588.9,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-2046,2024-03-27,2024-03-31,Consumer,Electronics,1,265.29,66.88,6.1,5,1362.3,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1185,2024-03-02,2024-03-03,Corporate,Electronics,5,1206.96,288.82,2.8,1,1383.3,WH-East,North,Same-Day Courier,Delayed,2.0
+ORD-2024-1041,2024-02-09,2024-02-12,Corporate,Electronics,1,225.39,235.53,5.0,2,1774.4,WH-North,West,Express Air,Delayed,3.0
+ORD-2024-1692,2024-02-02,2024-02-03,Corporate,Apparel,1,65.33,218.99,4.5,2,1728.8,WH-North,Central,Express Air,Delayed,1.0
+ORD-2024-1108,2024-04-27,2024-04-30,Consumer,Electronics,1,257.4,84.95,8.3,7,1132.0,WH-South,West,Ground Freight,Delivered,4.0
+ORD-2024-1973,2024-04-11,2024-04-14,Consumer,Electronics,8,1760.28,82.94,6.2,7,807.7,WH-South,West,Ground Freight,Delivered,4.0
+ORD-2024-1568,2024-03-24,2024-03-25,Small Business,Industrial Machinery,3,3853.92,90.6,9.4,7,936.5,WH-South,South,Ground Freight,Delivered,5.0
+ORD-2024-1727,2024-04-02,2024-04-03,Home Office,Office Supplies,2,85.11,53.43,6.8,5,927.2,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-2079,2024-01-15,2024-01-17,Small Business,Electronics,5,1426.43,45.05,7.7,5,505.3,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-2226,2024-03-19,2024-03-21,Consumer,Electronics,3,688.95,50.29,5.9,5,791.2,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1483,2024-02-17,2024-02-21,Corporate,Office Supplies,3,109.81,104.21,2.2,2,487.3,WH-Central,West,Express Air,Delivered,4.0
+ORD-2024-1468,2024-03-31,2024-04-02,Consumer,Healthcare Supplies,3,317.67,81.3,7.5,7,760.4,WH-West,Central,Ground Freight,Delivered,5.0
+ORD-2024-1024,2024-04-16,2024-04-18,Corporate,Office Supplies,4,135.58,134.51,1.5,1,492.5,WH-East,West,Same-Day Courier,Delivered,4.0
+ORD-2024-2091,2024-06-15,2024-06-18,Corporate,Electronics,2,528.68,54.05,7.1,7,488.5,WH-Central,North,Ground Freight,Delivered,5.0
+ORD-2024-1948,2024-04-19,2024-04-21,Home Office,Office Supplies,1,30.92,97.16,3.6,2,566.9,WH-North,East,Express Air,Delayed,3.0
+ORD-2024-1848,2024-04-07,2024-04-09,Corporate,Apparel,8,478.53,54.88,2.2,5,577.5,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-2077,2024-04-29,2024-04-30,Corporate,Electronics,1,216.02,115.89,5.8,2,832.1,WH-North,East,Express Air,Returned,1.0
+ORD-2024-1366,2024-02-03,2024-02-04,Small Business,Healthcare Supplies,1,95.23,68.13,1.7,2,315.2,WH-Central,East,Express Air,Delivered,3.0
+ORD-2024-1950,2024-05-15,2024-05-18,Corporate,Healthcare Supplies,3,310.21,43.88,6.3,5,554.4,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-2120,2024-04-14,2024-04-17,Home Office,Industrial Machinery,3,3898.25,49.51,4.8,5,624.5,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-1383,2024-03-17,2024-03-18,Home Office,Apparel,5,330.57,58.59,7.1,5,929.1,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1717,2024-01-09,2024-01-10,Small Business,Office Supplies,1,31.65,28.65,4.4,5,215.8,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1454,2024-03-24,2024-03-26,Consumer,Office Supplies,1,37.27,156.73,3.4,2,996.3,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1264,2024-06-27,2024-06-29,Home Office,Electronics,1,246.88,120.52,1.0,1,486.0,WH-East,North,Same-Day Courier,Delivered,5.0
+ORD-2024-2249,2024-01-23,2024-01-25,Corporate,Office Supplies,1,40.42,46.67,5.0,5,866.3,WH-East,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1232,2024-03-29,2024-04-01,Corporate,Office Supplies,4,134.35,1214.8762233381203,1.9,2,698.9,WH-North,North,Express Air,Delivered,5.0
+ORD-2024-1444,2024-06-15,2024-06-17,Home Office,Office Supplies,2,72.58,50.0,5.5,5,646.8,WH-East,West,Standard Delivery,Delivered,3.0
+ORD-2024-1395,2024-01-26,2024-01-28,Small Business,Apparel,1,78.42,69.82,7.3,5,1170.8,WH-East,Central,Standard Delivery,Delayed,2.0
+ORD-2024-1917,2024-03-15,2024-03-18,Small Business,Electronics,1,308.64,184.47,1.7,2,1588.6,WH-West,West,Express Air,Delivered,
+ORD-2024-1176,2024-06-04,2024-06-07,Corporate,Electronics,4,925.74,47.47,5.4,7,314.7,WH-East,South,Ground Freight,Delivered,3.0
+ORD-2024-1018,2024-04-10,2024-04-13,Consumer,Industrial Machinery,4,4549.8,136.16,1.6,2,626.3,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-2117,2024-05-31,2024-06-01,Home Office,Industrial Machinery,5,6396.16,176.58,3.5,1,749.9,WH-North,West,Same-Day Courier,Delivered,5.0
+ORD-2024-2237,2024-04-28,2024-05-02,Corporate,Apparel,3,166.08,83.61,1.7,2,269.4,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1921,2024-01-20,2024-01-23,Corporate,Electronics,4,1070.41,237.84,2.0,1,1086.8,WH-Central,East,Same-Day Courier,Delayed,1.0
+ORD-2024-1770,2024-01-01,2024-01-03,Consumer,Healthcare Supplies,1,96.66,60.69,2.4,2,182.4,WH-Central,South,Express Air,Delivered,5.0
+ORD-2024-1595,2024-04-06,2024-04-07,Corporate,Electronics,5,1558.59,83.99,8.7,5,1367.0,WH-South,West,Standard Delivery,Delayed,1.0
+ORD-2024-1061,2024-05-18,2024-05-21,Consumer,Apparel,4,309.1,,5.0,1,1663.8,WH-East,West,Same-Day Courier,Delayed,2.0
+ORD-2024-1272,2024-04-13,2024-04-17,Home Office,Office Supplies,3,90.9,,,5,1103.2,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-2197,2024-05-03,2024-05-04,Small Business,Electronics,5,1089.76,78.46,6.9,7,631.8,WH-West,West,Ground Freight,Delivered,4.0
+ORD-2024-1278,2024-02-03,2024-02-04,Corporate,Apparel,2,135.71,147.92,3.5,1,603.8,WH-West,South,Same-Day Courier,Delivered,4.0
+ORD-2024-1952,2024-06-03,2024-06-04,Consumer,Office Supplies,3,126.08,44.07,6.6,7,286.0,WH-East,West,Ground Freight,Delivered,4.0
+ORD-2024-1694,2024-01-28,2024-01-31,Consumer,Apparel,2,114.42,67.0,5.7,7,691.4,WH-South,South,Ground Freight,Delivered,4.0
+ORD-2024-1368,2024-06-07,2024-06-11,Consumer,Industrial Machinery,3,3939.33,79.45,7.7,7,821.3,WH-North,South,Ground Freight,Delivered,3.0
+ORD-2024-2007,2024-03-24,2024-03-25,Home Office,Office Supplies,1,41.13,50.19,5.8,5,958.1,WH-West,East,Standard Delivery,Delayed,1.0
+ORD-2024-1735,2024-02-17,2024-02-21,Home Office,Electronics,1,234.03,115.28,2.9,2,824.0,WH-West,North,Express Air,Delivered,5.0
+ORD-2024-1926,2024-01-31,2024-02-01,Consumer,Electronics,1,288.96,137.5,6.4,7,1745.4,WH-North,East,Ground Freight,Delivered,5.0
+ORD-2024-1974,2024-04-15,2024-04-19,Consumer,Electronics,2,616.67,72.46,7.1,5,1291.3,WH-North,West,Standard Delivery,Delivered,5.0
+ORD-2024-1809,2024-05-10,2024-05-11,Consumer,Office Supplies,2,68.69,36.9,6.6,5,481.1,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-2155,2024-04-03,2024-04-07,Home Office,Industrial Machinery,2,2603.28,61.31,5.5,5,1152.4,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1547,2024-03-07,2024-03-09,Corporate,Electronics,1,312.33,46.64,5.8,5,738.3,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-2000,2024-04-21,2024-04-25,Consumer,Electronics,2,602.26,140.24,4.2,2,948.5,WH-South,South,Express Air,Delayed,2.0
+ORD-2024-1688,2024-03-29,2024-04-02,Home Office,Office Supplies,5,215.1,63.6,5.4,5,775.2,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1738,2024-02-20,2024-02-24,Consumer,Office Supplies,10,355.17,65.44,6.2,5,671.7,WH-West,East,Standard Delivery,Delivered,3.0
+ORD-2024-2216,2024-06-23,2024-06-26,Consumer,Office Supplies,2,68.77,38.22,6.9,5,,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1456,2024-01-08,2024-01-11,Consumer,Industrial Machinery,2,2818.71,44.33,5.4,5,702.2,WH-East,West,Standard Delivery,Delivered,5.0
+ORD-2024-1393,2024-02-10,2024-02-14,Home Office,Industrial Machinery,2,2491.01,192.96,4.8,2,1193.1,WH-West,West,Express Air,Delivered,5.0
+ORD-2024-1675,2024-03-12,2024-03-16,Small Business,Electronics,3,740.97,41.16,6.0,5,581.9,WH-South,North,Standard Delivery,Delivered,3.0
+ORD-2024-1760,2024-05-03,2023-12-15,Consumer,Electronics,4,956.49,116.24,6.9,7,1252.5,WH-North,North,Ground Freight,Delivered,5.0
+ORD-2024-1462,2024-03-19,2024-03-20,Corporate,Apparel,1,71.71,48.52,5.0,5,745.9,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1728,2024-01-14,2024-01-18,Consumer,Apparel,1,70.2,54.75,3.6,5,871.6,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1419,2024-05-18,2024-05-21,Home Office,Apparel,2,160.94,52.9,3.7,5,941.3,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-1375,2024-02-26,2024-02-28,Consumer,Industrial Machinery,1,1207.56,,,7,,WH-West,East,Ground Freight,Delivered,5.0
+ORD-2024-1412,2024-06-01,2024-06-03,Small Business,Healthcare Supplies,2,217.91,163.11,2.7,2,1188.5,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1074,2024-02-03,2024-02-06,Corporate,Healthcare Supplies,3,301.37,127.71,1.0,1,431.6,WH-North,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2193,2024-04-12,2024-04-14,Corporate,Apparel,2,116.03,304.04,4.5,1,1806.5,WH-South,North,Same-Day Courier,Delayed,1.0
+ORD-2024-1978,2024-01-19,2024-01-22,Corporate,Electronics,2,534.3,122.68,4.3,2,640.7,WH-West,East,Express Air,Delayed,1.0
+ORD-2024-1500,2024-02-12,2024-02-14,Corporate,Office Supplies,3,120.49,160.14,4.4,2,1147.2,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1906,2024-04-08,2024-04-10,Home Office,Electronics,2,472.42,26.48,4.6,5,,WH-West,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1616,2024-02-08,2024-02-11,Consumer,Electronics,1,259.31,55.91,7.1,7,678.1,WH-North,West,Ground Freight,Delivered,4.0
+ORD-2024-1114,2024-05-08,2024-05-12,Corporate,Apparel,1,60.73,40.97,5.6,5,528.2,WH-North,South,  standard delivery  ,Delayed,2.0
+ORD-2024-1417,2024-01-10,2024-01-14,Consumer,Healthcare Supplies,2,203.56,81.09,7.5,5,1363.7,WH-North,West,Standard Delivery,Delivered,
+ORD-2024-1601,2024-02-24,2023-12-15,Consumer,Apparel,5,278.4,80.38,7.5,5,1129.0,WH-East,West,Standard Delivery,Delayed,2.0
+ORD-2024-1604,2024-01-26,2024-01-28,Consumer,Healthcare Supplies,3,330.1,103.38,7.6,5,1922.9,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1943,2024-05-18,2024-05-19,Home Office,Industrial Machinery,1,1091.83,99.66,8.9,7,1297.6,WH-East,Central,Ground Freight,Delivered,4.0
+ORD-2024-1089,2024-01-10,2024-01-14,Corporate,Electronics,1,307.18,46.22,4.7,5,737.5,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1932,2024-01-25,2024-01-29,Small Business,Electronics,4,999.32,86.64,5.2,5,1391.4,WH-Central,West,Standard Delivery,Delivered,3.0
+ORD-2024-2220,2024-02-22,2024-02-26,Small Business,Electronics,3,833.95,56.38,10.3,7,348.3,WH-East,South,Ground Freight,Returned,1.0
+ORD-2024-1753,2024-05-11,2024-05-12,Consumer,Electronics,1,258.01,90.42,6.2,7,,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1498,2024-05-03,2024-05-07,Small Business,Apparel,2,138.35,138.26,1.0,2,1037.2,WH-East,South,Express Air,Delivered,5.0
+ORD-2024-2208,2024-05-07,2024-05-08,Consumer,Office Supplies,3,129.97,36.29,6.5,5,333.3,WH-North,South,Standard Delivery,Delayed,1.0
+ORD-2024-2003,2024-01-08,2024-01-12,Corporate,Apparel,1,77.29,156.99,3.6,2,985.3,WH-East,North,Express Air,Delayed,1.0
+ORD-2024-2001,2024-05-23,2024-05-27,Corporate,Healthcare Supplies,-2,105.45,,7.3,5,1411.9,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1011,2024-05-02,2024-05-03,Small Business,Apparel,1,70.94,65.19,4.3,2,221.1,WH-West,Central,Express Air,Delayed,1.0
+ORD-2024-1396,2024-03-11,2024-03-12,Home Office,Electronics,4,1046.43,70.35,7.6,5,955.2,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1850,2024-06-06,2024-06-08,Consumer,Healthcare Supplies,2,189.49,66.31,8.0,5,1096.0,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1555,2024-06-14,2024-06-16,Consumer,Apparel,4,236.57,135.52,,2,601.3,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1042,2024-02-01,2024-02-02,Consumer,Industrial Machinery,8,9080.1,81.05,6.5,5,1312.0,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1167,2024-03-17,2024-03-18,Consumer,Electronics,2,620.45,62.48,5.8,5,1034.1,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1416,2024-01-18,2024-01-21,Consumer,Electronics,1,254.47,,7.3,5,1553.2,WH-North,West,Standard Delivery,Delayed,2.0
+ORD-2024-1576,2024-05-18,2024-05-21,Consumer,Electronics,3,701.29,164.76,3.3,2,900.1,WH-North,Central,Express Air,Delivered,4.0
+ORD-2024-1267,2024-02-06,2024-02-09,Corporate,Apparel,3,224.5,66.91,5.1,5,1020.3,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-2053,2024-06-24,2024-06-26,Home Office,Electronics,1,241.73,60.09,6.0,5,1188.9,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1426,2024-04-19,2024-04-20,Consumer,Electronics,5,1454.35,151.79,1.7,1,500.3,WH-East,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1690,2024-03-28,2024-03-29,Consumer,Electronics,1,300.65,86.54,7.4,5,1673.5,WH-Central,South,Standard Delivery,Delayed,2.0
+ORD-2024-1544,2024-01-03,2024-01-05,Corporate,Electronics,2,449.23,170.28,1.5,2,1028.5,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-2194,2024-06-08,2024-06-10,Consumer,Office Supplies,1,42.44,115.46,2.5,2,773.5,WH-West,South,Express Air,Delivered,4.0
+ORD-2024-1674,2024-03-02,2024-03-03,Consumer,Apparel,1,70.71,186.56,1.0,1,954.3,WH-South,North,Same-Day Courier,Delivered,
+ORD-2024-1689,2024-05-25,2024-05-26,Consumer,Electronics,15,4262.76,145.53,1.9,2,349.2,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-2122,2024-04-09,2024-04-12,Home Office,Industrial Machinery,3,4432.74,64.51,5.6,5,1049.2,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-2248,2024-04-01,2024-04-05,Small Business,Healthcare Supplies,2,249.99,109.73,,2,732.7,WH-West,South,Express Air,Delivered,5.0
+ORD-2024-1159,2024-06-18,2024-06-21,Corporate,Apparel,1,69.93,51.91,7.1,5,822.8,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-2004,2024-01-03,2024-01-04,Home Office,Apparel,1,77.71,41.2,5.4,5,535.9,WH-Central,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1257,2024-05-16,2024-05-17,Corporate,Office Supplies,1,30.84,93.61,2.9,2,554.5,WH-South,Central,Express Air,Delayed,3.0
+ORD-2024-1958,2024-06-20,2024-06-21,Consumer,Electronics,1,259.31,36.92,6.0,7,286.9,WH-West,West,Ground Freight,Delivered,4.0
+ORD-2024-1335,2024-03-11,2024-03-12,Consumer,Electronics,1,309.36,109.76,1.0,1,488.3,WH-North,Central,Same-Day Courier,Delivered,
+ORD-2024-1979,2024-03-28,2024-03-30,Corporate,Electronics,5,1165.13,196.24,3.3,2,1140.4,WH-North,South,Express Air,Delivered,4.0
+ORD-2024-1015,2024-01-30,2024-01-31,Consumer,Electronics,3,934.26,86.5,7.8,5,1348.0,WH-South,Central,Standard Delivery,Delayed,2.0
+ORD-2024-2023,2024-02-14,2024-02-18,Small Business,Industrial Machinery,2,2941.9,42.51,5.3,5,515.7,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1324,2024-01-06,2024-01-09,Small Business,Electronics,3,872.93,52.95,6.7,5,913.5,WH-West,South,Standard Delivery,Delivered,3.0
+ORD-2024-1768,2024-03-05,2024-03-07,Consumer,Electronics,3,733.88,38.12,6.5,5,516.9,WH-North,East,Standard Delivery,Delayed,2.0
+ORD-2024-1607,2024-03-05,2024-03-09,Consumer,Office Supplies,5,215.71,124.94,10.0,7,1627.2,WH-East,North,Ground Freight,Delivered,4.0
+ORD-2024-2121,2024-01-10,2024-01-13,Small Business,Apparel,2,155.58,96.36,6.8,5,,WH-North,North,Standard Delivery,Delayed,3.0
+ORD-2024-2009,2024-03-18,2024-03-20,Corporate,Office Supplies,10,422.11,60.99,6.6,5,641.9,WH-Central,North,Standard Delivery,Delayed,1.0
+ORD-2024-1945,2024-02-04,2024-02-08,Consumer,Office Supplies,2,67.3,36.3,5.4,5,357.8,WH-Central,East,Standard Delivery,Delivered,5.0
+ORD-2024-1222,2024-02-13,2024-02-14,Consumer,Apparel,1,70.72,41.41,6.1,5,707.0,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1179,2024-04-24,2024-04-27,Consumer,Apparel,10,751.2,,2.3,1,748.5,WH-North,East,Same-Day Courier,Delayed,3.0
+ORD-2024-2098,2024-01-13,2024-01-16,Home Office,Industrial Machinery,5,5979.5,55.23,7.5,5,812.3,WH-West,South,Standard Delivery,Delayed,1.0
+ORD-2024-1099,2024-01-10,2024-01-11,Consumer,Electronics,5,1220.97,,4.4,5,670.7,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1757,2024-03-27,2024-03-28,Corporate,Apparel,1,55.45,21.35,5.2,5,134.0,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1521,2024-02-15,2024-02-17,Consumer,Apparel,3,199.63,155.82,2.1,2,892.1,WH-Central,South,Express Air,Delivered,3.0
+ORD-2024-1761,2024-04-19,2024-04-23,Consumer,Electronics,1,272.83,237.23,2.0,1,1284.3,WH-East,East,Same-Day Courier,Delivered,5.0
+ORD-2024-1022,2024-02-23,2024-02-25,Consumer,Apparel,2,115.62,145.34,1.0,1,538.9,WH-South,South,Same-Day Courier,Delivered,4.0
+ORD-2024-1356,2024-01-12,2024-01-13,Consumer,Electronics,25,6098.87,99.64,4.9,5,632.1,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-1733,2024-06-02,2024-06-06,Corporate,Office Supplies,3,111.84,181.75,2.2,2,1106.6,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-2057,2024-05-29,2024-06-02,Consumer,Industrial Machinery,2,2897.41,43.0,3.6,5,636.4,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-2191,2024-03-30,2024-04-02,Corporate,Office Supplies,1,34.74,93.26,3.2,2,566.9,WH-South,East,Express Air,Delivered,3.0
+ORD-2024-1611,2024-02-12,2024-02-15,Home Office,Industrial Machinery,1,1494.99,85.04,3.2,2,493.7,WH-East,North,Express Air,Delivered,3.0
+ORD-2024-2084,2024-06-06,2024-06-07,Small Business,Electronics,1,246.9,75.32,,5,1243.1,WH-East,South,Standard Delivery,Delayed,2.0
+ORD-2024-1340,2024-06-12,2024-06-13,Corporate,Industrial Machinery,3,3208.08,50.99,8.1,7,357.8,WH-West,South,Ground Freight,Delayed,1.0
+ORD-2024-1431,2024-05-24,2024-05-28,Home Office,Healthcare Supplies,1,136.87,44.78,4.9,5,,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1939,2024-01-09,2024-01-13,Corporate,Industrial Machinery,1,1149.95,48.78,6.8,5,709.1,WH-Central,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1217,2024-04-02,2024-04-06,Corporate,Office Supplies,1,40.98,147.99,3.4,2,978.5,WH-North,Central,Express Air,Delayed,1.0
+ORD-2024-1203,2024-04-15,2024-04-16,Home Office,Industrial Machinery,10,14026.75,252.97,2.3,2,1419.7,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-2027,2024-03-04,2024-03-05,Home Office,Office Supplies,3,111.07,40.08,,5,332.0,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-2151,2024-05-26,2024-05-29,Home Office,Electronics,1,253.23,96.52,3.2,2,580.3,WH-East,South,Express Air,Delivered,4.0
+ORD-2024-1093,2024-05-20,2024-05-23,Corporate,Apparel,2,112.46,48.34,6.2,5,617.1,WH-South,East,Standard Delivery,Delayed,2.0
+ORD-2024-1901,2024-06-04,2024-06-08,Consumer,Electronics,2,436.61,152.68,3.7,2,1105.4,WH-West,North,Express Air,Delivered,3.0
+ORD-2024-1068,2024-02-07,2024-02-11,Consumer,Electronics,2,476.55,218.5,2.8,1,1250.1,WH-West,West,Same-Day Courier,Delivered,4.0
+ORD-2024-2074,2024-03-11,2024-03-12,Small Business,Apparel,1,80.79,-25.0,4.3,5,400.1,WH-East,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1284,2024-02-25,2024-02-27,Corporate,Office Supplies,5,153.84,55.43,6.0,5,741.3,WH-North,Central,Standard Delivery,Delayed,1.0
+ORD-2024-1696,2024-05-04,2024-05-06,Consumer,Office Supplies,1,39.49,61.75,6.3,5,1099.1,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1085,2024-02-02,2024-02-03,Consumer,Industrial Machinery,1,1302.85,130.81,1.9,2,,WH-South,East,Express Air,Delivered,4.0
+ORD-2024-1434,2024-01-02,2024-01-05,Consumer,Electronics,1,246.76,123.84,3.1,2,801.1,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-2225,2024-01-20,2024-01-21,Corporate,Apparel,1,55.83,121.06,1.3,2,661.9,WH-South,Central,Express Air,Delivered,4.0
+ORD-2024-1153,2024-04-23,2024-04-24,Corporate,Apparel,1,74.93,81.71,9.8,7,893.8,WH-South,North,Ground Freight,Delivered,4.0
+ORD-2024-1075,2024-04-05,2024-04-07,Corporate,Office Supplies,2,83.6,123.47,3.7,2,665.6,WH-North,East,Express Air,Delivered,3.0
+ORD-2024-2108,2024-05-16,2024-05-20,Corporate,Office Supplies,3,96.01,71.27,6.5,5,1394.2,WH-Central,Central,Standard Delivery,Delayed,1.0
+ORD-2024-1789,2024-03-04,2024-03-06,Small Business,Electronics,2,510.44,35.52,3.8,5,425.8,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1580,2024-01-01,2024-01-03,Corporate,Healthcare Supplies,5,650.13,37.3,5.4,5,240.9,WH-South,West,Standard Delivery,Delivered,3.0
+ORD-2024-1446,2024-01-14,2024-01-17,Small Business,Electronics,2,456.18,59.6,6.6,5,1082.5,WH-North,East,Standard Delivery,Delayed,2.0
+ORD-2024-1703,2024-01-15,2024-01-18,Consumer,Apparel,1,65.35,40.79,6.6,5,570.5,WH-West,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1188,2024-02-06,2024-02-08,Corporate,Electronics,1,273.71,174.62,1.0,1,905.7,WH-North,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1271,2024-04-27,2024-04-28,Home Office,Healthcare Supplies,2,264.39,61.22,5.5,5,915.0,WH-North,South,Standard Delivery,Delivered,5.0
+ORD-2024-1236,2024-05-01,2024-05-03,Consumer,Office Supplies,1,40.43,93.07,1.5,2,442.3,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1487,2024-06-19,2024-06-21,Consumer,Electronics,4,1030.53,128.61,2.8,2,827.1,WH-West,East,Express Air,Delivered,4.0
+ORD-2024-2231,2024-01-10,2024-01-11,Consumer,Apparel,1,59.99,180.15,1.0,1,896.6,WH-North,Central,,Delivered,5.0
+ORD-2024-1559,2024-03-11,2024-03-12,Corporate,Electronics,1,241.39,92.47,3.2,2,430.4,WH-West,Central,Express Air,Delayed,1.0
+ORD-2024-1117,2024-05-11,2024-05-15,Consumer,Healthcare Supplies,1,130.32,46.25,4.9,5,720.4,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1637,2024-05-09,2024-05-13,Consumer,Electronics,3,853.84,181.0,10.8,7,2334.4,WH-North,West,Ground Freight,Returned,1.0
+ORD-2024-2145,2024-01-01,2024-01-04,Home Office,Office Supplies,1,38.78,51.59,4.2,5,718.7,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1801,2024-05-09,2024-05-11,Consumer,Office Supplies,5,166.87,54.81,5.4,5,846.5,WH-North,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1750,2024-01-21,2024-01-25,Consumer,Electronics,15,3779.41,74.11,4.3,5,669.4,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1512,2024-06-01,2024-06-04,Small Business,Electronics,25,5847.4,210.28,,7,1795.2,WH-South,South,Ground Freight,Delayed,1.0
+ORD-2024-1633,2024-05-08,2024-05-11,Corporate,Apparel,3,190.2,,,5,636.5,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1885,2024-03-06,2024-03-09,Consumer,Apparel,3,228.07,31.72,5.1,5,318.2,WH-Central,Central,Standard Delivery,Delivered,5.0
+ORD-2024-2081,2024-04-10,2024-04-13,Consumer,Electronics,3,790.95,192.09,1.4,1,1070.3,WH-West,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1965,2024-05-04,2024-05-07,Consumer,Office Supplies,5,203.28,62.51,6.7,7,374.6,WH-South,West,Ground Freight,Delivered,4.0
+ORD-2024-1126,2024-02-21,2024-02-22,Home Office,Office Supplies,1,40.24,132.62,2.9,2,807.6,WH-North,North,Express Air,Delayed,3.0
+ORD-2024-1790,2024-01-31,2024-02-02,Consumer,Apparel,1,70.63,52.86,7.2,5,1018.9,WH-North,North,Standard Delivery,Delayed,1.0
+ORD-2024-1829,2024-06-20,2023-12-15,Corporate,Apparel,5,316.04,113.46,2.9,2,485.1,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1116,2024-04-27,2024-05-01,Home Office,Apparel,1,57.14,44.53,4.9,5,765.7,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-1473,2024-06-03,2024-06-04,Home Office,Electronics,1,240.98,,1.5,2,564.3,WH-West,West,  express air  ,Delivered,5.0
+ORD-2024-1740,2024-06-18,2024-06-22,Corporate,Apparel,4,263.02,72.84,7.5,7,657.9,WH-South,South,Ground Freight,Delivered,3.0
+ORD-2024-2110,2024-06-16,2024-06-18,Home Office,Electronics,1,269.05,115.0,1.0,1,428.1,WH-East,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1057,2024-06-22,2024-06-23,Consumer,Apparel,25,2001.36,163.86,7.4,5,1834.9,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-1603,2024-05-31,2024-06-04,Consumer,Apparel,2,144.56,122.76,1.0,2,639.9,WH-Central,South,Express Air,Delivered,
+ORD-2024-1786,2024-04-08,2024-04-11,Corporate,Electronics,1,276.46,70.9,9.2,5,1284.6,WH-South,South,Standard Delivery,Returned,1.0
+ORD-2024-1830,2024-01-08,2024-01-12,Consumer,Electronics,1,234.28,98.72,1.0,1,380.5,WH-Central,East,Same-Day Courier,Delivered,5.0
+ORD-2024-1119,2024-01-12,2024-01-13,Corporate,Electronics,1,219.58,33.81,3.5,5,411.9,WH-North,South,Standard Delivery,Delivered,
+ORD-2024-1656,2024-05-16,2024-05-17,Consumer,Healthcare Supplies,10,1235.5,189.39,4.2,2,1008.6,WH-Central,Central,Express Air,Delivered,4.0
+ORD-2024-2024,2024-03-02,2024-03-04,Small Business,Healthcare Supplies,1,112.36,91.35,5.9,5,1592.5,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-1669,2024-04-24,2024-04-25,Consumer,Office Supplies,1,31.57,150.61,4.8,2,975.5,WH-North,South,Express Air,Delivered,5.0
+ORD-2024-1105,2024-06-25,2024-06-26,Consumer,Apparel,1,79.38,72.23,4.8,5,1256.3,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1635,2024-05-01,2024-05-02,Consumer,Office Supplies,2,75.74,33.69,5.1,5,389.6,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1369,2024-05-07,2024-05-11,Consumer,Apparel,2,116.7,57.99,6.0,5,1110.0,WH-West,South,Standard Delivery,Delayed,2.0
+ORD-2024-1268,2024-06-26,2024-06-28,Consumer,Electronics,1,267.84,76.47,8.3,7,980.6,WH-South,East,Ground Freight,Delivered,4.0
+ORD-2024-1655,2024-02-14,2024-02-18,Consumer,Electronics,2,531.2,27.54,3.1,5,224.0,WH-West,East,Standard Delivery,Delivered,4.0
+ORD-2024-1819,2024-02-01,2023-12-15,Consumer,Office Supplies,2,61.14,56.89,3.6,5,879.0,WH-Central,West,Standard Delivery,Delivered,5.0
+ORD-2024-1822,2024-01-01,2024-01-04,Consumer,Electronics,8,2423.0,127.23,2.4,2,536.0,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-2049,2024-03-01,2024-03-03,Consumer,Office Supplies,2,61.89,146.24,1.0,1,693.9,WH-East,East,Same-Day Courier,Delivered,4.0
+ORD-2024-1046,2024-02-26,2024-03-01,Consumer,Electronics,1,245.91,38.75,5.5,5,537.3,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1349,2024-04-02,2024-04-04,Corporate,Apparel,2,160.94,112.11,2.2,2,741.0,WH-North,South,Express Air,Delivered,4.0
+ORD-2024-2100,2024-06-03,2024-06-04,Consumer,Industrial Machinery,4,5950.69,55.19,6.0,5,873.6,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1876,2024-03-29,2024-03-31,Corporate,Industrial Machinery,1,1105.57,,8.1,7,377.9,WH-South,West,  ground freight  ,Delivered,4.0
+ORD-2024-1773,2024-01-15,2024-01-18,Consumer,Electronics,2,435.33,146.74,3.1,2,1088.4,WH-East,East,Express Air,Delivered,5.0
+ORD-2024-1195,2024-02-02,2024-02-03,Consumer,Electronics,2,462.3,51.35,5.9,7,422.6,WH-North,East,Ground Freight,Delivered,4.0
+ORD-2024-1102,2024-01-12,2024-01-16,Consumer,Office Supplies,2,66.29,111.9,3.0,2,615.2,WH-East,West,Express Air,Delayed,1.0
+ORD-2024-1004,2024-03-20,2024-03-24,Consumer,Industrial Machinery,3,4070.49,51.06,,7,345.9,WH-South,North,Ground Freight,Delivered,3.0
+ORD-2024-1619,2024-01-29,2024-02-01,Corporate,Apparel,2,141.91,36.79,5.7,5,386.0,WH-North,North,Standard Delivery,Delayed,3.0
+ORD-2024-1571,2024-03-11,2024-03-14,Home Office,Electronics,5,1402.61,58.68,4.7,5,656.2,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-1052,2024-06-11,2024-06-15,Small Business,Electronics,1,217.43,37.18,4.0,5,582.7,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1263,2024-01-20,2024-01-23,Corporate,Electronics,3,706.85,40.1,5.6,5,361.4,WH-North,South,Standard Delivery,Delayed,3.0
+ORD-2024-2161,2024-01-01,2024-01-02,Consumer,Electronics,3,723.97,41.1,,5,569.5,WH-East,East,Standard Delivery,Delayed,3.0
+ORD-2024-1443,2024-06-02,2024-06-04,Consumer,Electronics,2,557.38,138.38,1.0,1,601.9,WH-West,West,Same-Day Courier,Delivered,5.0
+ORD-2024-2061,2024-01-14,2024-01-16,Small Business,Apparel,2,111.94,46.98,6.0,5,603.7,WH-Central,West,Standard Delivery,Delivered,3.0
+ORD-2024-1782,2024-05-21,2024-05-22,Consumer,Office Supplies,4,141.26,105.41,4.6,2,496.3,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1837,2024-05-02,2024-05-03,Consumer,Industrial Machinery,8,10420.39,50.29,6.1,5,569.8,WH-North,West,Standard Delivery,Delayed,1.0
+ORD-2024-2159,2024-05-09,2024-05-10,Consumer,Office Supplies,3,100.83,57.67,9.2,7,405.7,WH-East,Central,Ground Freight,Delivered,5.0
+ORD-2024-1691,2024-06-24,2024-06-26,Consumer,Office Supplies,2,77.38,59.06,7.7,5,922.2,WH-West,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1304,2024-02-28,2024-03-01,Corporate,Electronics,1,219.34,67.62,6.6,5,1377.9,WH-West,East,Standard Delivery,Delivered,4.0
+ORD-2024-1341,2024-01-21,2024-01-25,Corporate,Healthcare Supplies,10,958.31,243.17,4.0,1,974.7,WH-South,West,Same-Day Courier,Delayed,1.0
+ORD-2024-1983,2024-01-28,2024-02-01,Consumer,Apparel,2,135.91,,7.0,5,501.8,WH-Central,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1313,2024-02-03,2024-02-04,Small Business,Electronics,2,621.64,140.17,1.1,1,535.6,WH-South,North,Same-Day Courier,Delivered,4.0
+ORD-2024-1149,2024-05-09,2024-05-12,Consumer,Apparel,2,118.82,55.12,5.4,5,980.8,WH-West,East,,Delivered,5.0
+ORD-2024-1124,2024-04-11,2024-04-12,Consumer,Electronics,1,256.45,136.92,3.5,1,751.1,WH-North,South,Same-Day Courier,Delayed,1.0
+ORD-2024-2118,2024-06-12,2024-06-15,Consumer,Office Supplies,3,106.65,66.2,6.2,5,1146.2,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1574,2024-02-11,2024-02-13,Home Office,Industrial Machinery,2,2694.25,110.94,3.7,2,5247.393496320503,WH-West,East,Express Air,Delayed,1.0
+ORD-2024-1697,2024-05-17,2024-05-20,Corporate,Electronics,3,769.03,56.75,5.1,5,893.5,WH-West,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1664,2024-02-17,2024-02-20,Consumer,Office Supplies,2,70.3,95.18,1.1,2,529.9,WH-South,North,Express Air,Delivered,
+ORD-2024-1050,2024-04-29,2024-05-02,Small Business,Electronics,1,311.84,43.82,4.9,5,535.1,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-2244,2024-03-08,2024-03-10,Home Office,Office Supplies,3,93.97,65.22,9.1,7,576.5,WH-North,North,Ground Freight,Delivered,
+ORD-2024-1726,2024-03-02,2024-03-05,Consumer,Electronics,1,248.38,43.35,5.7,5,522.0,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-1799,2024-01-20,2024-01-24,Small Business,Electronics,2,452.39,68.15,6.7,5,1259.5,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1833,2024-03-09,2024-03-13,Consumer,Healthcare Supplies,1,101.1,43.75,6.9,5,694.9,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1353,2024-01-24,2024-01-27,Consumer,Office Supplies,2,74.48,174.87,-4.5,2,1075.4,WH-North,Central,Express Air,Delivered,4.0
+ORD-2024-2224,2024-02-23,2024-02-27,Consumer,Office Supplies,1,31.22,62.78,6.8,5,1113.5,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1142,2024-03-17,2024-03-18,Corporate,Electronics,2,593.88,-45.0,4.8,2,348.3,WH-West,West,Express Air,Delivered,4.0
+ORD-2024-1470,2024-02-02,2024-02-06,Consumer,Electronics,2,435.03,119.28,4.0,2,553.9,WH-South,South,Express Air,Delivered,3.0
+ORD-2024-1882,2024-01-23,2024-01-26,Consumer,Industrial Machinery,5,5426.82,53.39,4.4,5,682.4,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1653,2024-05-03,2024-05-04,Corporate,Electronics,5,1393.71,91.84,6.2,5,1735.2,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-1399,2024-04-16,2024-04-17,Home Office,Apparel,10,652.06,,6.5,7,1254.2,WH-West,North,  ground freight  ,Delivered,4.0
+ORD-2024-2026,2024-02-15,2024-02-18,Home Office,Apparel,1,66.7,53.11,6.3,7,614.2,WH-North,Central,Ground Freight,Delivered,4.0
+ORD-2024-2221,2024-06-20,2024-06-22,Consumer,Healthcare Supplies,3,286.23,128.94,2.0,2,714.4,WH-Central,West,Express Air,Delivered,4.0
+ORD-2024-1320,2024-03-22,2024-03-24,Corporate,Industrial Machinery,1,1056.13,-12.5,8.3,5,734.3,WH-South,Central,Standard Delivery,Returned,1.0
+ORD-2024-1019,2024-04-14,2024-04-16,Consumer,Electronics,3,890.17,50.63,6.6,7,269.3,WH-North,West,,Delivered,5.0
+ORD-2024-1684,2024-05-11,2024-05-12,Small Business,Industrial Machinery,0,1123.92,77.33,5.7,5,1328.5,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1035,2024-05-06,2024-05-09,Home Office,Office Supplies,2,64.7,36.14,4.0,5,,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1824,2024-06-24,2024-06-27,Corporate,Apparel,1,73.4,28.98,3.4,5,283.3,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-1902,2024-06-13,2024-06-17,Consumer,Apparel,1,73.35,46.98,4.4,5,655.3,WH-East,Central,Standard Delivery,Delivered,
+ORD-2024-1505,2024-05-13,2024-05-15,Consumer,Apparel,8,456.92,81.5,5.9,5,1340.6,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1827,2024-01-15,2024-01-16,Consumer,Office Supplies,1,41.35,80.14,8.2,5,1411.8,WH-North,East,Standard Delivery,Delayed,2.0
+ORD-2024-2139,2024-03-29,2024-03-30,Corporate,Industrial Machinery,5,7086.43,54.2,6.8,7,294.2,WH-West,North,Ground Freight,Delivered,3.0
+ORD-2024-1407,2024-02-26,2024-02-29,Consumer,Office Supplies,1,43.17,42.64,7.5,5,654.1,WH-Central,North,Standard Delivery,Delayed,3.0
+ORD-2024-1920,2024-01-18,2024-01-22,Home Office,Industrial Machinery,3,3271.46,34.22,4.7,5,361.0,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1817,2024-05-09,2024-05-11,Consumer,Electronics,3,860.63,122.43,2.2,2,668.2,WH-North,North,Express Air,Delivered,
+ORD-2024-1866,2024-03-03,2024-03-07,Consumer,Office Supplies,8,308.29,190.92,3.1,2,845.2,WH-West,South,Express Air,Delivered,5.0
+ORD-2024-1537,2024-05-31,2024-06-02,Consumer,Industrial Machinery,5,5896.06,58.4,6.2,7,257.3,WH-East,Central,Ground Freight,Delivered,4.0
+ORD-2024-1758,2024-04-14,2024-04-18,Home Office,Electronics,15,3996.35,103.52,5.0,5,1459.8,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-2136,2024-03-04,2024-03-06,Home Office,Office Supplies,2,74.55,54.53,4.2,5,841.1,WH-South,Central,Standard Delivery,Delivered,5.0
+ORD-2024-2067,2024-02-18,2024-02-22,Consumer,Office Supplies,5,199.89,,5.2,5,1671.7,WH-West,West,Standard Delivery,Delivered,3.0
+ORD-2024-1038,2024-06-03,2024-06-04,Corporate,Electronics,1,221.84,80.84,2.0,2,367.3,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-1175,2024-05-20,2024-05-23,Consumer,Healthcare Supplies,3,396.04,44.81,5.6,7,248.7,WH-North,South,Ground Freight,Delivered,4.0
+ORD-2024-1245,2024-05-05,2024-05-09,Small Business,Industrial Machinery,3,3993.84,213.37,4.6,2,1797.5,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1810,2024-01-09,2024-01-12,Small Business,Electronics,3,684.97,51.13,6.2,5,622.6,WH-West,West,Standard Delivery,Delayed,3.0
+ORD-2024-2153,2024-01-09,2024-01-10,Corporate,Office Supplies,1,37.86,54.26,4.6,5,1024.5,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-2085,2024-01-20,2024-01-21,Corporate,Office Supplies,1,42.46,52.78,5.2,5,858.8,WH-North,South,  standard delivery  ,Delivered,3.0
+ORD-2024-2058,2024-05-10,2024-05-12,Corporate,Electronics,50,12337.16,202.19,6.3,7,764.1,WH-North,North,Ground Freight,Delivered,4.0
+ORD-2024-1784,2024-01-28,2024-01-31,Consumer,Industrial Machinery,3,3810.63,42.6,4.3,5,556.8,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1043,2024-01-17,2024-01-18,Small Business,Industrial Machinery,1,1432.57,72.94,3.4,2,227.6,WH-West,East,Express Air,Delivered,4.0
+ORD-2024-1489,2024-02-09,2024-02-13,Home Office,Office Supplies,1,33.4,140.23,2.0,1,627.6,WH-South,Central,Same-Day Courier,Delivered,3.0
+ORD-2024-1154,2024-01-28,2024-01-31,Small Business,Industrial Machinery,8,11038.18,199.32,2.6,2,1152.4,WH-West,West,Express Air,Delivered,3.0
+ORD-2024-1638,2024-03-21,2024-03-22,Consumer,Apparel,5,309.43,66.92,6.3,5,1134.8,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1961,2024-06-28,2024-07-01,Corporate,Apparel,4,320.82,180.87,5.9,1,673.8,WH-East,North,Same-Day Courier,Delayed,2.0
+ORD-2024-1662,2024-06-15,2024-06-16,Corporate,Healthcare Supplies,1,123.34,43.71,6.3,7,,WH-West,South,Ground Freight,Delivered,4.0
+ORD-2024-1853,2024-06-07,2024-06-08,Home Office,Industrial Machinery,2,2092.23,87.27,8.6,7,1151.0,WH-South,East,Ground Freight,Delayed,2.0
+ORD-2024-1942,2024-06-13,2024-06-16,Corporate,Industrial Machinery,1,1238.41,46.79,4.8,5,774.3,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1287,2024-05-10,2024-05-12,Corporate,Industrial Machinery,1,1314.74,37.9,6.3,5,513.9,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1625,2024-02-11,2024-02-13,Consumer,Office Supplies,1,38.03,69.12,9.0,7,712.8,WH-East,East,Ground Freight,Delayed,1.0
+ORD-2024-2198,2024-05-26,2024-05-27,Corporate,Electronics,8,1963.78,63.63,5.9,5,584.0,WH-West,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1685,2024-02-06,2024-02-09,Corporate,Apparel,1,62.1,95.25,6.5,7,1441.7,WH-South,East,Ground Freight,Delivered,4.0
+ORD-2024-2247,2024-05-04,2024-05-07,Consumer,Apparel,1,71.13,39.3,9.7,7,193.1,WH-South,South,Ground Freight,Delayed,1.0
+ORD-2024-1989,2024-05-04,2024-05-08,Home Office,Electronics,2,581.72,58.62,6.9,7,485.9,WH-East,South,Ground Freight,Delivered,4.0
+ORD-2024-1569,2024-02-12,2024-02-15,Consumer,Office Supplies,2,76.45,184.6,-1.0,1,842.3,WH-East,West,Same-Day Courier,Delivered,3.0
+ORD-2024-1081,2024-04-19,2024-04-21,Corporate,Apparel,10,553.47,85.13,5.8,5,1188.5,WH-West,Central,Standard Delivery,Delayed,3.0
+ORD-2024-1734,2024-02-05,2024-02-06,Consumer,Electronics,10,2843.79,151.2,3.5,2,433.0,WH-North,South,Express Air,Delivered,4.0
+ORD-2024-1792,2024-01-10,2024-01-14,Corporate,Office Supplies,8,295.67,181.08,1.5,1,487.0,WH-North,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1017,2024-01-03,2024-01-05,Corporate,Office Supplies,2,87.44,56.12,7.0,5,1046.2,WH-South,East,Standard Delivery,Delayed,1.0
+ORD-2024-1127,2024-03-20,2024-03-24,Home Office,Office Supplies,10,376.62,71.75,6.1,5,1049.4,WH-Central,West,Standard Delivery,Delivered,3.0
+ORD-2024-1322,2024-03-23,2024-03-25,Corporate,Apparel,1,60.34,68.34,3.6,5,1078.1,WH-East,East,Standard Delivery,Delivered,4.0
+ORD-2024-1255,2024-05-12,2024-05-15,Corporate,Office Supplies,4,135.49,45.18,5.0,5,489.7,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-2048,2024-02-24,2024-02-25,Home Office,Electronics,4,1203.79,52.59,6.8,7,322.6,WH-North,South,Ground Freight,Delivered,5.0
+ORD-2024-1982,2024-03-17,2024-03-20,Consumer,Healthcare Supplies,1,117.83,194.35,2.7,1,1049.1,WH-West,South,Same-Day Courier,Delivered,3.0
+ORD-2024-1927,2024-02-27,2024-03-01,Corporate,Industrial Machinery,2,2062.56,131.86,1.7,2,860.3,WH-Central,East,Express Air,Delivered,4.0
+ORD-2024-1980,2024-04-22,2024-04-25,Consumer,Apparel,4,299.53,100.08,2.9,2,290.1,WH-North,North,,Delayed,2.0
+ORD-2024-2102,2024-03-04,2024-03-05,Home Office,Industrial Machinery,3,4424.62,63.45,4.7,5,1116.5,WH-West,North,Standard Delivery,Delivered,
+ORD-2024-1190,2024-03-26,2024-03-30,Consumer,Healthcare Supplies,1,105.51,31.22,6.1,5,408.2,WH-West,East,Standard Delivery,Delayed,3.0
+ORD-2024-1115,2024-02-25,2024-02-27,Home Office,Electronics,1,274.93,227.26,2.8,2,1834.3,WH-South,North,Express Air,Delivered,5.0
+ORD-2024-1992,2024-05-22,2024-05-26,Consumer,Industrial Machinery,1,1100.34,26.8,6.6,5,228.2,WH-North,Central,Standard Delivery,Delivered,3.0
+ORD-2024-2245,2024-05-16,2024-05-19,Corporate,Office Supplies,1,39.92,218.88,3.6,2,1598.0,WH-Central,North,Express Air,Delayed,1.0
+ORD-2024-2010,2024-02-28,2024-03-01,Consumer,Apparel,5,348.11,72.19,8.4,7,592.0,WH-East,South,Ground Freight,Delivered,3.0
+ORD-2024-1606,2024-06-14,2024-06-15,Consumer,Apparel,1,72.55,66.11,8.4,7,751.1,WH-North,West,Ground Freight,Delivered,4.0
+ORD-2024-1180,2024-04-08,2024-04-12,Consumer,Office Supplies,1,37.88,47.24,5.4,5,705.2,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1301,2024-02-14,2024-02-16,Corporate,Industrial Machinery,4,5601.6,61.59,5.1,5,776.7,WH-West,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1496,2024-03-14,2024-03-15,Corporate,Electronics,3,817.54,180.27,3.9,2,1099.1,WH-South,North,Express Air,Delivered,3.0
+ORD-2024-1348,2024-05-06,2024-05-10,Consumer,Electronics,15,3501.63,91.66,5.3,5,1054.3,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-2101,2024-02-20,2024-02-24,Small Business,Healthcare Supplies,10,942.56,117.93,1.0,2,122.3,WH-South,East,,Delivered,5.0
+ORD-2024-1036,2024-04-13,2024-04-16,Consumer,Electronics,1,291.72,83.37,1.8,2,474.4,WH-East,West,Express Air,Delivered,5.0
+ORD-2024-1744,2024-03-22,2024-03-23,Consumer,Apparel,1,64.23,33.84,5.4,5,414.4,WH-West,West,Standard Delivery,Delivered,5.0
+ORD-2024-2150,2024-04-14,2024-04-15,Corporate,Office Supplies,1,42.74,146.36,3.6,2,1084.8,WH-North,West,Express Air,Delayed,3.0
+ORD-2024-2055,2024-03-01,2024-03-02,Consumer,Office Supplies,4,158.57,54.23,3.0,5,631.7,WH-East,East,Standard Delivery,Delivered,5.0
+ORD-2024-1517,2024-06-24,2024-06-27,Home Office,Office Supplies,4,151.1,68.25,7.3,7,729.7,WH-North,South,Ground Freight,Delivered,5.0
+ORD-2024-1372,2024-05-09,2024-05-12,Consumer,Industrial Machinery,1,1466.4,49.74,5.7,5,882.0,WH-West,Central,  standard delivery  ,Delivered,4.0
+ORD-2024-1045,2024-01-08,2024-01-11,Corporate,Electronics,2,590.25,132.24,3.0,2,911.9,WH-East,East,Express Air,Delivered,
+ORD-2024-1476,2024-03-18,2024-03-20,Consumer,Office Supplies,1,30.64,81.21,6.1,5,1403.2,WH-South,West,Standard Delivery,Delivered,4.0
+ORD-2024-1157,2024-02-02,2024-02-04,Home Office,Apparel,1,66.61,71.72,,7,966.2,WH-South,Central,Ground Freight,Delivered,4.0
+ORD-2024-2113,2024-06-19,2024-06-20,Corporate,Office Supplies,3,96.85,113.29,1.7,2,692.5,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1171,2024-05-01,2024-05-02,Consumer,Office Supplies,3,106.68,105.07,1.9,2,476.4,WH-South,South,Express Air,Delivered,3.0
+ORD-2024-1016,2024-01-22,2024-01-24,Consumer,Office Supplies,1,41.99,52.02,5.5,5,939.2,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1511,2024-03-28,2024-04-01,Consumer,Apparel,1,78.13,105.12,3.1,1,377.9,WH-Central,South,Same-Day Courier,Delivered,4.0
+ORD-2024-1048,2024-04-07,2024-04-11,Corporate,Industrial Machinery,3,3850.78,127.45,8.2,5,2251.6,WH-North,South,Standard Delivery,Returned,1.0
+ORD-2024-1191,2024-05-05,2024-05-08,Home Office,Electronics,2,473.9,87.23,1.7,2,399.5,WH-Central,East,  express air  ,Delivered,4.0
+ORD-2024-1546,2024-06-07,2024-06-10,Consumer,Apparel,3,205.36,75.69,6.1,5,1251.2,WH-North,South,Standard Delivery,Delivered,4.0
+ORD-2024-1515,2024-03-30,2024-03-31,Consumer,Office Supplies,1,31.17,56.23,7.4,7,522.5,WH-South,South,Ground Freight,Delivered,5.0
+ORD-2024-1658,2024-05-29,2024-06-01,Corporate,Office Supplies,2,84.18,163.77,1.0,1,692.1,WH-South,West,Same-Day Courier,Delivered,4.0
+ORD-2024-2045,2024-02-26,2024-02-29,Corporate,Electronics,8,1948.02,83.26,7.2,7,512.4,WH-South,North,Ground Freight,Delivered,5.0
+ORD-2024-2019,2024-03-22,2024-03-25,Consumer,Office Supplies,1,36.84,37.53,5.7,5,585.1,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-2069,2024-03-05,2024-03-06,Consumer,Office Supplies,3,99.23,43.46,4.9,5,432.6,WH-North,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1959,2024-02-17,2024-02-20,Corporate,Healthcare Supplies,1,103.07,58.6,,7,491.3,WH-East,East,Ground Freight,Delayed,1.0
+ORD-2024-2200,2024-03-28,2024-03-30,Home Office,Electronics,5,1164.91,122.6,3.1,2,596.4,WH-South,East,Express Air,Delivered,4.0
+ORD-2024-1283,2024-02-15,2024-02-16,Consumer,Electronics,2,507.68,42.62,8.7,7,205.7,WH-Central,West,Ground Freight,Delivered,5.0
+ORD-2024-1797,2024-01-30,2024-01-31,Corporate,Apparel,5,384.92,213.47,2.9,1,863.1,WH-East,North,Same-Day Courier,Delayed,3.0
+ORD-2024-1225,2024-03-19,2024-03-21,Consumer,Industrial Machinery,25,36577.73,110.91,5.2,5,1164.6,WH-Central,South,,Delivered,5.0
+ORD-2024-1026,2024-05-02,2024-05-05,Consumer,Electronics,4,851.65,61.41,6.0,5,910.3,WH-West,North,Standard Delivery,Delivered,3.0
+ORD-2024-1437,2024-01-04,2024-01-05,Home Office,Office Supplies,1,36.76,49.06,6.8,7,414.0,WH-East,East,Ground Freight,Delivered,
+ORD-2024-2239,2024-02-12,2024-02-16,Consumer,Office Supplies,1,30.68,123.74,8.6,7,1783.3,WH-West,East,Ground Freight,Delivered,3.0
+ORD-2024-1229,2024-06-24,2024-06-28,Corporate,Office Supplies,2,72.48,146.85,3.6,2,1004.3,WH-South,East,Express Air,Delivered,5.0
+ORD-2024-1037,2024-05-26,2024-05-27,Consumer,Office Supplies,5,177.87,282.08,2.6,1,1297.6,WH-East,North,Same-Day Courier,Delivered,4.0
+ORD-2024-1749,2024-02-08,2024-02-12,Corporate,Electronics,1,304.2,82.82,1.0,2,342.5,WH-South,East,Express Air,Delivered,
+ORD-2024-1469,2024-05-20,2024-05-21,Small Business,Electronics,2,593.18,61.57,7.4,5,871.4,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-2090,2024-02-10,2024-02-11,Small Business,Apparel,1,78.88,47.64,5.9,5,784.4,WH-Central,Central,Standard Delivery,Delayed,2.0
+ORD-2024-1930,2024-05-07,2024-05-08,Consumer,Office Supplies,1,34.68,,5.8,5,1868.2,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-1687,2024-03-17,2024-03-21,Consumer,Apparel,1,75.14,138.66,3.5,1,766.0,WH-West,South,Same-Day Courier,Delivered,
+ORD-2024-1639,2024-06-06,2024-06-07,Consumer,Healthcare Supplies,1,97.43,59.18,5.7,5,907.1,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-2118,2024-06-12,2024-06-15,Consumer,Office Supplies,3,106.65,66.2,6.2,5,1146.2,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-2065,2024-03-07,2024-03-10,Corporate,Electronics,1,236.21,53.07,6.7,7,405.8,WH-Central,West,Ground Freight,Delivered,3.0
+ORD-2024-2156,2024-06-26,2024-06-30,Consumer,Office Supplies,8,268.75,133.41,1.0,2,587.7,WH-Central,South,Express Air,Delivered,4.0
+ORD-2024-1800,2024-02-17,2024-02-20,Corporate,Office Supplies,2,73.17,44.01,6.8,5,703.9,WH-Central,South,Standard Delivery,Delayed,2.0
+ORD-2024-1160,2024-05-19,2024-05-23,Consumer,Electronics,50,15386.51,537.1,2.7,2,1825.7,WH-North,East,Express Air,Delivered,3.0
+ORD-2024-1956,2024-02-16,2024-02-17,Corporate,Electronics,5,1462.66,53.03,6.9,5,616.0,WH-West,East,Standard Delivery,Delayed,2.0
+ORD-2024-1821,2024-05-23,2024-05-24,Consumer,Office Supplies,8,247.48,73.59,6.8,5,1123.6,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-2083,2024-03-16,2024-03-19,Home Office,Industrial Machinery,2,2924.05,37.8,6.0,5,422.5,WH-North,Central,Standard Delivery,Delayed,3.0
+ORD-2024-1877,2024-01-19,2024-01-23,Corporate,Electronics,2,609.89,171.29,3.1,2,1362.5,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-1913,2024-05-19,2024-05-23,Consumer,Apparel,1,56.69,78.65,7.4,5,1350.3,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1152,2024-04-02,2024-04-03,Consumer,Electronics,2,555.07,146.62,1.8,1,576.7,WH-Central,South,Same-Day Courier,Delivered,5.0
+ORD-2024-2165,2024-03-30,2024-04-02,Home Office,Healthcare Supplies,4,479.84,72.96,6.6,5,1152.3,WH-Central,South,Standard Delivery,Delayed,2.0
+ORD-2024-1509,2024-01-22,2024-01-23,Corporate,Office Supplies,2,86.92,29.78,4.0,5,186.8,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-2070,2024-02-26,2024-02-27,Consumer,Healthcare Supplies,4,462.58,263.64,3.6,1,1280.6,WH-South,South,Same-Day Courier,Delivered,
+ORD-2024-1103,2024-05-17,2024-05-20,Corporate,Apparel,1,75.37,51.9,7.0,5,733.2,WH-Central,South,Standard Delivery,Delivered,4.0
+ORD-2024-1586,2024-03-08,2024-03-09,Consumer,Electronics,3,755.53,119.7,8.2,5,2401.2,WH-East,South,Standard Delivery,Delayed,2.0
+ORD-2024-2128,2024-04-03,2024-04-04,Consumer,Office Supplies,1,32.35,55.68,6.3,5,1102.6,WH-South,West,Standard Delivery,Delayed,1.0
+ORD-2024-1053,2024-02-23,2024-02-27,Home Office,Office Supplies,1,39.47,47.06,5.2,5,701.9,WH-Central,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1151,2024-06-07,2024-06-11,Consumer,Electronics,-4,981.93,92.5,8.5,5,1836.0,WH-South,South,Standard Delivery,Delayed,2.0
+ORD-2024-1403,2024-01-19,2024-01-21,Home Office,Office Supplies,1,38.51,29.71,3.6,5,264.1,WH-South,South,Standard Delivery,Delivered,5.0
+ORD-2024-1207,2024-05-02,2024-05-04,Corporate,Industrial Machinery,3,3487.8,63.44,5.1,5,1050.7,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-2206,2024-03-13,2024-03-15,Corporate,Office Supplies,5,175.86,99.35,7.5,5,1751.1,WH-South,West,Standard Delivery,Delayed,2.0
+ORD-2024-1008,2024-03-08,2024-03-10,Corporate,Electronics,2,510.98,34.87,5.1,5,351.1,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-2014,2024-02-20,2024-02-21,Corporate,Industrial Machinery,2,2855.56,78.74,7.0,5,1375.6,WH-East,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2060,2024-02-23,2024-02-27,Home Office,Office Supplies,5,149.0,45.96,6.9,5,442.1,WH-North,South,Standard Delivery,Delayed,
+ORD-2024-1452,2024-01-16,2024-01-17,Consumer,Office Supplies,1,33.29,40.4,4.8,5,558.1,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1253,2024-03-10,2024-03-13,Consumer,Office Supplies,8,313.42,57.22,7.1,5,683.2,WH-North,South,Standard Delivery,Delayed,2.0
+ORD-2024-1896,2024-02-10,2024-02-12,Consumer,Office Supplies,2,82.57,187.88,3.3,1,1062.0,WH-West,West,Same-Day Courier,Delayed,2.0
+ORD-2024-2115,2024-04-19,2024-04-20,Corporate,Electronics,2,552.75,102.48,2.6,2,420.8,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-1880,2024-06-18,2024-06-22,Consumer,Electronics,3,841.52,71.53,6.1,5,1022.5,WH-North,South,Standard Delivery,Delayed,1.0
+ORD-2024-2204,2024-02-10,2024-02-14,Corporate,Industrial Machinery,3,4086.11,81.63,7.0,5,1332.2,WH-East,Central,Standard Delivery,Delivered,
+ORD-2024-1623,2024-05-21,2024-05-25,Corporate,Apparel,3,197.26,82.13,6.4,7,838.4,WH-South,East,Ground Freight,Delivered,5.0
+ORD-2024-1345,2024-02-24,2024-02-25,Corporate,Industrial Machinery,5,5372.23,97.71,2.2,2,289.7,WH-East,South,Express Air,Delivered,3.0
+ORD-2024-2096,2024-05-23,2024-05-27,Consumer,Industrial Machinery,5,6762.98,,7.5,5,2311.0,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1262,2024-05-02,2024-05-03,Consumer,Healthcare Supplies,1,117.58,105.27,2.4,2,512.6,WH-West,East,Express Air,Delivered,4.0
+ORD-2024-1150,2024-05-20,2024-05-23,Small Business,Electronics,5,1201.38,37.1,4.1,5,359.0,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1472,2024-03-17,2024-03-19,Consumer,Office Supplies,1,34.93,69.56,5.9,5,1499.1,WH-Central,West,Standard Delivery,Delayed,2.0
+ORD-2024-1640,2024-04-29,2024-05-01,Consumer,Electronics,2,440.74,95.69,1.5,2,498.6,WH-North,South,Express Air,Delivered,5.0
+ORD-2024-1461,2024-03-06,2024-03-08,Corporate,Electronics,1,246.23,37.1,4.9,5,584.3,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-2201,2024-01-11,2024-01-15,Consumer,Healthcare Supplies,4,427.05,37.8,6.7,5,369.3,WH-North,West,Standard Delivery,Delivered,3.0
+ORD-2024-1550,2024-01-15,2024-01-18,Corporate,Healthcare Supplies,5,660.41,52.54,5.1,5,,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1928,2024-04-13,2024-04-14,Corporate,Industrial Machinery,1,1200.24,159.8,2.4,2,1016.1,WH-West,Central,Express Air,Delivered,5.0
+ORD-2024-1488,2024-05-24,2024-05-25,Small Business,Office Supplies,3,129.51,169.09,4.7,2,932.3,WH-West,West,Express Air,Delivered,4.0
+ORD-2024-2149,2024-05-12,2024-05-13,Home Office,Industrial Machinery,1,1268.79,149.47,2.3,1,788.7,WH-Central,Central,Same-Day Courier,Delivered,4.0
+ORD-2024-1146,2024-05-31,2024-06-01,Corporate,Office Supplies,2,70.59,78.58,2.2,2,386.2,WH-North,Central,Express Air,Delivered,3.0
+ORD-2024-1402,2024-04-12,2024-04-13,Corporate,Electronics,8,1975.6,369.25,3.6,1,1996.7,WH-West,North,Same-Day Courier,Delayed,1.0
+ORD-2024-1954,2024-06-16,2024-06-19,Consumer,Apparel,3,191.82,52.4,6.2,5,763.9,WH-South,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2196,2024-01-13,2024-01-14,Small Business,Electronics,2,457.82,,5.2,5,287.3,WH-East,Central,Standard Delivery,Delivered,3.0
+ORD-2024-1659,2024-05-25,2024-05-28,Corporate,Electronics,2,542.2,,2.7,2,863.5,WH-East,South,Express Air,Delivered,3.0
+ORD-2024-1463,2024-03-26,2024-03-29,Corporate,Office Supplies,1,30.45,84.27,5.3,5,1605.9,WH-North,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1186,2024-04-18,2024-04-22,Home Office,Office Supplies,4,154.14,107.43,2.2,2,488.3,WH-South,North,Express Air,Delivered,4.0
+ORD-2024-1608,2024-03-15,2024-03-18,Corporate,Apparel,2,120.98,37.12,5.5,5,342.3,WH-East,East,Standard Delivery,Delivered,5.0
+ORD-2024-1143,2024-04-28,2024-04-30,Consumer,Office Supplies,1,36.1,65.64,7.4,7,848.0,WH-South,East,Ground Freight,Delivered,5.0
+ORD-2024-1751,2024-03-05,2024-03-06,Small Business,Electronics,50,11524.22,257.13,7.1,7,921.7,WH-East,North,Ground Freight,Delivered,5.0
+ORD-2024-1981,2024-03-17,2024-03-18,Home Office,Electronics,2,585.75,53.68,5.1,5,865.0,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1197,2024-02-11,2024-02-14,Home Office,Apparel,8,623.59,47.86,4.0,5,411.9,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1883,2024-02-16,2024-02-17,Consumer,Office Supplies,1,33.26,158.8,1.5,1,938.6,WH-Central,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1279,2024-05-01,2024-05-02,Home Office,Office Supplies,1,31.23,35.67,7.0,5,354.4,WH-South,North,Standard Delivery,Delayed,1.0
+ORD-2024-1293,2024-04-17,2024-04-20,Consumer,Electronics,1,271.38,36.86,46.76932628037753,5,451.2,WH-East,South,Standard Delivery,Delivered,5.0
+ORD-2024-2157,2024-05-23,2024-05-24,Home Office,Electronics,4,862.99,109.47,3.6,2,543.5,WH-North,East,Express Air,Delivered,4.0
+ORD-2024-1400,2024-06-05,2024-06-07,Consumer,Electronics,1,306.92,47.42,5.2,5,611.3,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1122,2024-06-28,2024-07-02,Consumer,Apparel,1,77.48,39.35,5.5,5,469.7,WH-North,South,,Delivered,3.0
+ORD-2024-1202,2024-05-30,2024-06-01,Consumer,Apparel,4,322.86,102.8,2.0,2,386.1,WH-Central,North,Express Air,Delivered,4.0
+ORD-2024-1835,2024-05-26,2024-05-30,Consumer,Office Supplies,1,36.3,158.78,4.1,2,1159.2,WH-Central,West,Express Air,Delivered,3.0
+ORD-2024-1246,2024-03-30,2024-04-01,Consumer,Industrial Machinery,1,1033.57,71.05,9.4,7,755.0,WH-South,East,Ground Freight,Delivered,4.0
+ORD-2024-2211,2024-01-17,2024-01-19,Corporate,Apparel,3,206.75,54.83,5.5,5,878.5,WH-North,West,Standard Delivery,Delivered,3.0
+ORD-2024-2199,2024-05-31,2024-06-03,Consumer,Office Supplies,1,36.21,34.0,4.8,5,485.1,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-1384,2024-02-06,2024-02-10,Corporate,Healthcare Supplies,1,106.34,69.49,2.7,2,336.3,WH-East,North,Express Air,Delivered,3.0
+ORD-2024-1854,2024-02-11,2024-02-13,Consumer,Apparel,3,216.97,81.44,5.7,5,1317.7,WH-West,North,Standard Delivery,Delivered,3.0
+ORD-2024-1219,2024-04-09,2024-04-12,Home Office,Apparel,3,225.03,59.12,39.63830310253155,5,904.4,WH-South,North,Standard Delivery,Delivered,4.0
+ORD-2024-1641,2024-02-21,2024-02-23,Consumer,Office Supplies,15,535.74,119.09,,7,729.5,WH-East,Central,Ground Freight,Delivered,5.0
+ORD-2024-1001,2024-02-08,2024-02-09,Small Business,Office Supplies,1,43.4,49.19,5.5,5,759.0,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1112,2024-02-25,2024-02-29,Small Business,Industrial Machinery,1,1445.24,99.0,1.5,2,484.1,WH-South,North,Express Air,Delivered,5.0
+ORD-2024-1698,2024-03-05,2024-03-06,Consumer,Office Supplies,2,74.96,195.19,2.5,1,979.1,WH-South,North,Same-Day Courier,Delayed,2.0
+ORD-2024-2218,2024-03-10,2024-03-13,Corporate,Office Supplies,1,43.17,99.89,8.1,5,1797.7,WH-Central,South,Standard Delivery,Delayed,2.0
+ORD-2024-1951,2024-01-04,2024-01-06,Corporate,Electronics,15,3803.67,98.35,5.7,5,1510.4,WH-North,West,Standard Delivery,Delayed,2.0
+ORD-2024-2147,2024-03-12,2024-03-15,Corporate,Electronics,25,6713.81,93.37,4.8,5,793.0,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1441,2024-04-27,2024-05-01,Small Business,Office Supplies,1,34.28,49.69,5.9,5,863.0,WH-Central,East,Standard Delivery,Delivered,4.0
+ORD-2024-1663,2024-05-13,2024-05-15,Consumer,Office Supplies,2,84.76,138.55,2.2,2,788.2,WH-East,East,Express Air,Delivered,3.0
+ORD-2024-2164,2024-05-23,2024-05-26,Consumer,Office Supplies,25,870.33,80.85,6.6,5,343.0,WH-North,East,Standard Delivery,Delivered,3.0
+ORD-2024-1317,2024-02-09,2024-02-10,Consumer,Electronics,10,2807.48,219.52,2.6,1,584.3,WH-Central,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1648,2024-05-08,2024-05-10,Home Office,Office Supplies,4,155.0,106.39,4.2,2,412.8,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1709,2024-03-11,2024-03-12,Corporate,Apparel,10,784.01,175.48,1.7,1,316.4,WH-East,East,Same-Day Courier,Delivered,3.0
+ORD-2024-1972,2024-06-02,2024-06-06,Corporate,Electronics,3,748.85,131.15,9.0,7,1531.5,WH-North,East,,Delivered,3.0
+ORD-2024-1627,2024-06-08,2024-06-11,Corporate,Office Supplies,2,59.53,47.21,7.0,5,757.2,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1632,2024-04-24,2024-04-25,Corporate,Industrial Machinery,1,1045.77,31.91,5.0,5,272.5,WH-East,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2243,2024-03-16,2024-03-20,Home Office,Office Supplies,5,155.16,115.26,2.2,2,628.0,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-2175,2024-05-09,2024-05-11,Corporate,Healthcare Supplies,2,242.03,119.59,3.9,2,587.2,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1795,2024-02-28,2024-02-29,Home Office,Apparel,3,213.73,69.68,6.3,7,754.9,WH-West,North,Ground Freight,Delivered,4.0
+ORD-2024-1645,2024-02-03,2024-02-05,Home Office,Apparel,3,173.62,59.25,6.7,5,806.0,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-2012,2024-03-03,2024-03-07,Small Business,Apparel,1,81.15,127.35,1.5,1,635.2,WH-West,Central,Same-Day Courier,Delivered,
+ORD-2024-1556,2024-02-16,2024-02-18,Consumer,Industrial Machinery,1,1128.64,29.01,-3.0,5,221.8,WH-East,East,Standard Delivery,Delivered,3.0
+ORD-2024-1681,2024-03-22,2024-03-24,Consumer,Industrial Machinery,1,1459.24,64.44,5.4,5,1060.1,WH-East,South,Standard Delivery,Delivered,3.0
+ORD-2024-1577,2024-03-05,2024-03-06,Small Business,Healthcare Supplies,1,109.97,192.22,1.5,1,1039.3,WH-Central,North,Same-Day Courier,Delivered,4.0
+ORD-2024-2109,2024-05-20,2024-05-24,Consumer,Electronics,2,461.25,163.39,1.0,1,628.5,WH-Central,Central,Same-Day Courier,Delivered,5.0
+ORD-2024-1524,2024-01-11,2024-01-13,Home Office,Apparel,3,218.71,109.06,1.8,2,548.7,WH-East,North,Express Air,Delivered,5.0
+ORD-2024-2059,2024-04-11,2024-04-15,Corporate,Office Supplies,3,131.17,61.99,7.4,7,671.9,WH-Central,East,Ground Freight,Delivered,5.0
+ORD-2024-1540,2024-02-24,2024-02-28,Small Business,Electronics,5,1478.92,,5.7,5,1191.8,WH-East,North,Standard Delivery,Delayed,1.0
+ORD-2024-1748,2024-01-01,2024-01-03,Small Business,Electronics,10,2818.4,286.2,3.4,1,1036.1,WH-South,Central,Same-Day Courier,Delayed,2.0
+ORD-2024-2178,2024-04-08,2024-04-11,Home Office,Office Supplies,5,207.51,50.18,6.3,5,728.8,WH-West,West,Standard Delivery,Delayed,3.0
+ORD-2024-1484,2024-01-12,2024-01-16,Corporate,Electronics,2,516.22,91.62,1.0,2,436.8,WH-North,East,  express air  ,Delivered,5.0
+ORD-2024-1095,2024-01-20,2024-01-22,Corporate,Office Supplies,3,89.45,76.97,5.6,5,1137.3,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-2020,2024-04-01,2024-04-05,Corporate,Electronics,5,1497.95,45.49,4.5,5,538.7,WH-North,North,Standard Delivery,Delivered,5.0
+ORD-2024-1563,2024-04-25,2024-04-29,Consumer,Electronics,2,580.56,104.43,5.8,5,1868.1,WH-Central,East,Standard Delivery,Delayed,1.0
+ORD-2024-1742,2024-01-29,2024-01-31,Corporate,Industrial Machinery,2,2773.44,102.43,9.7,7,1348.6,WH-East,East,Ground Freight,Delivered,5.0
+ORD-2024-1863,2024-01-19,2024-01-23,Consumer,Apparel,3,213.59,49.02,5.4,5,714.2,WH-North,South,Standard Delivery,Delivered,3.0
+ORD-2024-1891,2024-06-17,2024-06-20,Home Office,Office Supplies,5,160.95,178.39,,2,1185.1,WH-South,Central,Express Air,Delayed,1.0
+ORD-2024-2038,2024-01-20,2024-01-22,Consumer,Office Supplies,3,-50.0,39.0,4.5,5,346.7,WH-East,West,Standard Delivery,Delivered,5.0
+ORD-2024-1206,2024-03-04,2024-03-05,Consumer,Industrial Machinery,1,1384.29,92.99,5.6,7,1148.3,WH-Central,North,Ground Freight,Delivered,4.0
+ORD-2024-1392,2024-03-17,2024-03-19,Consumer,Office Supplies,15,653.81,97.36,9.7,7,417.6,WH-North,West,Ground Freight,Delivered,5.0
+ORD-2024-1794,2024-05-28,2024-06-01,Consumer,Apparel,5,370.13,153.04,3.2,2,792.5,WH-South,Central,Express Air,Delivered,5.0
+ORD-2024-1870,2024-04-13,2024-04-14,Consumer,Apparel,10,739.1,76.74,5.7,5,816.8,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1397,2024-04-12,2024-04-16,Consumer,Apparel,3,212.49,35.27,7.7,5,409.8,WH-South,South,Standard Delivery,Delayed,3.0
+ORD-2024-1766,2024-01-10,2024-01-11,Home Office,Office Supplies,3,124.36,52.63,,5,755.0,WH-East,East,Standard Delivery,Delayed,
+ORD-2024-2168,2024-01-14,2024-01-18,Consumer,Electronics,1,303.97,38.13,6.9,5,419.3,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-2028,2024-06-22,2024-06-24,Consumer,Industrial Machinery,2,2646.71,80.28,3.0,2,383.1,WH-North,Central,Express Air,Delivered,5.0
+ORD-2024-1642,2024-03-31,2024-04-04,Consumer,Apparel,1,79.84,42.61,7.0,5,512.6,WH-East,East,Standard Delivery,Delivered,3.0
+ORD-2024-1612,2024-01-29,2024-01-30,Corporate,Electronics,2,456.54,86.56,8.9,7,906.5,WH-West,West,Ground Freight,Delivered,5.0
+ORD-2024-1960,2024-03-31,2024-04-04,Consumer,Apparel,2,127.88,43.81,4.8,5,699.3,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1725,2024-06-17,2024-06-20,Home Office,Healthcare Supplies,1,104.07,97.97,1.3,2,515.1,WH-East,Central,Express Air,Delivered,4.0
+ORD-2024-1683,2024-05-31,2024-06-01,Corporate,Industrial Machinery,1,1414.76,38.16,4.1,5,612.5,WH-Central,North,Standard Delivery,Delivered,5.0
+ORD-2024-1098,2024-05-15,2024-05-19,Consumer,Healthcare Supplies,2,269.6,,,5,1052.0,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-1804,2024-05-11,2024-05-14,Consumer,Apparel,1,58.91,42.24,4.9,5,504.8,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1406,2024-04-22,2024-04-23,Consumer,Industrial Machinery,5,6312.28,338.21,,1,2089.8,WH-East,Central,Same-Day Courier,Delayed,1.0
+ORD-2024-1502,2024-01-23,2024-01-27,Consumer,Electronics,3,760.87,36.09,4.1,5,311.0,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-2071,2024-01-27,2024-01-31,Consumer,Apparel,3,237.99,74.91,7.5,5,1254.4,WH-South,East,Standard Delivery,Delivered,3.0
+ORD-2024-2056,2024-01-15,2024-01-16,Home Office,Electronics,1,309.83,51.46,5.6,5,717.2,WH-North,South,Standard Delivery,Delayed,2.0
+ORD-2024-1929,2024-06-18,2024-06-22,Consumer,Office Supplies,1,31.3,52.23,7.3,7,603.6,WH-East,East,Ground Freight,Delivered,3.0
+ORD-2024-1779,2024-04-22,2024-04-26,Corporate,Industrial Machinery,2,2275.99,49.45,5.2,5,677.0,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1200,2024-06-03,2024-06-04,Corporate,Office Supplies,1,35.45,,4.6,5,319.3,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-1134,2024-05-19,2024-05-20,Small Business,Industrial Machinery,1,1440.89,129.25,1.7,1,570.4,WH-Central,West,Same-Day Courier,Delivered,4.0
+ORD-2024-2051,2024-01-08,2024-01-09,Corporate,Industrial Machinery,1,1427.72,143.9,1.8,1,679.9,WH-North,North,Same-Day Courier,Delivered,5.0
+ORD-2024-1040,2024-02-02,2024-02-05,Consumer,Office Supplies,2,62.04,75.28,8.0,7,786.4,WH-North,West,Ground Freight,Delivered,3.0
+ORD-2024-2017,2024-03-16,2024-03-17,Corporate,Apparel,2,142.38,126.63,1.8,2,830.5,WH-North,South,Express Air,Delivered,
+ORD-2024-1230,2024-05-19,2024-05-23,Home Office,Apparel,1,71.2,140.98,2.7,2,798.5,WH-West,West,Express Air,Delayed,2.0
+ORD-2024-1378,2024-04-12,2024-04-14,Home Office,Electronics,3,838.99,,8.1,7,1042.4,WH-South,East,Ground Freight,Delivered,5.0
+ORD-2024-1288,2024-06-14,2024-06-18,Consumer,Electronics,1,263.53,35.92,5.3,5,438.8,WH-East,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1418,2024-04-01,2024-04-03,Corporate,Electronics,2,426.66,36.0,5.1,5,470.1,WH-South,South,Standard Delivery,Delivered,3.0
+ORD-2024-1391,2024-05-15,2024-05-19,Consumer,Apparel,2,131.84,172.58,4.3,2,1233.0,WH-North,West,Express Air,Delivered,3.0
+ORD-2024-1592,2024-05-08,2024-05-12,Consumer,Office Supplies,2,68.91,76.99,,5,1297.3,WH-West,South,Standard Delivery,Delivered,5.0
+ORD-2024-2162,2024-03-30,2024-03-31,Consumer,Office Supplies,3,97.41,46.06,7.1,5,498.3,WH-East,North,Standard Delivery,Delayed,3.0
+ORD-2024-2086,2024-06-13,2024-06-14,Corporate,Office Supplies,2,85.96,50.93,5.4,7,316.1,WH-South,East,Ground Freight,Delivered,
+ORD-2024-1647,2024-02-18,2024-02-19,Corporate,Electronics,10,2804.87,191.8,3.0,2,865.7,WH-North,West,Express Air,Delivered,4.0
+ORD-2024-2152,2024-01-23,2024-01-26,Corporate,Office Supplies,3,131.2,58.84,4.9,5,1010.0,WH-North,West,Standard Delivery,Delivered,4.0
+ORD-2024-1520,2024-02-29,2024-03-01,Corporate,Office Supplies,1,43.44,59.33,6.8,7,639.6,WH-East,South,Ground Freight,Delivered,4.0
+ORD-2024-1064,2024-02-08,2024-02-11,Consumer,Office Supplies,1,37.42,70.61,1.5,2,267.9,WH-South,South,Express Air,Delivered,4.0
+ORD-2024-1014,2024-03-23,2024-03-24,Consumer,Electronics,1,303.99,44.72,7.1,5,671.8,WH-East,East,Standard Delivery,Delayed,1.0
+ORD-2024-2180,2024-01-23,2024-01-24,Small Business,Industrial Machinery,3,3453.01,99.38,1.0,2,345.7,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-2064,2024-03-22,2024-03-24,Consumer,Healthcare Supplies,1,96.17,34.38,4.4,5,367.1,WH-West,East,Standard Delivery,Delivered,4.0
+ORD-2024-1492,2024-02-26,2024-02-27,Consumer,Apparel,4,290.0,150.15,3.8,2,1004.1,WH-West,East,Express Air,Delivered,
+ORD-2024-1379,2024-03-15,2024-03-16,Consumer,Office Supplies,1,35.2,68.99,6.0,5,1074.8,WH-North,North,Standard Delivery,Delivered,4.0
+ORD-2024-1187,2024-06-15,2024-06-17,Corporate,Apparel,3,209.91,74.77,9.0,5,1174.6,WH-North,South,Standard Delivery,Delayed,3.0
+ORD-2024-1763,2024-02-02,2024-02-03,Corporate,Electronics,8,2224.02,44.5,3.9,5,392.0,WH-East,North,Standard Delivery,Delivered,5.0
+ORD-2024-1216,2024-02-07,2024-02-09,Consumer,Healthcare Supplies,1,114.31,33.11,6.3,5,395.4,WH-South,East,Standard Delivery,Delayed,3.0
+ORD-2024-1791,2024-03-21,2024-03-24,Corporate,Industrial Machinery,1,1372.35,144.55,2.8,2,900.9,WH-East,Central,Express Air,Delayed,1.0
+ORD-2024-2076,2024-02-26,2024-02-27,Consumer,Apparel,50,2843.68,148.56,4.5,5,725.7,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1878,2024-06-07,2024-06-09,Consumer,Apparel,5,375.35,54.03,6.4,5,691.3,WH-East,North,Standard Delivery,Delivered,4.0
+ORD-2024-1337,2024-02-24,2024-02-28,Corporate,Office Supplies,1,42.33,148.37,2.8,2,1075.2,WH-East,North,Express Air,Delivered,4.0
+ORD-2024-1719,2024-05-04,2024-05-07,Corporate,Electronics,80,22043.37,216.29,3.4,5,167.7,WH-Central,West,Standard Delivery,Delivered,5.0
+ORD-2024-1295,2024-01-17,2024-01-21,Corporate,Office Supplies,15,540.68,91.19,5.1,5,1054.2,WH-South,East,Standard Delivery,Delivered,4.0
+ORD-2024-2016,2024-01-30,2024-02-01,Consumer,Industrial Machinery,3,3618.1,55.27,2.9,5,791.5,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-1455,2024-06-05,2024-06-06,Corporate,Electronics,1,233.66,69.25,5.6,5,1157.0,WH-East,West,Standard Delivery,Delayed,1.0
+ORD-2024-1815,2024-01-22,2024-01-23,Corporate,Apparel,1,58.18,39.12,5.2,5,567.4,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1269,2024-06-10,2024-06-13,Consumer,Healthcare Supplies,3,328.32,74.75,8.6,5,1146.5,WH-North,West,Standard Delivery,Delayed,2.0
+ORD-2024-1995,2024-05-24,2024-05-25,Consumer,Office Supplies,3,93.74,105.62,2.9,2,614.1,WH-North,North,Express Air,Delivered,4.0
+ORD-2024-1201,2024-05-15,2024-05-18,Consumer,Industrial Machinery,3,3437.24,240.72,3.2,1,1372.9,WH-West,Central,Same-Day Courier,Delayed,1.0
+ORD-2024-1161,2024-04-10,2024-04-13,Corporate,Electronics,1,-85.5,40.0,3.3,5,521.2,WH-South,Central,Standard Delivery,Delivered,4.0
+ORD-2024-1729,2024-06-12,2024-06-13,Consumer,Apparel,5,372.21,159.76,2.5,1,,WH-East,North,Same-Day Courier,Delivered,3.0
+ORD-2024-1401,2024-04-16,2024-04-20,Small Business,Office Supplies,1,38.0,102.93,2.0,1,414.0,WH-North,West,Same-Day Courier,Delivered,5.0
+ORD-2024-1702,2024-04-20,2024-04-22,Consumer,Industrial Machinery,5,6229.82,132.29,4.6,2,744.7,WH-West,North,Express Air,Delayed,3.0
+ORD-2024-2129,2024-03-03,2024-03-05,Consumer,Apparel,8,494.99,60.15,6.9,5,651.0,WH-West,East,Standard Delivery,Delivered,3.0
+ORD-2024-1565,2024-03-28,2024-03-30,Corporate,Healthcare Supplies,2,208.54,44.9,6.5,5,686.3,WH-North,South,Standard Delivery,Delivered,4.0
+ORD-2024-2021,2024-01-23,2024-01-24,Consumer,Office Supplies,4,130.95,136.48,8.7,7,1572.5,WH-South,East,Ground Freight,Delivered,5.0
+ORD-2024-2025,2024-01-15,2024-01-17,Corporate,Industrial Machinery,1,1192.02,44.29,4.8,5,614.0,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-2104,2024-02-07,2024-02-09,Small Business,Apparel,1,55.51,75.22,6.8,5,1259.9,WH-East,North,Standard Delivery,Delayed,1.0
+ORD-2024-1205,2024-04-22,2024-04-26,Consumer,Healthcare Supplies,10,1307.93,74.17,5.1,5,747.1,WH-Central,West,Standard Delivery,Delivered,4.0
+ORD-2024-1034,2024-01-06,2024-01-07,Small Business,Office Supplies,2,70.37,43.88,5.7,5,526.0,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1775,2024-01-23,2024-01-27,Consumer,Electronics,2,575.64,69.45,4.7,5,1126.4,WH-South,West,Standard Delivery,Delivered,5.0
+ORD-2024-1508,2024-06-26,2024-06-27,Small Business,Electronics,3,928.82,,7.0,5,726.6,WH-South,West,Standard Delivery,Delayed,2.0
+ORD-2024-1950,2024-05-15,2024-05-18,Corporate,Healthcare Supplies,3,310.21,43.88,6.3,5,554.4,WH-North,East,Standard Delivery,Delivered,5.0
+ORD-2024-1091,2024-04-24,2024-04-25,Corporate,Office Supplies,3,95.78,69.24,7.7,5,1116.6,WH-North,West,Standard Delivery,Delivered,3.0
+ORD-2024-1897,2024-04-21,2024-04-25,Home Office,Office Supplies,1,36.48,21.83,5.8,5,153.1,WH-South,West,Standard Delivery,Delayed,2.0
+ORD-2024-1564,2024-04-14,2024-04-17,Consumer,Electronics,2,484.19,123.8,1.0,1,583.2,WH-Central,East,Same-Day Courier,Delivered,
+ORD-2024-1776,2024-04-18,2024-04-20,Consumer,Apparel,2,125.81,126.26,1.0,2,738.6,WH-West,West,Express Air,Delivered,5.0
+ORD-2024-1241,2024-05-23,2024-05-25,Small Business,Office Supplies,4,172.81,52.73,7.2,5,723.8,WH-North,North,Standard Delivery,Delivered,3.0
+ORD-2024-1013,2024-05-17,2024-05-19,Consumer,Office Supplies,8,341.0,123.61,1.0,2,435.7,WH-South,East,Express Air,Delivered,4.0
+ORD-2024-1315,2024-05-24,2024-05-25,Corporate,Office Supplies,3,107.85,31.33,6.3,5,202.7,WH-North,West,Standard Delivery,Delayed,3.0
+ORD-2024-1600,2024-04-04,2024-04-08,Consumer,Electronics,4,1172.69,42.68,4.6,5,410.7,WH-West,North,Standard Delivery,Delivered,5.0
+ORD-2024-1387,2024-06-20,2024-06-24,Consumer,Electronics,15,3626.17,200.04,3.1,1,214.5,WH-South,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1166,2024-06-01,2024-06-03,Consumer,Electronics,2,491.28,,1.9,5,399.0,WH-West,North,Standard Delivery,Delivered,4.0
+ORD-2024-1840,2024-02-12,2024-02-13,Consumer,Apparel,-5,145.15,53.47,5.6,5,756.1,WH-East,Central,Standard Delivery,Delayed,1.0
+ORD-2024-1020,2024-06-24,2024-06-27,Corporate,Industrial Machinery,3,4245.16,155.69,4.8,2,989.3,WH-East,West,Express Air,Delivered,4.0
+ORD-2024-1646,2024-04-19,2024-04-22,Corporate,Industrial Machinery,1,1310.67,58.75,7.1,5,992.7,WH-South,Central,Standard Delivery,Delivered,4.0
+ORD-2024-2154,2024-04-27,2024-04-29,Corporate,Industrial Machinery,10,10402.89,85.27,6.5,5,955.6,WH-Central,North,Standard Delivery,Delayed,3.0
+ORD-2024-1831,2024-03-14,2024-03-15,Corporate,Electronics,3,735.66,63.41,6.6,5,987.5,WH-South,West,Standard Delivery,Delayed,3.0
+ORD-2024-1562,2024-03-22,2024-03-25,Consumer,Electronics,1,311.51,41.4,6.4,5,667.7,WH-North,East,Standard Delivery,Delayed,2.0
+ORD-2024-2242,2024-02-25,2024-02-26,Home Office,Apparel,10,651.83,168.85,3.6,2,563.4,WH-South,West,Express Air,Delivered,4.0
+ORD-2024-1686,2024-05-11,2024-05-13,Corporate,Electronics,3,700.06,302.5,5.9,2,2273.5,WH-South,South,Express Air,Delayed,3.0
+ORD-2024-1957,2024-04-03,2024-04-05,Consumer,Apparel,1,71.49,42.1,3.8,5,584.5,WH-North,West,Standard Delivery,Delivered,5.0
+ORD-2024-1189,2024-04-28,2024-04-29,Consumer,Industrial Machinery,1,1283.64,50.89,7.5,5,908.9,WH-South,South,Standard Delivery,Delivered,4.0
+ORD-2024-1975,2024-03-17,2024-03-20,Consumer,Office Supplies,1,35.84,146.6,3.7,1,629.7,WH-North,West,Same-Day Courier,Delayed,2.0
+ORD-2024-1699,2024-02-11,2024-02-12,Corporate,Office Supplies,1,37.56,36.86,4.8,5,530.4,WH-West,South,Standard Delivery,Delivered,4.0
+ORD-2024-1510,2024-04-14,2024-04-17,Corporate,Office Supplies,5,194.59,58.56,,5,753.1,WH-North,East,Standard Delivery,Delivered,4.0
+ORD-2024-2082,2024-04-28,2024-05-02,Consumer,Industrial Machinery,1,1064.76,44.14,5.1,5,572.7,WH-East,South,Standard Delivery,Delivered,4.0
+ORD-2024-1474,2024-04-30,2024-05-01,Corporate,Industrial Machinery,4,5830.57,44.44,6.4,5,590.8,WH-East,South,Standard Delivery,Delivered,3.0
+ORD-2024-1856,2024-03-10,2024-03-12,Consumer,Apparel,4,259.82,52.26,5.4,5,625.8,WH-West,West,Standard Delivery,Delivered,4.0
+ORD-2024-1747,2024-06-15,2024-06-19,Corporate,Electronics,2,465.81,194.28,3.4,1,877.4,WH-North,South,Same-Day Courier,Delivered,5.0
+ORD-2024-1252,2024-04-01,2024-04-04,Home Office,Electronics,2,452.61,170.44,36.80341915669946,2,1315.9,WH-West,South,Express Air,Delayed,2.0
+ORD-2024-1021,2024-01-02,2024-01-04,Consumer,Apparel,1,61.25,49.49,5.4,5,773.0,WH-Central,North,Standard Delivery,Delivered,4.0
+ORD-2024-1459,2024-01-19,2024-01-22,Consumer,Industrial Machinery,3,3727.91,131.42,1.0,1,453.1,WH-North,West,Same-Day Courier,Delivered,5.0
+ORD-2024-2184,2024-04-15,2024-04-19,Consumer,Healthcare Supplies,25,2587.41,74.6,3.6,5,128.6,WH-East,West,Standard Delivery,Delivered,4.0
+ORD-2024-1276,2024-02-23,2024-02-27,Home Office,Electronics,5,1081.5,86.34,4.6,5,1462.3,WH-South,North,Standard Delivery,Delivered,5.0
+ORD-2024-1955,2024-04-11,2024-04-13,Consumer,Healthcare Supplies,8,821.18,111.69,2.9,2,410.9,WH-South,North,Express Air,Delivered,5.0
+ORD-2024-2215,2024-03-03,2024-03-04,Consumer,Electronics,1,264.71,85.01,10.9,7,1055.6,WH-North,South,  ground freight  ,Returned,1.0
+ORD-2024-1385,2024-03-21,2024-03-24,Home Office,Electronics,4,1156.04,198.41,3.2,2,1453.8,WH-North,Central,Express Air,Delivered,3.0
+ORD-2024-1805,2024-04-09,2024-04-13,Corporate,Industrial Machinery,8,11527.78,59.43,6.4,5,506.7,WH-East,South,Standard Delivery,Delayed,1.0
+ORD-2024-1343,2024-04-25,2024-04-27,Consumer,Electronics,1,305.23,75.59,6.3,5,1417.5,WH-Central,Central,Standard Delivery,Delivered,5.0
+ORD-2024-1769,2024-03-17,2024-03-19,Home Office,Industrial Machinery,1,1069.45,156.96,1.0,1,638.7,WH-North,West,Same-Day Courier,Delivered,4.0
+ORD-2024-1130,2024-03-15,2024-03-18,Consumer,Electronics,2,525.48,81.34,1.0,2,293.5,WH-East,East,Express Air,Delivered,4.0
+ORD-2024-1871,2024-03-15,2024-03-16,Consumer,Office Supplies,10,383.08,82.29,7.5,5,975.1,WH-West,East,Standard Delivery,Delayed,2.0
+ORD-2024-2123,2024-05-27,2024-05-31,Home Office,Office Supplies,3,117.61,163.83,,1,595.8,WH-North,Central,Same-Day Courier,Delivered,5.0
+ORD-2024-1087,2024-05-28,2024-05-31,Corporate,Industrial Machinery,1,1104.11,92.89,6.9,5,1928.5,WH-North,West,Standard Delivery,Delayed,1.0
+ORD-2024-1330,2024-02-08,2024-02-10,Consumer,Electronics,1,273.99,63.07,5.2,5,1153.1,WH-West,East,Standard Delivery,Delivered,3.0
+ORD-2024-2238,2024-03-07,2024-03-09,Small Business,Industrial Machinery,3,4335.03,56.17,7.4,7,413.4,WH-West,West,Ground Freight,Delivered,5.0
+ORD-2024-1466,2024-02-15,2024-02-19,Consumer,Electronics,4,1182.23,56.25,8.1,7,451.2,WH-North,West,Ground Freight,Delayed,1.0
+ORD-2024-1121,2024-03-17,2024-03-21,Home Office,Electronics,1,270.19,265.5,4.3,1,1482.4,WH-North,Central,Same-Day Courier,Delayed,2.0
+ORD-2024-2044,2024-04-07,2024-04-09,Home Office,Electronics,3,717.1,193.08,4.3,2,1407.3,WH-South,Central,Express Air,Delivered,3.0
+ORD-2024-2095,2024-01-23,2024-01-25,Consumer,Industrial Machinery,3,4413.94,105.34,1.0,2,,WH-South,East,Express Air,Delivered,5.0
+ORD-2024-2130,2024-03-24,2024-03-27,Corporate,Apparel,1,63.18,36.68,5.0,5,507.2,WH-North,West,Standard Delivery,Delivered,3.0
+ORD-2024-1860,2024-04-21,2024-04-24,Home Office,Electronics,2,455.15,68.64,6.5,5,1288.6,WH-South,West,Standard Delivery,Delivered,3.0
+ORD-2024-2126,2024-05-19,2024-05-23,Consumer,Office Supplies,1,30.31,91.36,4.0,2,564.9,WH-East,North,Express Air,Delivered,4.0

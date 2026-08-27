@@ -1,0 +1,17 @@
+KPI_Metric,Value
+Total_Orders,1250.0
+Total_Sales_USD,769293.85
+Total_Shipping_Cost_USD,114809.33
+Average_Order_Value_USD,615.44
+Average_Shipping_Cost_USD,91.85
+Shipping_Cost_to_Sales_Ratio_Pct,14.92
+Average_Delivery_Time_Days,5.0
+Median_Delivery_Time_Days,5.2
+On_Time_Delivery_Rate_Pct,28.24
+Delivery_Delay_Rate_Pct,71.76
+Delayed_Orders_Count,897.0
+Average_Distance_KM,819.43
+Average_Cost_Per_KM_USD,0.1302
+Average_Cost_Per_Unit_USD,49.42
+Average_Customer_Rating,3.63
+Average_Order_Processing_Days,2.43

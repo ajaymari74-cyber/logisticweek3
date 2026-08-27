@@ -1,0 +1,5 @@
+Customer_Segment,Order_Count,Total_Sales_USD,Avg_Order_Value_USD,Avg_Quantity,Avg_Shipping_Cost_USD,Avg_Delivery_Time_Days,Delayed_Orders,Avg_Customer_Rating,Volume_Share_Pct,Delay_Rate_Pct
+Consumer,562,326280.42,580.57,3.58,92.62,5.08,411,3.66,44.96,73.13
+Corporate,364,231525.33,636.06,3.4,91.39,4.93,255,3.56,29.12,70.05
+Home Office,193,126428.28,655.07,3.22,89.81,5.04,136,3.66,15.44,70.47
+Small Business,131,85059.82,649.31,3.34,92.78,4.81,95,3.6,10.48,72.52

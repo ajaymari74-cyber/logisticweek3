@@ -1,0 +1,42 @@
+[
+    {
+        "ID": "INS-01",
+        "Domain": "Regional Logistics & Service Latency",
+        "Finding": "Geographic destination creates substantial delivery latency variance, with South exhibiting the highest transit time and South recording peak delay rates.",
+        "Evidence": "South records an average delivery time of 5.19 days (vs 4.89 days in Central). Delay rate in South stands at 76.98%.",
+        "Business Meaning": "Regional fulfillment variance stems from uneven warehouse proximity, hub-and-spoke transit handoffs, and localized carrier capacity constraints, risking customer churn in underperforming territories.",
+        "Potential Action": "Establish localized forward stocking hubs or cross-docking points in high-latency regions and renegotiate regional carrier service level agreements (SLAs) with strict on-time delivery penalty clauses."
+    },
+    {
+        "ID": "INS-02",
+        "Domain": "Modal Economics & SLA Compliance",
+        "Finding": "Premium expedited tiers command significantly higher shipping costs per unit but struggle with punctuality tolerances.",
+        "Evidence": "Express Air costs an average of $138.55 per order with a delay rate of 72.97%, while Standard Delivery averages $58.39 with a 71.49% delay rate.",
+        "Business Meaning": "Customers paying express freight premiums have zero tolerance for schedule slippage. High delay rates on premium tiers erode customer trust and cause costly claim disputes.",
+        "Potential Action": "Implement real-time carrier tracking integrations for expedited consignments and enforce pre-dispatch prioritization in warehouse picking queues for air freight orders."
+    },
+    {
+        "ID": "INS-03",
+        "Domain": "Transportation Cost Drivers",
+        "Finding": "Transportation distance is a major linear driver of shipping expenditure, but unit volume consolidation offers substantial cost mitigation.",
+        "Evidence": "Overall average shipping spend is $91.85 on an average distance of 819.4 KM (Cost per KM: $0.1302). Correlation between Distance and Cost is strong and positive.",
+        "Business Meaning": "Long-haul point-to-point shipments create disproportionate freight expense without volume aggregation, lowering operating contribution margins.",
+        "Potential Action": "Implement dynamic shipment batching and consolidate LTL (Less-Than-Truckload) consignments into scheduled FTL (Full-Truckload) trunk routes."
+    },
+    {
+        "ID": "INS-04",
+        "Domain": "Category Freight Burden",
+        "Finding": "Office Supplies represents the highest relative logistics cost burden relative to sales revenue.",
+        "Evidence": "Office Supplies exhibits a shipping-cost-to-sales ratio of 78.73%, compared to the corporate average of 14.92%. Industrial Machinery generates the largest gross sales volume ($364,799.80).",
+        "Business Meaning": "Low-density, heavy, or low-margin product categories consume excessive logistics spend relative to gross commercial value, squeezing product-level profitability.",
+        "Potential Action": "Re-evaluate dimensional weight packaging guidelines, establish minimum order quantities for heavy merchandise, and adjust product pricing or shipping surcharges."
+    },
+    {
+        "ID": "INS-05",
+        "Domain": "Network-wide Reliability & Customer Satisfaction",
+        "Finding": "The aggregate delivery delay rate of 71.76% constitutes a primary operational risk affecting overall customer experience.",
+        "Evidence": "Out of 1,250 shipments, 897 arrived past the promised delivery window, yielding an On-Time Delivery Rate of 28.24% and an average customer rating of 3.63 / 5.0.",
+        "Business Meaning": "Network delays create cascading friction across customer support channels, degrade repeat purchase rates, and incur penalty costs.",
+        "Potential Action": "Deploy automated exception management workflows that notify logistics coordinators immediately when an order exceeds 24-hour processing time in fulfillment centers."
+    }
+]

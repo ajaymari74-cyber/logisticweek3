@@ -1,0 +1,6 @@
+Product_Category,Order_Count,Total_Quantity,Total_Sales_USD,Avg_Sales_USD,Total_Shipping_Cost_USD,Avg_Shipping_Cost_USD,Avg_Delivery_Time_Days,Delayed_Orders,Avg_Customer_Rating,Volume_Share_Pct,Delay_Rate_Pct,Shipping_Cost_Ratio_Pct
+Industrial Machinery,199,829,364799.8,1833.16,18500.4,92.97,4.91,136,3.7,15.92,68.34,5.07
+Electronics,369,1372,275874.59,747.63,36175.4,98.04,4.87,262,3.58,29.52,71.0,13.11
+Apparel,246,781,52512.5,213.47,22133.66,89.97,4.99,173,3.63,19.68,70.33,42.15
+Healthcare Supplies,114,366,40619.81,356.31,10060.29,88.25,5.15,83,3.65,9.12,72.81,24.77
+Office Supplies,322,961,35487.15,110.21,27939.58,86.77,5.17,243,3.62,25.76,75.47,78.73

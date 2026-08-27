@@ -1,0 +1,6 @@
+Region,Order_Count,Total_Sales_USD,Avg_Sales_USD,Total_Shipping_Cost_USD,Avg_Shipping_Cost_USD,Avg_Delivery_Time_Days,Median_Delivery_Time_Days,Avg_Distance_KM,Delayed_Orders,Avg_Customer_Rating,Volume_Share_Pct,Delay_Rate_Pct,Shipping_Cost_Ratio_Pct
+North,320,210652.41,658.29,30140.32,94.19,4.9,5.0,825.63,220,3.76,25.6,68.75,14.31
+West,278,164033.12,590.05,26397.28,94.95,4.97,5.2,836.99,199,3.62,22.24,71.58,16.09
+South,252,161683.44,641.6,23430.95,92.98,5.19,5.35,828.1,194,3.5,20.16,76.98,14.49
+East,228,137406.01,602.66,18866.49,82.75,5.06,5.3,787.34,157,3.61,18.24,68.86,13.73
+Central,172,95518.87,555.34,15974.29,92.87,4.89,4.95,809.38,127,3.59,13.76,73.84,16.72

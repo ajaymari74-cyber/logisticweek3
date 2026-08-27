@@ -1,0 +1,5 @@
+Shipping_Mode,Order_Count,Avg_Delivery_Time_Days,Median_Delivery_Time_Days,Avg_Estimated_Days,Avg_Shipping_Cost_USD,Avg_Cost_Per_KM,Avg_Cost_Per_Unit,Avg_Distance_KM,Delayed_Orders,Avg_Customer_Rating,Volume_Share_Pct,Delay_Rate_Pct,On_Time_Rate_Pct
+Same-Day Courier,126,2.21,2.0,1.0,172.5,0.236,90.67,840.94,96,3.57,10.08,76.19,23.81
+Express Air,296,2.94,2.9,2.0,138.55,0.1906,74.72,827.89,216,3.67,23.68,72.97,27.03
+Standard Delivery,656,5.76,5.7,4.96,58.39,0.0877,30.98,812.11,469,3.6,52.48,71.49,28.51
+Ground Freight,172,7.71,7.4,7.0,79.99,0.111,46.01,817.05,116,3.71,13.76,67.44,32.56

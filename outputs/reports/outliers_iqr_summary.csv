@@ -1,0 +1,13 @@
+Variable,Q1,Q3,IQR,Lower_Fence,Upper_Fence,Outlier_Count,Outlier_Percent
+Quantity,1.0,4.0,3.0,-3.5,8.5,74,5.92
+Sales_USD,103.01,928.05,825.04,-1134.55,2165.61,0,0.0
+Shipping_Cost_USD,51.002,123.83,72.828,-58.239,233.071,0,0.0
+Delivery_Time_Days,3.3,6.6,3.3,-1.65,11.55,8,0.64
+Estimated_Delivery_Days,2.0,5.0,3.0,-2.5,9.5,0,0.0
+Distance_KM,515.75,1064.2,548.45,-306.925,1886.875,26,2.08
+Customer_Rating,3.0,4.0,1.0,1.5,5.5,112,8.96
+Order_Processing_Days,1.0,3.0,2.0,-2.0,6.0,0,0.0
+Shipping_Delay_Days,0.0,1.7,1.7,-2.55,4.25,21,1.68
+Cost_Per_Unit,18.925,66.14,47.215,-51.898,136.963,73,5.84
+Cost_Per_KM,0.068,0.167,0.099,-0.081,0.316,36,2.88
+Speed_Index_KMPD,101.203,259.053,157.85,-135.573,495.828,84,6.72

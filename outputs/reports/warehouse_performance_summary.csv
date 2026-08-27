@@ -1,0 +1,6 @@
+Warehouse_Code,Order_Count,Avg_Processing_Days,Avg_Delivery_Time_Days,Avg_Distance_KM,Avg_Shipping_Cost_USD,Delayed_Orders,Avg_Customer_Rating,Volume_Share_Pct,Delay_Rate_Pct
+WH-North,320,2.42,4.95,811.56,92.72,232,3.6,25.6,72.5
+WH-South,271,2.25,4.97,823.48,93.97,188,3.66,21.68,69.37
+WH-East,260,2.5,4.94,781.4,90.13,180,3.61,20.8,69.23
+WH-West,226,2.52,5.09,841.67,92.51,170,3.65,18.08,75.22
+WH-Central,173,2.49,5.13,855.77,88.62,127,3.61,13.84,73.41
